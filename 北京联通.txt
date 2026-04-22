@@ -1,3 +1,19 @@
+BRTV科教,http://ttkphotos.duckdns.org:8012/rtp/239.3.1.115:8000
+CCTV16 4K,http://ttkphotos.duckdns.org:8012/rtp/239.3.1.183:8001
+少儿,http://ttkphotos.duckdns.org:8012/rtp/239.3.1.238:8001
+淘电影,http://ttkphotos.duckdns.org:8012/rtp/239.3.1.250:8001
+北京4K,http://ttkphotos.duckdns.org:8012/rtp/239.3.1.249:8001
+房山电视台,http://ttkphotos.duckdns.org:8012/rtp/239.3.1.96:8001
+密云电视台,http://ttkphotos.duckdns.org:8012/rtp/239.3.1.154:8001
+爱上4K[超清],http://ttkphotos.duckdns.org:8012/rtp/239.3.1.236:2000
+BRTV新闻,http://ttkphotos.duckdns.org:8012/rtp/239.3.1.159:8000
+BRTV影视,http://ttkphotos.duckdns.org:8012/rtp/239.3.1.158:8000
+BRTV文艺,http://ttkphotos.duckdns.org:8012/rtp/239.3.1.242:8000
+BRTV财经,http://ttkphotos.duckdns.org:8012/rtp/239.3.1.116:8000
+BRTV生活,http://ttkphotos.duckdns.org:8012/rtp/239.3.1.117:8000
+BRTV青年,http://ttkphotos.duckdns.org:8012/rtp/239.3.1.118:8000
+
+
 BRTV科教,http://home.152824.xyz:64022/rtp/239.3.1.115:8000
 CCTV16 4K,http://home.152824.xyz:64022/rtp/239.3.1.183:8001
 少儿,http://home.152824.xyz:64022/rtp/239.3.1.238:8001
