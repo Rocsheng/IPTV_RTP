@@ -1,43 +1,43 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV1
+#EXTINF:-1 group-title="央视频道",CCTV-1
 http://9.lexlong.top:8001/rtp/233.50.201.118:5140
-#EXTINF:-1 group-title="央视频道",CCTV2
+#EXTINF:-1 group-title="央视频道",CCTV-2
 http://9.lexlong.top:8001/rtp/233.50.201.119:5140
-#EXTINF:-1 group-title="央视频道",CCTV3
+#EXTINF:-1 group-title="央视频道",CCTV-3
 http://9.lexlong.top:8001/rtp/233.50.201.196:5140
-#EXTINF:-1 group-title="央视频道",CCTV4
+#EXTINF:-1 group-title="央视频道",CCTV-4
 http://9.lexlong.top:8001/rtp/233.50.200.101:5140
-#EXTINF:-1 group-title="央视频道",CCTV5
+#EXTINF:-1 group-title="央视频道",CCTV-5
 http://9.lexlong.top:8001/rtp/233.50.201.197:5140
-#EXTINF:-1 group-title="央视频道",CCTV5+
+#EXTINF:-1 group-title="央视频道",CCTV-5+
 http://9.lexlong.top:8001/rtp/233.50.201.220:5140
-#EXTINF:-1 group-title="央视频道",CCTV6
+#EXTINF:-1 group-title="央视频道",CCTV-6
 http://9.lexlong.top:8001/rtp/233.50.201.198:5140
-#EXTINF:-1 group-title="央视频道",CCTV7
+#EXTINF:-1 group-title="央视频道",CCTV-7
 http://9.lexlong.top:8001/rtp/233.50.201.120:5140
-#EXTINF:-1 group-title="央视频道",CCTV8
+#EXTINF:-1 group-title="央视频道",CCTV-8
 http://9.lexlong.top:8001/rtp/233.50.201.199:5140
-#EXTINF:-1 group-title="央视频道",CCTV9
+#EXTINF:-1 group-title="央视频道",CCTV-9
 http://9.lexlong.top:8001/rtp/233.50.201.121:5140
-#EXTINF:-1 group-title="央视频道",CCTV10
+#EXTINF:-1 group-title="央视频道",CCTV-10
 http://9.lexlong.top:8001/rtp/233.50.201.122:5140
-#EXTINF:-1 group-title="央视频道",CCTV11
+#EXTINF:-1 group-title="央视频道",CCTV-11
 http://9.lexlong.top:8001/rtp/233.50.202.39:5140
-#EXTINF:-1 group-title="央视频道",CCTV12
+#EXTINF:-1 group-title="央视频道",CCTV-12
 http://9.lexlong.top:8001/rtp/233.50.201.123:5140
-#EXTINF:-1 group-title="央视频道",CCTV13
+#EXTINF:-1 group-title="央视频道",CCTV-13
 http://9.lexlong.top:8001/rtp/233.50.201.246:5140
-#EXTINF:-1 group-title="央视频道",CCTV14
+#EXTINF:-1 group-title="央视频道",CCTV-14
 http://9.lexlong.top:8001/rtp/233.50.201.124:5140
-#EXTINF:-1 group-title="央视频道",CCTV15
+#EXTINF:-1 group-title="央视频道",CCTV-15
 http://9.lexlong.top:8001/rtp/233.50.202.40:5140
-#EXTINF:-1 group-title="央视频道",CCTV164k
+#EXTINF:-1 group-title="央视频道",CCTV-164k
 http://9.lexlong.top:8001/rtp/233.50.201.63:5140
-#EXTINF:-1 group-title="央视频道",CCTV16
+#EXTINF:-1 group-title="央视频道",CCTV-16
 http://9.lexlong.top:8001/rtp/233.50.201.192:5140
-#EXTINF:-1 group-title="央视频道",CCTV17
+#EXTINF:-1 group-title="央视频道",CCTV-17
 http://9.lexlong.top:8001/rtp/233.50.200.113:5140
-#EXTINF:-1 group-title="国际频道",CGTN
+#EXTINF:-1 group-title="国际频道",CGTN-英语
 http://9.lexlong.top:8001/rtp/233.50.201.126:5140
 #EXTINF:-1 group-title="国际频道",CGTN-西班牙语
 http://9.lexlong.top:8001/rtp/233.50.201.36:5140
@@ -145,6 +145,20 @@ http://9.lexlong.top:8001/rtp/233.50.201.137:5140
 http://9.lexlong.top:8001/rtp/233.50.201.138:5140
 #EXTINF:-1 group-title="浙江频道",之江记录
 http://9.lexlong.top:8001/rtp/233.50.202.25:5140
+#EXTINF:-1 group-title="浙江频道",温州新闻
+http://9.lexlong.top:8001/rtp/233.50.201.87:5140
+#EXTINF:-1 group-title="浙江频道",金华新闻
+http://9.lexlong.top:8001/rtp/233.50.201.161:5140
+#EXTINF:-1 group-title="浙江频道",丽水新闻
+http://9.lexlong.top:8001/rtp/233.50.201.162:5140
+#EXTINF:-1 group-title="浙江频道",嘉兴新闻
+http://9.lexlong.top:8001/rtp/233.50.201.163:5140
+#EXTINF:-1 group-title="浙江频道",桐乡新闻
+http://9.lexlong.top:8001/rtp/233.50.201.169:5140
+#EXTINF:-1 group-title="浙江频道",绍兴新闻
+http://9.lexlong.top:8001/rtp/233.50.201.156:5140
+#EXTINF:-1 group-title="浙江频道",余杭新闻
+http://9.lexlong.top:8001/rtp/233.50.201.159:5140
 #EXTINF:-1 group-title="浙江频道",杭州1综合
 http://9.lexlong.top:8001/rtp/233.50.201.173:5140
 #EXTINF:-1 group-title="浙江频道",杭州2明珠
@@ -167,30 +181,16 @@ http://9.lexlong.top:8001/rtp/233.50.201.179:5140
 http://9.lexlong.top:8001/rtp/233.50.201.180:5140
 #EXTINF:-1 group-title="浙江频道",宁波TV5
 http://9.lexlong.top:8001/rtp/233.50.201.181:5140
-#EXTINF:-1 group-title="浙江频道",温州新闻
-http://9.lexlong.top:8001/rtp/233.50.201.87:5140
 #EXTINF:-1 group-title="浙江频道",衢州新闻
 http://9.lexlong.top:8001/rtp/233.50.201.155:5140
 #EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://9.lexlong.top:8001/rtp/233.50.202.11:5140
 #EXTINF:-1 group-title="浙江频道",衢州公共
 http://9.lexlong.top:8001/rtp/233.50.202.12:5140
-#EXTINF:-1 group-title="浙江频道",绍兴新闻
-http://9.lexlong.top:8001/rtp/233.50.201.156:5140
-#EXTINF:-1 group-title="浙江频道",台州-1
-http://9.lexlong.top:8001/rtp/233.50.201.157:5140
 #EXTINF:-1 group-title="浙江频道",湖州公共
 http://9.lexlong.top:8001/rtp/233.50.201.158:5140
-#EXTINF:-1 group-title="浙江频道",金华新闻
-http://9.lexlong.top:8001/rtp/233.50.201.161:5140
-#EXTINF:-1 group-title="浙江频道",丽水新闻
-http://9.lexlong.top:8001/rtp/233.50.201.162:5140
-#EXTINF:-1 group-title="浙江频道",嘉兴新闻
-http://9.lexlong.top:8001/rtp/233.50.201.163:5140
-#EXTINF:-1 group-title="浙江频道",桐乡新闻
-http://9.lexlong.top:8001/rtp/233.50.201.169:5140
-#EXTINF:-1 group-title="浙江频道",余杭新闻
-http://9.lexlong.top:8001/rtp/233.50.201.159:5140
+#EXTINF:-1 group-title="浙江频道",台州公共
+http://9.lexlong.top:8001/rtp/233.50.201.157:5140
 #EXTINF:-1 group-title="特色频道",新视觉HD
 http://9.lexlong.top:8001/rtp/233.50.201.244:5140
 #EXTINF:-1 group-title="特色频道",欢笑剧场
@@ -248,45 +248,45 @@ http://9.lexlong.top:8001/rtp/233.50.201.85:5140
 #EXTINF:-1 group-title="广播频道",民生资讯广播
 http://9.lexlong.top:8001/rtp/233.50.201.86:5140
 
-#EXTINF:-1 group-title="央视频道",CCTV1
+#EXTINF:-1 group-title="央视频道",CCTV-1
 http://slq888.cn:9999/rtp/233.50.201.118:5140
-#EXTINF:-1 group-title="央视频道",CCTV2
+#EXTINF:-1 group-title="央视频道",CCTV-2
 http://slq888.cn:9999/rtp/233.50.201.119:5140
-#EXTINF:-1 group-title="央视频道",CCTV3
+#EXTINF:-1 group-title="央视频道",CCTV-3
 http://slq888.cn:9999/rtp/233.50.201.196:5140
-#EXTINF:-1 group-title="央视频道",CCTV4
+#EXTINF:-1 group-title="央视频道",CCTV-4
 http://slq888.cn:9999/rtp/233.50.200.101:5140
-#EXTINF:-1 group-title="央视频道",CCTV5
+#EXTINF:-1 group-title="央视频道",CCTV-5
 http://slq888.cn:9999/rtp/233.50.201.197:5140
-#EXTINF:-1 group-title="央视频道",CCTV5+
+#EXTINF:-1 group-title="央视频道",CCTV-5+
 http://slq888.cn:9999/rtp/233.50.201.220:5140
-#EXTINF:-1 group-title="央视频道",CCTV6
+#EXTINF:-1 group-title="央视频道",CCTV-6
 http://slq888.cn:9999/rtp/233.50.201.198:5140
-#EXTINF:-1 group-title="央视频道",CCTV7
+#EXTINF:-1 group-title="央视频道",CCTV-7
 http://slq888.cn:9999/rtp/233.50.201.120:5140
-#EXTINF:-1 group-title="央视频道",CCTV8
+#EXTINF:-1 group-title="央视频道",CCTV-8
 http://slq888.cn:9999/rtp/233.50.201.199:5140
-#EXTINF:-1 group-title="央视频道",CCTV9
+#EXTINF:-1 group-title="央视频道",CCTV-9
 http://slq888.cn:9999/rtp/233.50.201.121:5140
-#EXTINF:-1 group-title="央视频道",CCTV10
+#EXTINF:-1 group-title="央视频道",CCTV-10
 http://slq888.cn:9999/rtp/233.50.201.122:5140
-#EXTINF:-1 group-title="央视频道",CCTV11
+#EXTINF:-1 group-title="央视频道",CCTV-11
 http://slq888.cn:9999/rtp/233.50.202.39:5140
-#EXTINF:-1 group-title="央视频道",CCTV12
+#EXTINF:-1 group-title="央视频道",CCTV-12
 http://slq888.cn:9999/rtp/233.50.201.123:5140
-#EXTINF:-1 group-title="央视频道",CCTV13
+#EXTINF:-1 group-title="央视频道",CCTV-13
 http://slq888.cn:9999/rtp/233.50.201.246:5140
-#EXTINF:-1 group-title="央视频道",CCTV14
+#EXTINF:-1 group-title="央视频道",CCTV-14
 http://slq888.cn:9999/rtp/233.50.201.124:5140
-#EXTINF:-1 group-title="央视频道",CCTV15
+#EXTINF:-1 group-title="央视频道",CCTV-15
 http://slq888.cn:9999/rtp/233.50.202.40:5140
-#EXTINF:-1 group-title="央视频道",CCTV164k
+#EXTINF:-1 group-title="央视频道",CCTV-164k
 http://slq888.cn:9999/rtp/233.50.201.63:5140
-#EXTINF:-1 group-title="央视频道",CCTV16
+#EXTINF:-1 group-title="央视频道",CCTV-16
 http://slq888.cn:9999/rtp/233.50.201.192:5140
-#EXTINF:-1 group-title="央视频道",CCTV17
+#EXTINF:-1 group-title="央视频道",CCTV-17
 http://slq888.cn:9999/rtp/233.50.200.113:5140
-#EXTINF:-1 group-title="国际频道",CGTN
+#EXTINF:-1 group-title="国际频道",CGTN-英语
 http://slq888.cn:9999/rtp/233.50.201.126:5140
 #EXTINF:-1 group-title="国际频道",CGTN-西班牙语
 http://slq888.cn:9999/rtp/233.50.201.36:5140
@@ -394,6 +394,20 @@ http://slq888.cn:9999/rtp/233.50.201.137:5140
 http://slq888.cn:9999/rtp/233.50.201.138:5140
 #EXTINF:-1 group-title="浙江频道",之江记录
 http://slq888.cn:9999/rtp/233.50.202.25:5140
+#EXTINF:-1 group-title="浙江频道",温州新闻
+http://slq888.cn:9999/rtp/233.50.201.87:5140
+#EXTINF:-1 group-title="浙江频道",金华新闻
+http://slq888.cn:9999/rtp/233.50.201.161:5140
+#EXTINF:-1 group-title="浙江频道",丽水新闻
+http://slq888.cn:9999/rtp/233.50.201.162:5140
+#EXTINF:-1 group-title="浙江频道",嘉兴新闻
+http://slq888.cn:9999/rtp/233.50.201.163:5140
+#EXTINF:-1 group-title="浙江频道",桐乡新闻
+http://slq888.cn:9999/rtp/233.50.201.169:5140
+#EXTINF:-1 group-title="浙江频道",绍兴新闻
+http://slq888.cn:9999/rtp/233.50.201.156:5140
+#EXTINF:-1 group-title="浙江频道",余杭新闻
+http://slq888.cn:9999/rtp/233.50.201.159:5140
 #EXTINF:-1 group-title="浙江频道",杭州1综合
 http://slq888.cn:9999/rtp/233.50.201.173:5140
 #EXTINF:-1 group-title="浙江频道",杭州2明珠
@@ -416,30 +430,16 @@ http://slq888.cn:9999/rtp/233.50.201.179:5140
 http://slq888.cn:9999/rtp/233.50.201.180:5140
 #EXTINF:-1 group-title="浙江频道",宁波TV5
 http://slq888.cn:9999/rtp/233.50.201.181:5140
-#EXTINF:-1 group-title="浙江频道",温州新闻
-http://slq888.cn:9999/rtp/233.50.201.87:5140
 #EXTINF:-1 group-title="浙江频道",衢州新闻
 http://slq888.cn:9999/rtp/233.50.201.155:5140
 #EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://slq888.cn:9999/rtp/233.50.202.11:5140
 #EXTINF:-1 group-title="浙江频道",衢州公共
 http://slq888.cn:9999/rtp/233.50.202.12:5140
-#EXTINF:-1 group-title="浙江频道",绍兴新闻
-http://slq888.cn:9999/rtp/233.50.201.156:5140
-#EXTINF:-1 group-title="浙江频道",台州-1
-http://slq888.cn:9999/rtp/233.50.201.157:5140
 #EXTINF:-1 group-title="浙江频道",湖州公共
 http://slq888.cn:9999/rtp/233.50.201.158:5140
-#EXTINF:-1 group-title="浙江频道",金华新闻
-http://slq888.cn:9999/rtp/233.50.201.161:5140
-#EXTINF:-1 group-title="浙江频道",丽水新闻
-http://slq888.cn:9999/rtp/233.50.201.162:5140
-#EXTINF:-1 group-title="浙江频道",嘉兴新闻
-http://slq888.cn:9999/rtp/233.50.201.163:5140
-#EXTINF:-1 group-title="浙江频道",桐乡新闻
-http://slq888.cn:9999/rtp/233.50.201.169:5140
-#EXTINF:-1 group-title="浙江频道",余杭新闻
-http://slq888.cn:9999/rtp/233.50.201.159:5140
+#EXTINF:-1 group-title="浙江频道",台州公共
+http://slq888.cn:9999/rtp/233.50.201.157:5140
 #EXTINF:-1 group-title="特色频道",新视觉HD
 http://slq888.cn:9999/rtp/233.50.201.244:5140
 #EXTINF:-1 group-title="特色频道",欢笑剧场
