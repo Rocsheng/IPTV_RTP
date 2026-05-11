@@ -1,0 +1,1711 @@
+#EXTM3U
+#EXTINF:-1 group-title="未分类",CCTV1
+http://www.lb5221111.asia:2222/rtp/239.94.0.1:5140
+#EXTINF:-1 group-title="未分类",CCTV2
+http://www.lb5221111.asia:2222/rtp/239.94.0.2:5140
+#EXTINF:-1 group-title="未分类",CCTV3
+http://www.lb5221111.asia:2222/rtp/239.94.0.3:5140
+#EXTINF:-1 group-title="未分类",CCTV4
+http://www.lb5221111.asia:2222/rtp/239.94.0.4:5140
+#EXTINF:-1 group-title="未分类",CCTV6
+http://www.lb5221111.asia:2222/rtp/239.94.0.6:5140
+#EXTINF:-1 group-title="未分类",CCTV7
+http://www.lb5221111.asia:2222/rtp/239.94.0.7:5140
+#EXTINF:-1 group-title="未分类",CCTV8
+http://www.lb5221111.asia:2222/rtp/239.94.0.8:5140
+#EXTINF:-1 group-title="未分类",CCTV9
+http://www.lb5221111.asia:2222/rtp/239.94.0.9:5140
+#EXTINF:-1 group-title="未分类",CCTV10
+http://www.lb5221111.asia:2222/rtp/239.94.0.10:5140
+#EXTINF:-1 group-title="未分类",CCTV11
+http://www.lb5221111.asia:2222/rtp/239.94.0.11:5140
+#EXTINF:-1 group-title="未分类",CCTV12
+http://www.lb5221111.asia:2222/rtp/239.94.0.12:5140
+#EXTINF:-1 group-title="未分类",CCTV13
+http://www.lb5221111.asia:2222/rtp/239.94.0.13:5140
+#EXTINF:-1 group-title="未分类",CCTV14
+http://www.lb5221111.asia:2222/rtp/239.94.0.14:5140
+#EXTINF:-1 group-title="未分类",CCTV1
+http://www.lb5221111.asia:2222/rtp/239.94.0.31:5140
+#EXTINF:-1 group-title="未分类",湖南卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.61:5140
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.62:5140
+#EXTINF:-1 group-title="未分类",浙江卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.63:5140
+#EXTINF:-1 group-title="未分类",东方卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.64:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://www.lb5221111.asia:2222/rtp/239.94.0.65:5140
+#EXTINF:-1 group-title="未分类",深圳卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.66:5140
+#EXTINF:-1 group-title="未分类",广东卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.67:5140
+#EXTINF:-1 group-title="未分类",天津卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.68:5140
+#EXTINF:-1 group-title="未分类",山东卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.69:5140
+#EXTINF:-1 group-title="未分类",经济
+http://www.lb5221111.asia:2222/rtp/239.94.0.70:5140
+#EXTINF:-1 group-title="未分类",文化旅游
+http://www.lb5221111.asia:2222/rtp/239.94.0.71:5140
+#EXTINF:-1 group-title="未分类",新闻
+http://www.lb5221111.asia:2222/rtp/239.94.0.72:5140
+#EXTINF:-1 group-title="未分类",影视文艺
+http://www.lb5221111.asia:2222/rtp/239.94.0.73:5140
+#EXTINF:-1 group-title="未分类",星空购物
+http://www.lb5221111.asia:2222/rtp/239.94.0.74:5140
+#EXTINF:-1 group-title="未分类",SCTV7
+http://www.lb5221111.asia:2222/rtp/239.94.0.75:5140
+#EXTINF:-1 group-title="未分类",科教
+http://www.lb5221111.asia:2222/rtp/239.94.0.76:5140
+#EXTINF:-1 group-title="未分类",四川乡村
+http://www.lb5221111.asia:2222/rtp/239.94.0.77:5140
+#EXTINF:-1 group-title="未分类",康巴卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.78:5140
+#EXTINF:-1 group-title="未分类",江西卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.79:5140
+#EXTINF:-1 group-title="未分类",东南卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.80:5140
+#EXTINF:-1 group-title="未分类",黑龙江卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.81:5140
+#EXTINF:-1 group-title="未分类",重庆卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.82:5140
+#EXTINF:-1 group-title="未分类",贵州卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.83:5140
+#EXTINF:-1 group-title="未分类",湖北卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.84:5140
+#EXTINF:-1 group-title="未分类",安徽卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.85:5140
+#EXTINF:-1 group-title="未分类",河北卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.86:5140
+#EXTINF:-1 group-title="未分类",中国交通
+http://www.lb5221111.asia:2222/rtp/239.94.0.87:5140
+#EXTINF:-1 group-title="未分类",河南卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.88:5140
+#EXTINF:-1 group-title="未分类",广西卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.89:5140
+#EXTINF:-1 group-title="未分类",云南卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.90:5140
+#EXTINF:-1 group-title="未分类",吉林卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.91:5140
+#EXTINF:-1 group-title="未分类",陕西卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.92:5140
+#EXTINF:-1 group-title="未分类",山西卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.93:5140
+#EXTINF:-1 group-title="未分类",INNTV
+http://www.lb5221111.asia:2222/rtp/239.94.0.94:5140
+#EXTINF:-1 group-title="未分类",青海卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.95:5140
+#EXTINF:-1 group-title="未分类",宁夏
+http://www.lb5221111.asia:2222/rtp/239.94.0.96:5140
+#EXTINF:-1 group-title="未分类",XZTV
+http://www.lb5221111.asia:2222/rtp/239.94.0.97:5140
+#EXTINF:-1 group-title="未分类",新疆卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.98:5140
+#EXTINF:-1 group-title="未分类",甘肃卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.99:5140
+#EXTINF:-1 group-title="未分类",海南卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.100:5140
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.101:5140
+#EXTINF:-1 group-title="未分类",兵团卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.102:5140
+#EXTINF:-1 group-title="未分类",峨眉电影
+http://www.lb5221111.asia:2222/rtp/239.94.0.103:5140
+#EXTINF:-1 group-title="未分类",XAMENSIAR
+http://www.lb5221111.asia:2222/rtp/239.94.0.104:5140
+#EXTINF:-1 group-title="未分类",三沙卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.105:5140
+#EXTINF:-1 group-title="未分类",父
+http://www.lb5221111.asia:2222/rtp/239.94.0.106:5140
+#EXTINF:-1 group-title="未分类",抢购
+http://www.lb5221111.asia:2222/rtp/239.94.0.107:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://www.lb5221111.asia:2222/rtp/239.94.0.109:5140
+#EXTINF:-1 group-title="未分类",安多卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.110:5140
+#EXTINF:-1 group-title="未分类",四川卫视
+http://www.lb5221111.asia:2222/rtp/239.94.0.115:5140
+#EXTINF:-1 group-title="未分类",CDTV1
+http://www.lb5221111.asia:2222/rtp/239.94.0.154:5140
+#EXTINF:-1 group-title="未分类",CDTV2
+http://www.lb5221111.asia:2222/rtp/239.94.0.155:5140
+#EXTINF:-1 group-title="未分类",CDTV3
+http://www.lb5221111.asia:2222/rtp/239.94.0.156:5140
+#EXTINF:-1 group-title="未分类",CDT4
+http://www.lb5221111.asia:2222/rtp/239.94.0.157:5140
+#EXTINF:-1 group-title="未分类",CDTV5
+http://www.lb5221111.asia:2222/rtp/239.94.0.158:5140
+#EXTINF:-1 group-title="未分类",CDTV6
+http://www.lb5221111.asia:2222/rtp/239.94.0.159:5140
+#EXTINF:-1 group-title="未分类",CDTVE
+http://www.lb5221111.asia:2222/rtp/239.94.0.160:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.lb5221111.asia:2222/rtp/239.94.0.161:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.lb5221111.asia:2222/rtp/239.94.0.162:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.lb5221111.asia:2222/rtp/239.94.0.163:5140
+#EXTINF:-1 group-title="未分类",内江综合
+http://www.lb5221111.asia:2222/rtp/239.94.0.164:5140
+#EXTINF:-1 group-title="未分类",德阳文旅科教
+http://www.lb5221111.asia:2222/rtp/239.94.0.165:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.lb5221111.asia:2222/rtp/239.94.0.166:5140
+#EXTINF:-1 group-title="未分类",综合
+http://www.lb5221111.asia:2222/rtp/239.94.0.167:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.lb5221111.asia:2222/rtp/239.94.0.168:5140
+#EXTINF:-1 group-title="未分类",综合
+http://www.lb5221111.asia:2222/rtp/239.94.0.169:5140
+#EXTINF:-1 group-title="未分类",眉山综合
+http://www.lb5221111.asia:2222/rtp/239.94.0.170:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.lb5221111.asia:2222/rtp/239.94.0.171:5140
+#EXTINF:-1 group-title="未分类",公共
+http://www.lb5221111.asia:2222/rtp/239.94.0.172:5140
+#EXTINF:-1 group-title="未分类",文旅生活
+http://www.lb5221111.asia:2222/rtp/239.94.0.173:5140
+#EXTINF:-1 group-title="未分类",文旅乡村
+http://www.lb5221111.asia:2222/rtp/239.94.0.174:5140
+
+#EXTINF:-1 group-title="未分类",CCTV1
+http://28181.032000.xyz:8848/rtp/239.94.0.1:5140
+#EXTINF:-1 group-title="未分类",CCTV2
+http://28181.032000.xyz:8848/rtp/239.94.0.2:5140
+#EXTINF:-1 group-title="未分类",CCTV3
+http://28181.032000.xyz:8848/rtp/239.94.0.3:5140
+#EXTINF:-1 group-title="未分类",CCTV4
+http://28181.032000.xyz:8848/rtp/239.94.0.4:5140
+#EXTINF:-1 group-title="未分类",CCTV6
+http://28181.032000.xyz:8848/rtp/239.94.0.6:5140
+#EXTINF:-1 group-title="未分类",CCTV7
+http://28181.032000.xyz:8848/rtp/239.94.0.7:5140
+#EXTINF:-1 group-title="未分类",CCTV8
+http://28181.032000.xyz:8848/rtp/239.94.0.8:5140
+#EXTINF:-1 group-title="未分类",CCTV9
+http://28181.032000.xyz:8848/rtp/239.94.0.9:5140
+#EXTINF:-1 group-title="未分类",CCTV10
+http://28181.032000.xyz:8848/rtp/239.94.0.10:5140
+#EXTINF:-1 group-title="未分类",CCTV11
+http://28181.032000.xyz:8848/rtp/239.94.0.11:5140
+#EXTINF:-1 group-title="未分类",CCTV12
+http://28181.032000.xyz:8848/rtp/239.94.0.12:5140
+#EXTINF:-1 group-title="未分类",CCTV13
+http://28181.032000.xyz:8848/rtp/239.94.0.13:5140
+#EXTINF:-1 group-title="未分类",CCTV14
+http://28181.032000.xyz:8848/rtp/239.94.0.14:5140
+#EXTINF:-1 group-title="未分类",CCTV1
+http://28181.032000.xyz:8848/rtp/239.94.0.31:5140
+#EXTINF:-1 group-title="未分类",湖南卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.61:5140
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.62:5140
+#EXTINF:-1 group-title="未分类",浙江卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.63:5140
+#EXTINF:-1 group-title="未分类",东方卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.64:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://28181.032000.xyz:8848/rtp/239.94.0.65:5140
+#EXTINF:-1 group-title="未分类",深圳卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.66:5140
+#EXTINF:-1 group-title="未分类",广东卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.67:5140
+#EXTINF:-1 group-title="未分类",天津卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.68:5140
+#EXTINF:-1 group-title="未分类",山东卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.69:5140
+#EXTINF:-1 group-title="未分类",经济
+http://28181.032000.xyz:8848/rtp/239.94.0.70:5140
+#EXTINF:-1 group-title="未分类",文化旅游
+http://28181.032000.xyz:8848/rtp/239.94.0.71:5140
+#EXTINF:-1 group-title="未分类",新闻
+http://28181.032000.xyz:8848/rtp/239.94.0.72:5140
+#EXTINF:-1 group-title="未分类",影视文艺
+http://28181.032000.xyz:8848/rtp/239.94.0.73:5140
+#EXTINF:-1 group-title="未分类",星空购物
+http://28181.032000.xyz:8848/rtp/239.94.0.74:5140
+#EXTINF:-1 group-title="未分类",SCTV7
+http://28181.032000.xyz:8848/rtp/239.94.0.75:5140
+#EXTINF:-1 group-title="未分类",科教
+http://28181.032000.xyz:8848/rtp/239.94.0.76:5140
+#EXTINF:-1 group-title="未分类",四川乡村
+http://28181.032000.xyz:8848/rtp/239.94.0.77:5140
+#EXTINF:-1 group-title="未分类",康巴卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.78:5140
+#EXTINF:-1 group-title="未分类",江西卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.79:5140
+#EXTINF:-1 group-title="未分类",东南卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.80:5140
+#EXTINF:-1 group-title="未分类",黑龙江卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.81:5140
+#EXTINF:-1 group-title="未分类",重庆卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.82:5140
+#EXTINF:-1 group-title="未分类",贵州卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.83:5140
+#EXTINF:-1 group-title="未分类",湖北卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.84:5140
+#EXTINF:-1 group-title="未分类",安徽卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.85:5140
+#EXTINF:-1 group-title="未分类",河北卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.86:5140
+#EXTINF:-1 group-title="未分类",中国交通
+http://28181.032000.xyz:8848/rtp/239.94.0.87:5140
+#EXTINF:-1 group-title="未分类",河南卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.88:5140
+#EXTINF:-1 group-title="未分类",广西卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.89:5140
+#EXTINF:-1 group-title="未分类",云南卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.90:5140
+#EXTINF:-1 group-title="未分类",吉林卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.91:5140
+#EXTINF:-1 group-title="未分类",陕西卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.92:5140
+#EXTINF:-1 group-title="未分类",山西卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.93:5140
+#EXTINF:-1 group-title="未分类",INNTV
+http://28181.032000.xyz:8848/rtp/239.94.0.94:5140
+#EXTINF:-1 group-title="未分类",青海卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.95:5140
+#EXTINF:-1 group-title="未分类",宁夏
+http://28181.032000.xyz:8848/rtp/239.94.0.96:5140
+#EXTINF:-1 group-title="未分类",XZTV
+http://28181.032000.xyz:8848/rtp/239.94.0.97:5140
+#EXTINF:-1 group-title="未分类",新疆卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.98:5140
+#EXTINF:-1 group-title="未分类",甘肃卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.99:5140
+#EXTINF:-1 group-title="未分类",海南卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.100:5140
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.101:5140
+#EXTINF:-1 group-title="未分类",兵团卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.102:5140
+#EXTINF:-1 group-title="未分类",峨眉电影
+http://28181.032000.xyz:8848/rtp/239.94.0.103:5140
+#EXTINF:-1 group-title="未分类",XAMENSIAR
+http://28181.032000.xyz:8848/rtp/239.94.0.104:5140
+#EXTINF:-1 group-title="未分类",三沙卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.105:5140
+#EXTINF:-1 group-title="未分类",父
+http://28181.032000.xyz:8848/rtp/239.94.0.106:5140
+#EXTINF:-1 group-title="未分类",抢购
+http://28181.032000.xyz:8848/rtp/239.94.0.107:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://28181.032000.xyz:8848/rtp/239.94.0.109:5140
+#EXTINF:-1 group-title="未分类",安多卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.110:5140
+#EXTINF:-1 group-title="未分类",四川卫视
+http://28181.032000.xyz:8848/rtp/239.94.0.115:5140
+#EXTINF:-1 group-title="未分类",CDTV1
+http://28181.032000.xyz:8848/rtp/239.94.0.154:5140
+#EXTINF:-1 group-title="未分类",CDTV2
+http://28181.032000.xyz:8848/rtp/239.94.0.155:5140
+#EXTINF:-1 group-title="未分类",CDTV3
+http://28181.032000.xyz:8848/rtp/239.94.0.156:5140
+#EXTINF:-1 group-title="未分类",CDT4
+http://28181.032000.xyz:8848/rtp/239.94.0.157:5140
+#EXTINF:-1 group-title="未分类",CDTV5
+http://28181.032000.xyz:8848/rtp/239.94.0.158:5140
+#EXTINF:-1 group-title="未分类",CDTV6
+http://28181.032000.xyz:8848/rtp/239.94.0.159:5140
+#EXTINF:-1 group-title="未分类",CDTVE
+http://28181.032000.xyz:8848/rtp/239.94.0.160:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://28181.032000.xyz:8848/rtp/239.94.0.161:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://28181.032000.xyz:8848/rtp/239.94.0.162:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://28181.032000.xyz:8848/rtp/239.94.0.163:5140
+#EXTINF:-1 group-title="未分类",内江综合
+http://28181.032000.xyz:8848/rtp/239.94.0.164:5140
+#EXTINF:-1 group-title="未分类",德阳文旅科教
+http://28181.032000.xyz:8848/rtp/239.94.0.165:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://28181.032000.xyz:8848/rtp/239.94.0.166:5140
+#EXTINF:-1 group-title="未分类",综合
+http://28181.032000.xyz:8848/rtp/239.94.0.167:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://28181.032000.xyz:8848/rtp/239.94.0.168:5140
+#EXTINF:-1 group-title="未分类",综合
+http://28181.032000.xyz:8848/rtp/239.94.0.169:5140
+#EXTINF:-1 group-title="未分类",眉山综合
+http://28181.032000.xyz:8848/rtp/239.94.0.170:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://28181.032000.xyz:8848/rtp/239.94.0.171:5140
+#EXTINF:-1 group-title="未分类",公共
+http://28181.032000.xyz:8848/rtp/239.94.0.172:5140
+#EXTINF:-1 group-title="未分类",文旅生活
+http://28181.032000.xyz:8848/rtp/239.94.0.173:5140
+#EXTINF:-1 group-title="未分类",文旅乡村
+http://28181.032000.xyz:8848/rtp/239.94.0.174:5140
+
+#EXTINF:-1 group-title="未分类",CCTV1
+http://www.zhms.tk:5050/rtp/239.94.0.1:5140
+#EXTINF:-1 group-title="未分类",CCTV2
+http://www.zhms.tk:5050/rtp/239.94.0.2:5140
+#EXTINF:-1 group-title="未分类",CCTV3
+http://www.zhms.tk:5050/rtp/239.94.0.3:5140
+#EXTINF:-1 group-title="未分类",CCTV4
+http://www.zhms.tk:5050/rtp/239.94.0.4:5140
+#EXTINF:-1 group-title="未分类",CCTV6
+http://www.zhms.tk:5050/rtp/239.94.0.6:5140
+#EXTINF:-1 group-title="未分类",CCTV7
+http://www.zhms.tk:5050/rtp/239.94.0.7:5140
+#EXTINF:-1 group-title="未分类",CCTV8
+http://www.zhms.tk:5050/rtp/239.94.0.8:5140
+#EXTINF:-1 group-title="未分类",CCTV9
+http://www.zhms.tk:5050/rtp/239.94.0.9:5140
+#EXTINF:-1 group-title="未分类",CCTV10
+http://www.zhms.tk:5050/rtp/239.94.0.10:5140
+#EXTINF:-1 group-title="未分类",CCTV11
+http://www.zhms.tk:5050/rtp/239.94.0.11:5140
+#EXTINF:-1 group-title="未分类",CCTV12
+http://www.zhms.tk:5050/rtp/239.94.0.12:5140
+#EXTINF:-1 group-title="未分类",CCTV13
+http://www.zhms.tk:5050/rtp/239.94.0.13:5140
+#EXTINF:-1 group-title="未分类",CCTV14
+http://www.zhms.tk:5050/rtp/239.94.0.14:5140
+#EXTINF:-1 group-title="未分类",CCTV1
+http://www.zhms.tk:5050/rtp/239.94.0.31:5140
+#EXTINF:-1 group-title="未分类",湖南卫视
+http://www.zhms.tk:5050/rtp/239.94.0.61:5140
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://www.zhms.tk:5050/rtp/239.94.0.62:5140
+#EXTINF:-1 group-title="未分类",浙江卫视
+http://www.zhms.tk:5050/rtp/239.94.0.63:5140
+#EXTINF:-1 group-title="未分类",东方卫视
+http://www.zhms.tk:5050/rtp/239.94.0.64:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://www.zhms.tk:5050/rtp/239.94.0.65:5140
+#EXTINF:-1 group-title="未分类",深圳卫视
+http://www.zhms.tk:5050/rtp/239.94.0.66:5140
+#EXTINF:-1 group-title="未分类",广东卫视
+http://www.zhms.tk:5050/rtp/239.94.0.67:5140
+#EXTINF:-1 group-title="未分类",天津卫视
+http://www.zhms.tk:5050/rtp/239.94.0.68:5140
+#EXTINF:-1 group-title="未分类",山东卫视
+http://www.zhms.tk:5050/rtp/239.94.0.69:5140
+#EXTINF:-1 group-title="未分类",经济
+http://www.zhms.tk:5050/rtp/239.94.0.70:5140
+#EXTINF:-1 group-title="未分类",文化旅游
+http://www.zhms.tk:5050/rtp/239.94.0.71:5140
+#EXTINF:-1 group-title="未分类",新闻
+http://www.zhms.tk:5050/rtp/239.94.0.72:5140
+#EXTINF:-1 group-title="未分类",影视文艺
+http://www.zhms.tk:5050/rtp/239.94.0.73:5140
+#EXTINF:-1 group-title="未分类",星空购物
+http://www.zhms.tk:5050/rtp/239.94.0.74:5140
+#EXTINF:-1 group-title="未分类",SCTV7
+http://www.zhms.tk:5050/rtp/239.94.0.75:5140
+#EXTINF:-1 group-title="未分类",科教
+http://www.zhms.tk:5050/rtp/239.94.0.76:5140
+#EXTINF:-1 group-title="未分类",四川乡村
+http://www.zhms.tk:5050/rtp/239.94.0.77:5140
+#EXTINF:-1 group-title="未分类",康巴卫视
+http://www.zhms.tk:5050/rtp/239.94.0.78:5140
+#EXTINF:-1 group-title="未分类",江西卫视
+http://www.zhms.tk:5050/rtp/239.94.0.79:5140
+#EXTINF:-1 group-title="未分类",东南卫视
+http://www.zhms.tk:5050/rtp/239.94.0.80:5140
+#EXTINF:-1 group-title="未分类",黑龙江卫视
+http://www.zhms.tk:5050/rtp/239.94.0.81:5140
+#EXTINF:-1 group-title="未分类",重庆卫视
+http://www.zhms.tk:5050/rtp/239.94.0.82:5140
+#EXTINF:-1 group-title="未分类",贵州卫视
+http://www.zhms.tk:5050/rtp/239.94.0.83:5140
+#EXTINF:-1 group-title="未分类",湖北卫视
+http://www.zhms.tk:5050/rtp/239.94.0.84:5140
+#EXTINF:-1 group-title="未分类",安徽卫视
+http://www.zhms.tk:5050/rtp/239.94.0.85:5140
+#EXTINF:-1 group-title="未分类",河北卫视
+http://www.zhms.tk:5050/rtp/239.94.0.86:5140
+#EXTINF:-1 group-title="未分类",中国交通
+http://www.zhms.tk:5050/rtp/239.94.0.87:5140
+#EXTINF:-1 group-title="未分类",河南卫视
+http://www.zhms.tk:5050/rtp/239.94.0.88:5140
+#EXTINF:-1 group-title="未分类",广西卫视
+http://www.zhms.tk:5050/rtp/239.94.0.89:5140
+#EXTINF:-1 group-title="未分类",云南卫视
+http://www.zhms.tk:5050/rtp/239.94.0.90:5140
+#EXTINF:-1 group-title="未分类",吉林卫视
+http://www.zhms.tk:5050/rtp/239.94.0.91:5140
+#EXTINF:-1 group-title="未分类",陕西卫视
+http://www.zhms.tk:5050/rtp/239.94.0.92:5140
+#EXTINF:-1 group-title="未分类",山西卫视
+http://www.zhms.tk:5050/rtp/239.94.0.93:5140
+#EXTINF:-1 group-title="未分类",INNTV
+http://www.zhms.tk:5050/rtp/239.94.0.94:5140
+#EXTINF:-1 group-title="未分类",青海卫视
+http://www.zhms.tk:5050/rtp/239.94.0.95:5140
+#EXTINF:-1 group-title="未分类",宁夏
+http://www.zhms.tk:5050/rtp/239.94.0.96:5140
+#EXTINF:-1 group-title="未分类",XZTV
+http://www.zhms.tk:5050/rtp/239.94.0.97:5140
+#EXTINF:-1 group-title="未分类",新疆卫视
+http://www.zhms.tk:5050/rtp/239.94.0.98:5140
+#EXTINF:-1 group-title="未分类",甘肃卫视
+http://www.zhms.tk:5050/rtp/239.94.0.99:5140
+#EXTINF:-1 group-title="未分类",海南卫视
+http://www.zhms.tk:5050/rtp/239.94.0.100:5140
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://www.zhms.tk:5050/rtp/239.94.0.101:5140
+#EXTINF:-1 group-title="未分类",兵团卫视
+http://www.zhms.tk:5050/rtp/239.94.0.102:5140
+#EXTINF:-1 group-title="未分类",峨眉电影
+http://www.zhms.tk:5050/rtp/239.94.0.103:5140
+#EXTINF:-1 group-title="未分类",XAMENSIAR
+http://www.zhms.tk:5050/rtp/239.94.0.104:5140
+#EXTINF:-1 group-title="未分类",三沙卫视
+http://www.zhms.tk:5050/rtp/239.94.0.105:5140
+#EXTINF:-1 group-title="未分类",父
+http://www.zhms.tk:5050/rtp/239.94.0.106:5140
+#EXTINF:-1 group-title="未分类",抢购
+http://www.zhms.tk:5050/rtp/239.94.0.107:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://www.zhms.tk:5050/rtp/239.94.0.109:5140
+#EXTINF:-1 group-title="未分类",安多卫视
+http://www.zhms.tk:5050/rtp/239.94.0.110:5140
+#EXTINF:-1 group-title="未分类",四川卫视
+http://www.zhms.tk:5050/rtp/239.94.0.115:5140
+#EXTINF:-1 group-title="未分类",CDTV1
+http://www.zhms.tk:5050/rtp/239.94.0.154:5140
+#EXTINF:-1 group-title="未分类",CDTV2
+http://www.zhms.tk:5050/rtp/239.94.0.155:5140
+#EXTINF:-1 group-title="未分类",CDTV3
+http://www.zhms.tk:5050/rtp/239.94.0.156:5140
+#EXTINF:-1 group-title="未分类",CDT4
+http://www.zhms.tk:5050/rtp/239.94.0.157:5140
+#EXTINF:-1 group-title="未分类",CDTV5
+http://www.zhms.tk:5050/rtp/239.94.0.158:5140
+#EXTINF:-1 group-title="未分类",CDTV6
+http://www.zhms.tk:5050/rtp/239.94.0.159:5140
+#EXTINF:-1 group-title="未分类",CDTVE
+http://www.zhms.tk:5050/rtp/239.94.0.160:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.zhms.tk:5050/rtp/239.94.0.161:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.zhms.tk:5050/rtp/239.94.0.162:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.zhms.tk:5050/rtp/239.94.0.163:5140
+#EXTINF:-1 group-title="未分类",内江综合
+http://www.zhms.tk:5050/rtp/239.94.0.164:5140
+#EXTINF:-1 group-title="未分类",德阳文旅科教
+http://www.zhms.tk:5050/rtp/239.94.0.165:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.zhms.tk:5050/rtp/239.94.0.166:5140
+#EXTINF:-1 group-title="未分类",综合
+http://www.zhms.tk:5050/rtp/239.94.0.167:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.zhms.tk:5050/rtp/239.94.0.168:5140
+#EXTINF:-1 group-title="未分类",综合
+http://www.zhms.tk:5050/rtp/239.94.0.169:5140
+#EXTINF:-1 group-title="未分类",眉山综合
+http://www.zhms.tk:5050/rtp/239.94.0.170:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.zhms.tk:5050/rtp/239.94.0.171:5140
+#EXTINF:-1 group-title="未分类",公共
+http://www.zhms.tk:5050/rtp/239.94.0.172:5140
+#EXTINF:-1 group-title="未分类",文旅生活
+http://www.zhms.tk:5050/rtp/239.94.0.173:5140
+#EXTINF:-1 group-title="未分类",文旅乡村
+http://www.zhms.tk:5050/rtp/239.94.0.174:5140
+
+#EXTINF:-1 group-title="未分类",CCTV1
+http://www.510100.xyz:5050/rtp/239.94.0.1:5140
+#EXTINF:-1 group-title="未分类",CCTV2
+http://www.510100.xyz:5050/rtp/239.94.0.2:5140
+#EXTINF:-1 group-title="未分类",CCTV3
+http://www.510100.xyz:5050/rtp/239.94.0.3:5140
+#EXTINF:-1 group-title="未分类",CCTV4
+http://www.510100.xyz:5050/rtp/239.94.0.4:5140
+#EXTINF:-1 group-title="未分类",CCTV6
+http://www.510100.xyz:5050/rtp/239.94.0.6:5140
+#EXTINF:-1 group-title="未分类",CCTV7
+http://www.510100.xyz:5050/rtp/239.94.0.7:5140
+#EXTINF:-1 group-title="未分类",CCTV8
+http://www.510100.xyz:5050/rtp/239.94.0.8:5140
+#EXTINF:-1 group-title="未分类",CCTV9
+http://www.510100.xyz:5050/rtp/239.94.0.9:5140
+#EXTINF:-1 group-title="未分类",CCTV10
+http://www.510100.xyz:5050/rtp/239.94.0.10:5140
+#EXTINF:-1 group-title="未分类",CCTV11
+http://www.510100.xyz:5050/rtp/239.94.0.11:5140
+#EXTINF:-1 group-title="未分类",CCTV12
+http://www.510100.xyz:5050/rtp/239.94.0.12:5140
+#EXTINF:-1 group-title="未分类",CCTV13
+http://www.510100.xyz:5050/rtp/239.94.0.13:5140
+#EXTINF:-1 group-title="未分类",CCTV14
+http://www.510100.xyz:5050/rtp/239.94.0.14:5140
+#EXTINF:-1 group-title="未分类",CCTV1
+http://www.510100.xyz:5050/rtp/239.94.0.31:5140
+#EXTINF:-1 group-title="未分类",湖南卫视
+http://www.510100.xyz:5050/rtp/239.94.0.61:5140
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://www.510100.xyz:5050/rtp/239.94.0.62:5140
+#EXTINF:-1 group-title="未分类",浙江卫视
+http://www.510100.xyz:5050/rtp/239.94.0.63:5140
+#EXTINF:-1 group-title="未分类",东方卫视
+http://www.510100.xyz:5050/rtp/239.94.0.64:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://www.510100.xyz:5050/rtp/239.94.0.65:5140
+#EXTINF:-1 group-title="未分类",深圳卫视
+http://www.510100.xyz:5050/rtp/239.94.0.66:5140
+#EXTINF:-1 group-title="未分类",广东卫视
+http://www.510100.xyz:5050/rtp/239.94.0.67:5140
+#EXTINF:-1 group-title="未分类",天津卫视
+http://www.510100.xyz:5050/rtp/239.94.0.68:5140
+#EXTINF:-1 group-title="未分类",山东卫视
+http://www.510100.xyz:5050/rtp/239.94.0.69:5140
+#EXTINF:-1 group-title="未分类",经济
+http://www.510100.xyz:5050/rtp/239.94.0.70:5140
+#EXTINF:-1 group-title="未分类",文化旅游
+http://www.510100.xyz:5050/rtp/239.94.0.71:5140
+#EXTINF:-1 group-title="未分类",新闻
+http://www.510100.xyz:5050/rtp/239.94.0.72:5140
+#EXTINF:-1 group-title="未分类",影视文艺
+http://www.510100.xyz:5050/rtp/239.94.0.73:5140
+#EXTINF:-1 group-title="未分类",星空购物
+http://www.510100.xyz:5050/rtp/239.94.0.74:5140
+#EXTINF:-1 group-title="未分类",SCTV7
+http://www.510100.xyz:5050/rtp/239.94.0.75:5140
+#EXTINF:-1 group-title="未分类",科教
+http://www.510100.xyz:5050/rtp/239.94.0.76:5140
+#EXTINF:-1 group-title="未分类",四川乡村
+http://www.510100.xyz:5050/rtp/239.94.0.77:5140
+#EXTINF:-1 group-title="未分类",康巴卫视
+http://www.510100.xyz:5050/rtp/239.94.0.78:5140
+#EXTINF:-1 group-title="未分类",江西卫视
+http://www.510100.xyz:5050/rtp/239.94.0.79:5140
+#EXTINF:-1 group-title="未分类",东南卫视
+http://www.510100.xyz:5050/rtp/239.94.0.80:5140
+#EXTINF:-1 group-title="未分类",黑龙江卫视
+http://www.510100.xyz:5050/rtp/239.94.0.81:5140
+#EXTINF:-1 group-title="未分类",重庆卫视
+http://www.510100.xyz:5050/rtp/239.94.0.82:5140
+#EXTINF:-1 group-title="未分类",贵州卫视
+http://www.510100.xyz:5050/rtp/239.94.0.83:5140
+#EXTINF:-1 group-title="未分类",湖北卫视
+http://www.510100.xyz:5050/rtp/239.94.0.84:5140
+#EXTINF:-1 group-title="未分类",安徽卫视
+http://www.510100.xyz:5050/rtp/239.94.0.85:5140
+#EXTINF:-1 group-title="未分类",河北卫视
+http://www.510100.xyz:5050/rtp/239.94.0.86:5140
+#EXTINF:-1 group-title="未分类",中国交通
+http://www.510100.xyz:5050/rtp/239.94.0.87:5140
+#EXTINF:-1 group-title="未分类",河南卫视
+http://www.510100.xyz:5050/rtp/239.94.0.88:5140
+#EXTINF:-1 group-title="未分类",广西卫视
+http://www.510100.xyz:5050/rtp/239.94.0.89:5140
+#EXTINF:-1 group-title="未分类",云南卫视
+http://www.510100.xyz:5050/rtp/239.94.0.90:5140
+#EXTINF:-1 group-title="未分类",吉林卫视
+http://www.510100.xyz:5050/rtp/239.94.0.91:5140
+#EXTINF:-1 group-title="未分类",陕西卫视
+http://www.510100.xyz:5050/rtp/239.94.0.92:5140
+#EXTINF:-1 group-title="未分类",山西卫视
+http://www.510100.xyz:5050/rtp/239.94.0.93:5140
+#EXTINF:-1 group-title="未分类",INNTV
+http://www.510100.xyz:5050/rtp/239.94.0.94:5140
+#EXTINF:-1 group-title="未分类",青海卫视
+http://www.510100.xyz:5050/rtp/239.94.0.95:5140
+#EXTINF:-1 group-title="未分类",宁夏
+http://www.510100.xyz:5050/rtp/239.94.0.96:5140
+#EXTINF:-1 group-title="未分类",XZTV
+http://www.510100.xyz:5050/rtp/239.94.0.97:5140
+#EXTINF:-1 group-title="未分类",新疆卫视
+http://www.510100.xyz:5050/rtp/239.94.0.98:5140
+#EXTINF:-1 group-title="未分类",甘肃卫视
+http://www.510100.xyz:5050/rtp/239.94.0.99:5140
+#EXTINF:-1 group-title="未分类",海南卫视
+http://www.510100.xyz:5050/rtp/239.94.0.100:5140
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://www.510100.xyz:5050/rtp/239.94.0.101:5140
+#EXTINF:-1 group-title="未分类",兵团卫视
+http://www.510100.xyz:5050/rtp/239.94.0.102:5140
+#EXTINF:-1 group-title="未分类",峨眉电影
+http://www.510100.xyz:5050/rtp/239.94.0.103:5140
+#EXTINF:-1 group-title="未分类",XAMENSIAR
+http://www.510100.xyz:5050/rtp/239.94.0.104:5140
+#EXTINF:-1 group-title="未分类",三沙卫视
+http://www.510100.xyz:5050/rtp/239.94.0.105:5140
+#EXTINF:-1 group-title="未分类",父
+http://www.510100.xyz:5050/rtp/239.94.0.106:5140
+#EXTINF:-1 group-title="未分类",抢购
+http://www.510100.xyz:5050/rtp/239.94.0.107:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://www.510100.xyz:5050/rtp/239.94.0.109:5140
+#EXTINF:-1 group-title="未分类",安多卫视
+http://www.510100.xyz:5050/rtp/239.94.0.110:5140
+#EXTINF:-1 group-title="未分类",四川卫视
+http://www.510100.xyz:5050/rtp/239.94.0.115:5140
+#EXTINF:-1 group-title="未分类",CDTV1
+http://www.510100.xyz:5050/rtp/239.94.0.154:5140
+#EXTINF:-1 group-title="未分类",CDTV2
+http://www.510100.xyz:5050/rtp/239.94.0.155:5140
+#EXTINF:-1 group-title="未分类",CDTV3
+http://www.510100.xyz:5050/rtp/239.94.0.156:5140
+#EXTINF:-1 group-title="未分类",CDT4
+http://www.510100.xyz:5050/rtp/239.94.0.157:5140
+#EXTINF:-1 group-title="未分类",CDTV5
+http://www.510100.xyz:5050/rtp/239.94.0.158:5140
+#EXTINF:-1 group-title="未分类",CDTV6
+http://www.510100.xyz:5050/rtp/239.94.0.159:5140
+#EXTINF:-1 group-title="未分类",CDTVE
+http://www.510100.xyz:5050/rtp/239.94.0.160:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.510100.xyz:5050/rtp/239.94.0.161:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.510100.xyz:5050/rtp/239.94.0.162:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.510100.xyz:5050/rtp/239.94.0.163:5140
+#EXTINF:-1 group-title="未分类",内江综合
+http://www.510100.xyz:5050/rtp/239.94.0.164:5140
+#EXTINF:-1 group-title="未分类",德阳文旅科教
+http://www.510100.xyz:5050/rtp/239.94.0.165:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.510100.xyz:5050/rtp/239.94.0.166:5140
+#EXTINF:-1 group-title="未分类",综合
+http://www.510100.xyz:5050/rtp/239.94.0.167:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.510100.xyz:5050/rtp/239.94.0.168:5140
+#EXTINF:-1 group-title="未分类",综合
+http://www.510100.xyz:5050/rtp/239.94.0.169:5140
+#EXTINF:-1 group-title="未分类",眉山综合
+http://www.510100.xyz:5050/rtp/239.94.0.170:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.510100.xyz:5050/rtp/239.94.0.171:5140
+#EXTINF:-1 group-title="未分类",公共
+http://www.510100.xyz:5050/rtp/239.94.0.172:5140
+#EXTINF:-1 group-title="未分类",文旅生活
+http://www.510100.xyz:5050/rtp/239.94.0.173:5140
+#EXTINF:-1 group-title="未分类",文旅乡村
+http://www.510100.xyz:5050/rtp/239.94.0.174:5140
+
+#EXTINF:-1 group-title="未分类",CCTV1
+http://www.998878.xyz:5050/rtp/239.94.0.1:5140
+#EXTINF:-1 group-title="未分类",CCTV2
+http://www.998878.xyz:5050/rtp/239.94.0.2:5140
+#EXTINF:-1 group-title="未分类",CCTV3
+http://www.998878.xyz:5050/rtp/239.94.0.3:5140
+#EXTINF:-1 group-title="未分类",CCTV4
+http://www.998878.xyz:5050/rtp/239.94.0.4:5140
+#EXTINF:-1 group-title="未分类",CCTV6
+http://www.998878.xyz:5050/rtp/239.94.0.6:5140
+#EXTINF:-1 group-title="未分类",CCTV7
+http://www.998878.xyz:5050/rtp/239.94.0.7:5140
+#EXTINF:-1 group-title="未分类",CCTV8
+http://www.998878.xyz:5050/rtp/239.94.0.8:5140
+#EXTINF:-1 group-title="未分类",CCTV9
+http://www.998878.xyz:5050/rtp/239.94.0.9:5140
+#EXTINF:-1 group-title="未分类",CCTV10
+http://www.998878.xyz:5050/rtp/239.94.0.10:5140
+#EXTINF:-1 group-title="未分类",CCTV11
+http://www.998878.xyz:5050/rtp/239.94.0.11:5140
+#EXTINF:-1 group-title="未分类",CCTV12
+http://www.998878.xyz:5050/rtp/239.94.0.12:5140
+#EXTINF:-1 group-title="未分类",CCTV13
+http://www.998878.xyz:5050/rtp/239.94.0.13:5140
+#EXTINF:-1 group-title="未分类",CCTV14
+http://www.998878.xyz:5050/rtp/239.94.0.14:5140
+#EXTINF:-1 group-title="未分类",CCTV1
+http://www.998878.xyz:5050/rtp/239.94.0.31:5140
+#EXTINF:-1 group-title="未分类",湖南卫视
+http://www.998878.xyz:5050/rtp/239.94.0.61:5140
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://www.998878.xyz:5050/rtp/239.94.0.62:5140
+#EXTINF:-1 group-title="未分类",浙江卫视
+http://www.998878.xyz:5050/rtp/239.94.0.63:5140
+#EXTINF:-1 group-title="未分类",东方卫视
+http://www.998878.xyz:5050/rtp/239.94.0.64:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://www.998878.xyz:5050/rtp/239.94.0.65:5140
+#EXTINF:-1 group-title="未分类",深圳卫视
+http://www.998878.xyz:5050/rtp/239.94.0.66:5140
+#EXTINF:-1 group-title="未分类",广东卫视
+http://www.998878.xyz:5050/rtp/239.94.0.67:5140
+#EXTINF:-1 group-title="未分类",天津卫视
+http://www.998878.xyz:5050/rtp/239.94.0.68:5140
+#EXTINF:-1 group-title="未分类",山东卫视
+http://www.998878.xyz:5050/rtp/239.94.0.69:5140
+#EXTINF:-1 group-title="未分类",经济
+http://www.998878.xyz:5050/rtp/239.94.0.70:5140
+#EXTINF:-1 group-title="未分类",文化旅游
+http://www.998878.xyz:5050/rtp/239.94.0.71:5140
+#EXTINF:-1 group-title="未分类",新闻
+http://www.998878.xyz:5050/rtp/239.94.0.72:5140
+#EXTINF:-1 group-title="未分类",影视文艺
+http://www.998878.xyz:5050/rtp/239.94.0.73:5140
+#EXTINF:-1 group-title="未分类",星空购物
+http://www.998878.xyz:5050/rtp/239.94.0.74:5140
+#EXTINF:-1 group-title="未分类",SCTV7
+http://www.998878.xyz:5050/rtp/239.94.0.75:5140
+#EXTINF:-1 group-title="未分类",科教
+http://www.998878.xyz:5050/rtp/239.94.0.76:5140
+#EXTINF:-1 group-title="未分类",四川乡村
+http://www.998878.xyz:5050/rtp/239.94.0.77:5140
+#EXTINF:-1 group-title="未分类",康巴卫视
+http://www.998878.xyz:5050/rtp/239.94.0.78:5140
+#EXTINF:-1 group-title="未分类",江西卫视
+http://www.998878.xyz:5050/rtp/239.94.0.79:5140
+#EXTINF:-1 group-title="未分类",东南卫视
+http://www.998878.xyz:5050/rtp/239.94.0.80:5140
+#EXTINF:-1 group-title="未分类",黑龙江卫视
+http://www.998878.xyz:5050/rtp/239.94.0.81:5140
+#EXTINF:-1 group-title="未分类",重庆卫视
+http://www.998878.xyz:5050/rtp/239.94.0.82:5140
+#EXTINF:-1 group-title="未分类",贵州卫视
+http://www.998878.xyz:5050/rtp/239.94.0.83:5140
+#EXTINF:-1 group-title="未分类",湖北卫视
+http://www.998878.xyz:5050/rtp/239.94.0.84:5140
+#EXTINF:-1 group-title="未分类",安徽卫视
+http://www.998878.xyz:5050/rtp/239.94.0.85:5140
+#EXTINF:-1 group-title="未分类",河北卫视
+http://www.998878.xyz:5050/rtp/239.94.0.86:5140
+#EXTINF:-1 group-title="未分类",中国交通
+http://www.998878.xyz:5050/rtp/239.94.0.87:5140
+#EXTINF:-1 group-title="未分类",河南卫视
+http://www.998878.xyz:5050/rtp/239.94.0.88:5140
+#EXTINF:-1 group-title="未分类",广西卫视
+http://www.998878.xyz:5050/rtp/239.94.0.89:5140
+#EXTINF:-1 group-title="未分类",云南卫视
+http://www.998878.xyz:5050/rtp/239.94.0.90:5140
+#EXTINF:-1 group-title="未分类",吉林卫视
+http://www.998878.xyz:5050/rtp/239.94.0.91:5140
+#EXTINF:-1 group-title="未分类",陕西卫视
+http://www.998878.xyz:5050/rtp/239.94.0.92:5140
+#EXTINF:-1 group-title="未分类",山西卫视
+http://www.998878.xyz:5050/rtp/239.94.0.93:5140
+#EXTINF:-1 group-title="未分类",INNTV
+http://www.998878.xyz:5050/rtp/239.94.0.94:5140
+#EXTINF:-1 group-title="未分类",青海卫视
+http://www.998878.xyz:5050/rtp/239.94.0.95:5140
+#EXTINF:-1 group-title="未分类",宁夏
+http://www.998878.xyz:5050/rtp/239.94.0.96:5140
+#EXTINF:-1 group-title="未分类",XZTV
+http://www.998878.xyz:5050/rtp/239.94.0.97:5140
+#EXTINF:-1 group-title="未分类",新疆卫视
+http://www.998878.xyz:5050/rtp/239.94.0.98:5140
+#EXTINF:-1 group-title="未分类",甘肃卫视
+http://www.998878.xyz:5050/rtp/239.94.0.99:5140
+#EXTINF:-1 group-title="未分类",海南卫视
+http://www.998878.xyz:5050/rtp/239.94.0.100:5140
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://www.998878.xyz:5050/rtp/239.94.0.101:5140
+#EXTINF:-1 group-title="未分类",兵团卫视
+http://www.998878.xyz:5050/rtp/239.94.0.102:5140
+#EXTINF:-1 group-title="未分类",峨眉电影
+http://www.998878.xyz:5050/rtp/239.94.0.103:5140
+#EXTINF:-1 group-title="未分类",XAMENSIAR
+http://www.998878.xyz:5050/rtp/239.94.0.104:5140
+#EXTINF:-1 group-title="未分类",三沙卫视
+http://www.998878.xyz:5050/rtp/239.94.0.105:5140
+#EXTINF:-1 group-title="未分类",父
+http://www.998878.xyz:5050/rtp/239.94.0.106:5140
+#EXTINF:-1 group-title="未分类",抢购
+http://www.998878.xyz:5050/rtp/239.94.0.107:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://www.998878.xyz:5050/rtp/239.94.0.109:5140
+#EXTINF:-1 group-title="未分类",安多卫视
+http://www.998878.xyz:5050/rtp/239.94.0.110:5140
+#EXTINF:-1 group-title="未分类",四川卫视
+http://www.998878.xyz:5050/rtp/239.94.0.115:5140
+#EXTINF:-1 group-title="未分类",CDTV1
+http://www.998878.xyz:5050/rtp/239.94.0.154:5140
+#EXTINF:-1 group-title="未分类",CDTV2
+http://www.998878.xyz:5050/rtp/239.94.0.155:5140
+#EXTINF:-1 group-title="未分类",CDTV3
+http://www.998878.xyz:5050/rtp/239.94.0.156:5140
+#EXTINF:-1 group-title="未分类",CDT4
+http://www.998878.xyz:5050/rtp/239.94.0.157:5140
+#EXTINF:-1 group-title="未分类",CDTV5
+http://www.998878.xyz:5050/rtp/239.94.0.158:5140
+#EXTINF:-1 group-title="未分类",CDTV6
+http://www.998878.xyz:5050/rtp/239.94.0.159:5140
+#EXTINF:-1 group-title="未分类",CDTVE
+http://www.998878.xyz:5050/rtp/239.94.0.160:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.998878.xyz:5050/rtp/239.94.0.161:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.998878.xyz:5050/rtp/239.94.0.162:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.998878.xyz:5050/rtp/239.94.0.163:5140
+#EXTINF:-1 group-title="未分类",内江综合
+http://www.998878.xyz:5050/rtp/239.94.0.164:5140
+#EXTINF:-1 group-title="未分类",德阳文旅科教
+http://www.998878.xyz:5050/rtp/239.94.0.165:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.998878.xyz:5050/rtp/239.94.0.166:5140
+#EXTINF:-1 group-title="未分类",综合
+http://www.998878.xyz:5050/rtp/239.94.0.167:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.998878.xyz:5050/rtp/239.94.0.168:5140
+#EXTINF:-1 group-title="未分类",综合
+http://www.998878.xyz:5050/rtp/239.94.0.169:5140
+#EXTINF:-1 group-title="未分类",眉山综合
+http://www.998878.xyz:5050/rtp/239.94.0.170:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.998878.xyz:5050/rtp/239.94.0.171:5140
+#EXTINF:-1 group-title="未分类",公共
+http://www.998878.xyz:5050/rtp/239.94.0.172:5140
+#EXTINF:-1 group-title="未分类",文旅生活
+http://www.998878.xyz:5050/rtp/239.94.0.173:5140
+#EXTINF:-1 group-title="未分类",文旅乡村
+http://www.998878.xyz:5050/rtp/239.94.0.174:5140
+
+#EXTINF:-1 group-title="未分类",CCTV1
+http://nas2.roxette119.cn:5555/rtp/239.94.0.1:5140
+#EXTINF:-1 group-title="未分类",CCTV2
+http://nas2.roxette119.cn:5555/rtp/239.94.0.2:5140
+#EXTINF:-1 group-title="未分类",CCTV3
+http://nas2.roxette119.cn:5555/rtp/239.94.0.3:5140
+#EXTINF:-1 group-title="未分类",CCTV4
+http://nas2.roxette119.cn:5555/rtp/239.94.0.4:5140
+#EXTINF:-1 group-title="未分类",CCTV6
+http://nas2.roxette119.cn:5555/rtp/239.94.0.6:5140
+#EXTINF:-1 group-title="未分类",CCTV7
+http://nas2.roxette119.cn:5555/rtp/239.94.0.7:5140
+#EXTINF:-1 group-title="未分类",CCTV8
+http://nas2.roxette119.cn:5555/rtp/239.94.0.8:5140
+#EXTINF:-1 group-title="未分类",CCTV9
+http://nas2.roxette119.cn:5555/rtp/239.94.0.9:5140
+#EXTINF:-1 group-title="未分类",CCTV10
+http://nas2.roxette119.cn:5555/rtp/239.94.0.10:5140
+#EXTINF:-1 group-title="未分类",CCTV11
+http://nas2.roxette119.cn:5555/rtp/239.94.0.11:5140
+#EXTINF:-1 group-title="未分类",CCTV12
+http://nas2.roxette119.cn:5555/rtp/239.94.0.12:5140
+#EXTINF:-1 group-title="未分类",CCTV13
+http://nas2.roxette119.cn:5555/rtp/239.94.0.13:5140
+#EXTINF:-1 group-title="未分类",CCTV14
+http://nas2.roxette119.cn:5555/rtp/239.94.0.14:5140
+#EXTINF:-1 group-title="未分类",CCTV1
+http://nas2.roxette119.cn:5555/rtp/239.94.0.31:5140
+#EXTINF:-1 group-title="未分类",湖南卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.61:5140
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.62:5140
+#EXTINF:-1 group-title="未分类",浙江卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.63:5140
+#EXTINF:-1 group-title="未分类",东方卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.64:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://nas2.roxette119.cn:5555/rtp/239.94.0.65:5140
+#EXTINF:-1 group-title="未分类",深圳卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.66:5140
+#EXTINF:-1 group-title="未分类",广东卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.67:5140
+#EXTINF:-1 group-title="未分类",天津卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.68:5140
+#EXTINF:-1 group-title="未分类",山东卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.69:5140
+#EXTINF:-1 group-title="未分类",经济
+http://nas2.roxette119.cn:5555/rtp/239.94.0.70:5140
+#EXTINF:-1 group-title="未分类",文化旅游
+http://nas2.roxette119.cn:5555/rtp/239.94.0.71:5140
+#EXTINF:-1 group-title="未分类",新闻
+http://nas2.roxette119.cn:5555/rtp/239.94.0.72:5140
+#EXTINF:-1 group-title="未分类",影视文艺
+http://nas2.roxette119.cn:5555/rtp/239.94.0.73:5140
+#EXTINF:-1 group-title="未分类",星空购物
+http://nas2.roxette119.cn:5555/rtp/239.94.0.74:5140
+#EXTINF:-1 group-title="未分类",SCTV7
+http://nas2.roxette119.cn:5555/rtp/239.94.0.75:5140
+#EXTINF:-1 group-title="未分类",科教
+http://nas2.roxette119.cn:5555/rtp/239.94.0.76:5140
+#EXTINF:-1 group-title="未分类",四川乡村
+http://nas2.roxette119.cn:5555/rtp/239.94.0.77:5140
+#EXTINF:-1 group-title="未分类",康巴卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.78:5140
+#EXTINF:-1 group-title="未分类",江西卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.79:5140
+#EXTINF:-1 group-title="未分类",东南卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.80:5140
+#EXTINF:-1 group-title="未分类",黑龙江卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.81:5140
+#EXTINF:-1 group-title="未分类",重庆卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.82:5140
+#EXTINF:-1 group-title="未分类",贵州卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.83:5140
+#EXTINF:-1 group-title="未分类",湖北卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.84:5140
+#EXTINF:-1 group-title="未分类",安徽卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.85:5140
+#EXTINF:-1 group-title="未分类",河北卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.86:5140
+#EXTINF:-1 group-title="未分类",中国交通
+http://nas2.roxette119.cn:5555/rtp/239.94.0.87:5140
+#EXTINF:-1 group-title="未分类",河南卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.88:5140
+#EXTINF:-1 group-title="未分类",广西卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.89:5140
+#EXTINF:-1 group-title="未分类",云南卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.90:5140
+#EXTINF:-1 group-title="未分类",吉林卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.91:5140
+#EXTINF:-1 group-title="未分类",陕西卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.92:5140
+#EXTINF:-1 group-title="未分类",山西卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.93:5140
+#EXTINF:-1 group-title="未分类",INNTV
+http://nas2.roxette119.cn:5555/rtp/239.94.0.94:5140
+#EXTINF:-1 group-title="未分类",青海卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.95:5140
+#EXTINF:-1 group-title="未分类",宁夏
+http://nas2.roxette119.cn:5555/rtp/239.94.0.96:5140
+#EXTINF:-1 group-title="未分类",XZTV
+http://nas2.roxette119.cn:5555/rtp/239.94.0.97:5140
+#EXTINF:-1 group-title="未分类",新疆卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.98:5140
+#EXTINF:-1 group-title="未分类",甘肃卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.99:5140
+#EXTINF:-1 group-title="未分类",海南卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.100:5140
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.101:5140
+#EXTINF:-1 group-title="未分类",兵团卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.102:5140
+#EXTINF:-1 group-title="未分类",峨眉电影
+http://nas2.roxette119.cn:5555/rtp/239.94.0.103:5140
+#EXTINF:-1 group-title="未分类",XAMENSIAR
+http://nas2.roxette119.cn:5555/rtp/239.94.0.104:5140
+#EXTINF:-1 group-title="未分类",三沙卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.105:5140
+#EXTINF:-1 group-title="未分类",父
+http://nas2.roxette119.cn:5555/rtp/239.94.0.106:5140
+#EXTINF:-1 group-title="未分类",抢购
+http://nas2.roxette119.cn:5555/rtp/239.94.0.107:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://nas2.roxette119.cn:5555/rtp/239.94.0.109:5140
+#EXTINF:-1 group-title="未分类",安多卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.110:5140
+#EXTINF:-1 group-title="未分类",四川卫视
+http://nas2.roxette119.cn:5555/rtp/239.94.0.115:5140
+#EXTINF:-1 group-title="未分类",CDTV1
+http://nas2.roxette119.cn:5555/rtp/239.94.0.154:5140
+#EXTINF:-1 group-title="未分类",CDTV2
+http://nas2.roxette119.cn:5555/rtp/239.94.0.155:5140
+#EXTINF:-1 group-title="未分类",CDTV3
+http://nas2.roxette119.cn:5555/rtp/239.94.0.156:5140
+#EXTINF:-1 group-title="未分类",CDT4
+http://nas2.roxette119.cn:5555/rtp/239.94.0.157:5140
+#EXTINF:-1 group-title="未分类",CDTV5
+http://nas2.roxette119.cn:5555/rtp/239.94.0.158:5140
+#EXTINF:-1 group-title="未分类",CDTV6
+http://nas2.roxette119.cn:5555/rtp/239.94.0.159:5140
+#EXTINF:-1 group-title="未分类",CDTVE
+http://nas2.roxette119.cn:5555/rtp/239.94.0.160:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://nas2.roxette119.cn:5555/rtp/239.94.0.161:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://nas2.roxette119.cn:5555/rtp/239.94.0.162:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://nas2.roxette119.cn:5555/rtp/239.94.0.163:5140
+#EXTINF:-1 group-title="未分类",内江综合
+http://nas2.roxette119.cn:5555/rtp/239.94.0.164:5140
+#EXTINF:-1 group-title="未分类",德阳文旅科教
+http://nas2.roxette119.cn:5555/rtp/239.94.0.165:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://nas2.roxette119.cn:5555/rtp/239.94.0.166:5140
+#EXTINF:-1 group-title="未分类",综合
+http://nas2.roxette119.cn:5555/rtp/239.94.0.167:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://nas2.roxette119.cn:5555/rtp/239.94.0.168:5140
+#EXTINF:-1 group-title="未分类",综合
+http://nas2.roxette119.cn:5555/rtp/239.94.0.169:5140
+#EXTINF:-1 group-title="未分类",眉山综合
+http://nas2.roxette119.cn:5555/rtp/239.94.0.170:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://nas2.roxette119.cn:5555/rtp/239.94.0.171:5140
+#EXTINF:-1 group-title="未分类",公共
+http://nas2.roxette119.cn:5555/rtp/239.94.0.172:5140
+#EXTINF:-1 group-title="未分类",文旅生活
+http://nas2.roxette119.cn:5555/rtp/239.94.0.173:5140
+#EXTINF:-1 group-title="未分类",文旅乡村
+http://nas2.roxette119.cn:5555/rtp/239.94.0.174:5140
+
+#EXTINF:-1 group-title="未分类",CCTV1
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.1:5140
+#EXTINF:-1 group-title="未分类",CCTV2
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.2:5140
+#EXTINF:-1 group-title="未分类",CCTV3
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.3:5140
+#EXTINF:-1 group-title="未分类",CCTV4
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.4:5140
+#EXTINF:-1 group-title="未分类",CCTV6
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.6:5140
+#EXTINF:-1 group-title="未分类",CCTV7
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.7:5140
+#EXTINF:-1 group-title="未分类",CCTV8
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.8:5140
+#EXTINF:-1 group-title="未分类",CCTV9
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.9:5140
+#EXTINF:-1 group-title="未分类",CCTV10
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.10:5140
+#EXTINF:-1 group-title="未分类",CCTV11
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.11:5140
+#EXTINF:-1 group-title="未分类",CCTV12
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.12:5140
+#EXTINF:-1 group-title="未分类",CCTV13
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.13:5140
+#EXTINF:-1 group-title="未分类",CCTV14
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.14:5140
+#EXTINF:-1 group-title="未分类",CCTV1
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.31:5140
+#EXTINF:-1 group-title="未分类",湖南卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.61:5140
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.62:5140
+#EXTINF:-1 group-title="未分类",浙江卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.63:5140
+#EXTINF:-1 group-title="未分类",东方卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.64:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.65:5140
+#EXTINF:-1 group-title="未分类",深圳卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.66:5140
+#EXTINF:-1 group-title="未分类",广东卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.67:5140
+#EXTINF:-1 group-title="未分类",天津卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.68:5140
+#EXTINF:-1 group-title="未分类",山东卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.69:5140
+#EXTINF:-1 group-title="未分类",经济
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.70:5140
+#EXTINF:-1 group-title="未分类",文化旅游
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.71:5140
+#EXTINF:-1 group-title="未分类",新闻
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.72:5140
+#EXTINF:-1 group-title="未分类",影视文艺
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.73:5140
+#EXTINF:-1 group-title="未分类",星空购物
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.74:5140
+#EXTINF:-1 group-title="未分类",SCTV7
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.75:5140
+#EXTINF:-1 group-title="未分类",科教
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.76:5140
+#EXTINF:-1 group-title="未分类",四川乡村
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.77:5140
+#EXTINF:-1 group-title="未分类",康巴卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.78:5140
+#EXTINF:-1 group-title="未分类",江西卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.79:5140
+#EXTINF:-1 group-title="未分类",东南卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.80:5140
+#EXTINF:-1 group-title="未分类",黑龙江卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.81:5140
+#EXTINF:-1 group-title="未分类",重庆卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.82:5140
+#EXTINF:-1 group-title="未分类",贵州卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.83:5140
+#EXTINF:-1 group-title="未分类",湖北卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.84:5140
+#EXTINF:-1 group-title="未分类",安徽卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.85:5140
+#EXTINF:-1 group-title="未分类",河北卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.86:5140
+#EXTINF:-1 group-title="未分类",中国交通
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.87:5140
+#EXTINF:-1 group-title="未分类",河南卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.88:5140
+#EXTINF:-1 group-title="未分类",广西卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.89:5140
+#EXTINF:-1 group-title="未分类",云南卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.90:5140
+#EXTINF:-1 group-title="未分类",吉林卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.91:5140
+#EXTINF:-1 group-title="未分类",陕西卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.92:5140
+#EXTINF:-1 group-title="未分类",山西卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.93:5140
+#EXTINF:-1 group-title="未分类",INNTV
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.94:5140
+#EXTINF:-1 group-title="未分类",青海卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.95:5140
+#EXTINF:-1 group-title="未分类",宁夏
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.96:5140
+#EXTINF:-1 group-title="未分类",XZTV
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.97:5140
+#EXTINF:-1 group-title="未分类",新疆卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.98:5140
+#EXTINF:-1 group-title="未分类",甘肃卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.99:5140
+#EXTINF:-1 group-title="未分类",海南卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.100:5140
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.101:5140
+#EXTINF:-1 group-title="未分类",兵团卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.102:5140
+#EXTINF:-1 group-title="未分类",峨眉电影
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.103:5140
+#EXTINF:-1 group-title="未分类",XAMENSIAR
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.104:5140
+#EXTINF:-1 group-title="未分类",三沙卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.105:5140
+#EXTINF:-1 group-title="未分类",父
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.106:5140
+#EXTINF:-1 group-title="未分类",抢购
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.107:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.109:5140
+#EXTINF:-1 group-title="未分类",安多卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.110:5140
+#EXTINF:-1 group-title="未分类",四川卫视
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.115:5140
+#EXTINF:-1 group-title="未分类",CDTV1
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.154:5140
+#EXTINF:-1 group-title="未分类",CDTV2
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.155:5140
+#EXTINF:-1 group-title="未分类",CDTV3
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.156:5140
+#EXTINF:-1 group-title="未分类",CDT4
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.157:5140
+#EXTINF:-1 group-title="未分类",CDTV5
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.158:5140
+#EXTINF:-1 group-title="未分类",CDTV6
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.159:5140
+#EXTINF:-1 group-title="未分类",CDTVE
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.160:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.161:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.162:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.163:5140
+#EXTINF:-1 group-title="未分类",内江综合
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.164:5140
+#EXTINF:-1 group-title="未分类",德阳文旅科教
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.165:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.166:5140
+#EXTINF:-1 group-title="未分类",综合
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.167:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.168:5140
+#EXTINF:-1 group-title="未分类",综合
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.169:5140
+#EXTINF:-1 group-title="未分类",眉山综合
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.170:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.171:5140
+#EXTINF:-1 group-title="未分类",公共
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.172:5140
+#EXTINF:-1 group-title="未分类",文旅生活
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.173:5140
+#EXTINF:-1 group-title="未分类",文旅乡村
+http://ipv4.roxette119.xyz:5555/rtp/239.94.0.174:5140
+
+#EXTINF:-1 group-title="未分类",CCTV1
+http://s.zssss.eu.org:888/rtp/239.94.0.1:5140
+#EXTINF:-1 group-title="未分类",CCTV2
+http://s.zssss.eu.org:888/rtp/239.94.0.2:5140
+#EXTINF:-1 group-title="未分类",CCTV3
+http://s.zssss.eu.org:888/rtp/239.94.0.3:5140
+#EXTINF:-1 group-title="未分类",CCTV4
+http://s.zssss.eu.org:888/rtp/239.94.0.4:5140
+#EXTINF:-1 group-title="未分类",CCTV6
+http://s.zssss.eu.org:888/rtp/239.94.0.6:5140
+#EXTINF:-1 group-title="未分类",CCTV7
+http://s.zssss.eu.org:888/rtp/239.94.0.7:5140
+#EXTINF:-1 group-title="未分类",CCTV8
+http://s.zssss.eu.org:888/rtp/239.94.0.8:5140
+#EXTINF:-1 group-title="未分类",CCTV9
+http://s.zssss.eu.org:888/rtp/239.94.0.9:5140
+#EXTINF:-1 group-title="未分类",CCTV10
+http://s.zssss.eu.org:888/rtp/239.94.0.10:5140
+#EXTINF:-1 group-title="未分类",CCTV11
+http://s.zssss.eu.org:888/rtp/239.94.0.11:5140
+#EXTINF:-1 group-title="未分类",CCTV12
+http://s.zssss.eu.org:888/rtp/239.94.0.12:5140
+#EXTINF:-1 group-title="未分类",CCTV13
+http://s.zssss.eu.org:888/rtp/239.94.0.13:5140
+#EXTINF:-1 group-title="未分类",CCTV14
+http://s.zssss.eu.org:888/rtp/239.94.0.14:5140
+#EXTINF:-1 group-title="未分类",CCTV1
+http://s.zssss.eu.org:888/rtp/239.94.0.31:5140
+#EXTINF:-1 group-title="未分类",湖南卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.61:5140
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.62:5140
+#EXTINF:-1 group-title="未分类",浙江卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.63:5140
+#EXTINF:-1 group-title="未分类",东方卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.64:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://s.zssss.eu.org:888/rtp/239.94.0.65:5140
+#EXTINF:-1 group-title="未分类",深圳卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.66:5140
+#EXTINF:-1 group-title="未分类",广东卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.67:5140
+#EXTINF:-1 group-title="未分类",天津卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.68:5140
+#EXTINF:-1 group-title="未分类",山东卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.69:5140
+#EXTINF:-1 group-title="未分类",经济
+http://s.zssss.eu.org:888/rtp/239.94.0.70:5140
+#EXTINF:-1 group-title="未分类",文化旅游
+http://s.zssss.eu.org:888/rtp/239.94.0.71:5140
+#EXTINF:-1 group-title="未分类",新闻
+http://s.zssss.eu.org:888/rtp/239.94.0.72:5140
+#EXTINF:-1 group-title="未分类",影视文艺
+http://s.zssss.eu.org:888/rtp/239.94.0.73:5140
+#EXTINF:-1 group-title="未分类",星空购物
+http://s.zssss.eu.org:888/rtp/239.94.0.74:5140
+#EXTINF:-1 group-title="未分类",SCTV7
+http://s.zssss.eu.org:888/rtp/239.94.0.75:5140
+#EXTINF:-1 group-title="未分类",科教
+http://s.zssss.eu.org:888/rtp/239.94.0.76:5140
+#EXTINF:-1 group-title="未分类",四川乡村
+http://s.zssss.eu.org:888/rtp/239.94.0.77:5140
+#EXTINF:-1 group-title="未分类",康巴卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.78:5140
+#EXTINF:-1 group-title="未分类",江西卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.79:5140
+#EXTINF:-1 group-title="未分类",东南卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.80:5140
+#EXTINF:-1 group-title="未分类",黑龙江卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.81:5140
+#EXTINF:-1 group-title="未分类",重庆卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.82:5140
+#EXTINF:-1 group-title="未分类",贵州卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.83:5140
+#EXTINF:-1 group-title="未分类",湖北卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.84:5140
+#EXTINF:-1 group-title="未分类",安徽卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.85:5140
+#EXTINF:-1 group-title="未分类",河北卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.86:5140
+#EXTINF:-1 group-title="未分类",中国交通
+http://s.zssss.eu.org:888/rtp/239.94.0.87:5140
+#EXTINF:-1 group-title="未分类",河南卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.88:5140
+#EXTINF:-1 group-title="未分类",广西卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.89:5140
+#EXTINF:-1 group-title="未分类",云南卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.90:5140
+#EXTINF:-1 group-title="未分类",吉林卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.91:5140
+#EXTINF:-1 group-title="未分类",陕西卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.92:5140
+#EXTINF:-1 group-title="未分类",山西卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.93:5140
+#EXTINF:-1 group-title="未分类",INNTV
+http://s.zssss.eu.org:888/rtp/239.94.0.94:5140
+#EXTINF:-1 group-title="未分类",青海卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.95:5140
+#EXTINF:-1 group-title="未分类",宁夏
+http://s.zssss.eu.org:888/rtp/239.94.0.96:5140
+#EXTINF:-1 group-title="未分类",XZTV
+http://s.zssss.eu.org:888/rtp/239.94.0.97:5140
+#EXTINF:-1 group-title="未分类",新疆卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.98:5140
+#EXTINF:-1 group-title="未分类",甘肃卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.99:5140
+#EXTINF:-1 group-title="未分类",海南卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.100:5140
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.101:5140
+#EXTINF:-1 group-title="未分类",兵团卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.102:5140
+#EXTINF:-1 group-title="未分类",峨眉电影
+http://s.zssss.eu.org:888/rtp/239.94.0.103:5140
+#EXTINF:-1 group-title="未分类",XAMENSIAR
+http://s.zssss.eu.org:888/rtp/239.94.0.104:5140
+#EXTINF:-1 group-title="未分类",三沙卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.105:5140
+#EXTINF:-1 group-title="未分类",父
+http://s.zssss.eu.org:888/rtp/239.94.0.106:5140
+#EXTINF:-1 group-title="未分类",抢购
+http://s.zssss.eu.org:888/rtp/239.94.0.107:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://s.zssss.eu.org:888/rtp/239.94.0.109:5140
+#EXTINF:-1 group-title="未分类",安多卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.110:5140
+#EXTINF:-1 group-title="未分类",四川卫视
+http://s.zssss.eu.org:888/rtp/239.94.0.115:5140
+#EXTINF:-1 group-title="未分类",CDTV1
+http://s.zssss.eu.org:888/rtp/239.94.0.154:5140
+#EXTINF:-1 group-title="未分类",CDTV2
+http://s.zssss.eu.org:888/rtp/239.94.0.155:5140
+#EXTINF:-1 group-title="未分类",CDTV3
+http://s.zssss.eu.org:888/rtp/239.94.0.156:5140
+#EXTINF:-1 group-title="未分类",CDT4
+http://s.zssss.eu.org:888/rtp/239.94.0.157:5140
+#EXTINF:-1 group-title="未分类",CDTV5
+http://s.zssss.eu.org:888/rtp/239.94.0.158:5140
+#EXTINF:-1 group-title="未分类",CDTV6
+http://s.zssss.eu.org:888/rtp/239.94.0.159:5140
+#EXTINF:-1 group-title="未分类",CDTVE
+http://s.zssss.eu.org:888/rtp/239.94.0.160:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://s.zssss.eu.org:888/rtp/239.94.0.161:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://s.zssss.eu.org:888/rtp/239.94.0.162:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://s.zssss.eu.org:888/rtp/239.94.0.163:5140
+#EXTINF:-1 group-title="未分类",内江综合
+http://s.zssss.eu.org:888/rtp/239.94.0.164:5140
+#EXTINF:-1 group-title="未分类",德阳文旅科教
+http://s.zssss.eu.org:888/rtp/239.94.0.165:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://s.zssss.eu.org:888/rtp/239.94.0.166:5140
+#EXTINF:-1 group-title="未分类",综合
+http://s.zssss.eu.org:888/rtp/239.94.0.167:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://s.zssss.eu.org:888/rtp/239.94.0.168:5140
+#EXTINF:-1 group-title="未分类",综合
+http://s.zssss.eu.org:888/rtp/239.94.0.169:5140
+#EXTINF:-1 group-title="未分类",眉山综合
+http://s.zssss.eu.org:888/rtp/239.94.0.170:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://s.zssss.eu.org:888/rtp/239.94.0.171:5140
+#EXTINF:-1 group-title="未分类",公共
+http://s.zssss.eu.org:888/rtp/239.94.0.172:5140
+#EXTINF:-1 group-title="未分类",文旅生活
+http://s.zssss.eu.org:888/rtp/239.94.0.173:5140
+#EXTINF:-1 group-title="未分类",文旅乡村
+http://s.zssss.eu.org:888/rtp/239.94.0.174:5140
+
+#EXTINF:-1 group-title="未分类",CCTV1
+http://www.160638.xyz:8888/rtp/239.94.0.1:5140
+#EXTINF:-1 group-title="未分类",CCTV2
+http://www.160638.xyz:8888/rtp/239.94.0.2:5140
+#EXTINF:-1 group-title="未分类",CCTV3
+http://www.160638.xyz:8888/rtp/239.94.0.3:5140
+#EXTINF:-1 group-title="未分类",CCTV4
+http://www.160638.xyz:8888/rtp/239.94.0.4:5140
+#EXTINF:-1 group-title="未分类",CCTV6
+http://www.160638.xyz:8888/rtp/239.94.0.6:5140
+#EXTINF:-1 group-title="未分类",CCTV7
+http://www.160638.xyz:8888/rtp/239.94.0.7:5140
+#EXTINF:-1 group-title="未分类",CCTV8
+http://www.160638.xyz:8888/rtp/239.94.0.8:5140
+#EXTINF:-1 group-title="未分类",CCTV9
+http://www.160638.xyz:8888/rtp/239.94.0.9:5140
+#EXTINF:-1 group-title="未分类",CCTV10
+http://www.160638.xyz:8888/rtp/239.94.0.10:5140
+#EXTINF:-1 group-title="未分类",CCTV11
+http://www.160638.xyz:8888/rtp/239.94.0.11:5140
+#EXTINF:-1 group-title="未分类",CCTV12
+http://www.160638.xyz:8888/rtp/239.94.0.12:5140
+#EXTINF:-1 group-title="未分类",CCTV13
+http://www.160638.xyz:8888/rtp/239.94.0.13:5140
+#EXTINF:-1 group-title="未分类",CCTV14
+http://www.160638.xyz:8888/rtp/239.94.0.14:5140
+#EXTINF:-1 group-title="未分类",CCTV1
+http://www.160638.xyz:8888/rtp/239.94.0.31:5140
+#EXTINF:-1 group-title="未分类",湖南卫视
+http://www.160638.xyz:8888/rtp/239.94.0.61:5140
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://www.160638.xyz:8888/rtp/239.94.0.62:5140
+#EXTINF:-1 group-title="未分类",浙江卫视
+http://www.160638.xyz:8888/rtp/239.94.0.63:5140
+#EXTINF:-1 group-title="未分类",东方卫视
+http://www.160638.xyz:8888/rtp/239.94.0.64:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://www.160638.xyz:8888/rtp/239.94.0.65:5140
+#EXTINF:-1 group-title="未分类",深圳卫视
+http://www.160638.xyz:8888/rtp/239.94.0.66:5140
+#EXTINF:-1 group-title="未分类",广东卫视
+http://www.160638.xyz:8888/rtp/239.94.0.67:5140
+#EXTINF:-1 group-title="未分类",天津卫视
+http://www.160638.xyz:8888/rtp/239.94.0.68:5140
+#EXTINF:-1 group-title="未分类",山东卫视
+http://www.160638.xyz:8888/rtp/239.94.0.69:5140
+#EXTINF:-1 group-title="未分类",经济
+http://www.160638.xyz:8888/rtp/239.94.0.70:5140
+#EXTINF:-1 group-title="未分类",文化旅游
+http://www.160638.xyz:8888/rtp/239.94.0.71:5140
+#EXTINF:-1 group-title="未分类",新闻
+http://www.160638.xyz:8888/rtp/239.94.0.72:5140
+#EXTINF:-1 group-title="未分类",影视文艺
+http://www.160638.xyz:8888/rtp/239.94.0.73:5140
+#EXTINF:-1 group-title="未分类",星空购物
+http://www.160638.xyz:8888/rtp/239.94.0.74:5140
+#EXTINF:-1 group-title="未分类",SCTV7
+http://www.160638.xyz:8888/rtp/239.94.0.75:5140
+#EXTINF:-1 group-title="未分类",科教
+http://www.160638.xyz:8888/rtp/239.94.0.76:5140
+#EXTINF:-1 group-title="未分类",四川乡村
+http://www.160638.xyz:8888/rtp/239.94.0.77:5140
+#EXTINF:-1 group-title="未分类",康巴卫视
+http://www.160638.xyz:8888/rtp/239.94.0.78:5140
+#EXTINF:-1 group-title="未分类",江西卫视
+http://www.160638.xyz:8888/rtp/239.94.0.79:5140
+#EXTINF:-1 group-title="未分类",东南卫视
+http://www.160638.xyz:8888/rtp/239.94.0.80:5140
+#EXTINF:-1 group-title="未分类",黑龙江卫视
+http://www.160638.xyz:8888/rtp/239.94.0.81:5140
+#EXTINF:-1 group-title="未分类",重庆卫视
+http://www.160638.xyz:8888/rtp/239.94.0.82:5140
+#EXTINF:-1 group-title="未分类",贵州卫视
+http://www.160638.xyz:8888/rtp/239.94.0.83:5140
+#EXTINF:-1 group-title="未分类",湖北卫视
+http://www.160638.xyz:8888/rtp/239.94.0.84:5140
+#EXTINF:-1 group-title="未分类",安徽卫视
+http://www.160638.xyz:8888/rtp/239.94.0.85:5140
+#EXTINF:-1 group-title="未分类",河北卫视
+http://www.160638.xyz:8888/rtp/239.94.0.86:5140
+#EXTINF:-1 group-title="未分类",中国交通
+http://www.160638.xyz:8888/rtp/239.94.0.87:5140
+#EXTINF:-1 group-title="未分类",河南卫视
+http://www.160638.xyz:8888/rtp/239.94.0.88:5140
+#EXTINF:-1 group-title="未分类",广西卫视
+http://www.160638.xyz:8888/rtp/239.94.0.89:5140
+#EXTINF:-1 group-title="未分类",云南卫视
+http://www.160638.xyz:8888/rtp/239.94.0.90:5140
+#EXTINF:-1 group-title="未分类",吉林卫视
+http://www.160638.xyz:8888/rtp/239.94.0.91:5140
+#EXTINF:-1 group-title="未分类",陕西卫视
+http://www.160638.xyz:8888/rtp/239.94.0.92:5140
+#EXTINF:-1 group-title="未分类",山西卫视
+http://www.160638.xyz:8888/rtp/239.94.0.93:5140
+#EXTINF:-1 group-title="未分类",INNTV
+http://www.160638.xyz:8888/rtp/239.94.0.94:5140
+#EXTINF:-1 group-title="未分类",青海卫视
+http://www.160638.xyz:8888/rtp/239.94.0.95:5140
+#EXTINF:-1 group-title="未分类",宁夏
+http://www.160638.xyz:8888/rtp/239.94.0.96:5140
+#EXTINF:-1 group-title="未分类",XZTV
+http://www.160638.xyz:8888/rtp/239.94.0.97:5140
+#EXTINF:-1 group-title="未分类",新疆卫视
+http://www.160638.xyz:8888/rtp/239.94.0.98:5140
+#EXTINF:-1 group-title="未分类",甘肃卫视
+http://www.160638.xyz:8888/rtp/239.94.0.99:5140
+#EXTINF:-1 group-title="未分类",海南卫视
+http://www.160638.xyz:8888/rtp/239.94.0.100:5140
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://www.160638.xyz:8888/rtp/239.94.0.101:5140
+#EXTINF:-1 group-title="未分类",兵团卫视
+http://www.160638.xyz:8888/rtp/239.94.0.102:5140
+#EXTINF:-1 group-title="未分类",峨眉电影
+http://www.160638.xyz:8888/rtp/239.94.0.103:5140
+#EXTINF:-1 group-title="未分类",XAMENSIAR
+http://www.160638.xyz:8888/rtp/239.94.0.104:5140
+#EXTINF:-1 group-title="未分类",三沙卫视
+http://www.160638.xyz:8888/rtp/239.94.0.105:5140
+#EXTINF:-1 group-title="未分类",父
+http://www.160638.xyz:8888/rtp/239.94.0.106:5140
+#EXTINF:-1 group-title="未分类",抢购
+http://www.160638.xyz:8888/rtp/239.94.0.107:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://www.160638.xyz:8888/rtp/239.94.0.109:5140
+#EXTINF:-1 group-title="未分类",安多卫视
+http://www.160638.xyz:8888/rtp/239.94.0.110:5140
+#EXTINF:-1 group-title="未分类",四川卫视
+http://www.160638.xyz:8888/rtp/239.94.0.115:5140
+#EXTINF:-1 group-title="未分类",CDTV1
+http://www.160638.xyz:8888/rtp/239.94.0.154:5140
+#EXTINF:-1 group-title="未分类",CDTV2
+http://www.160638.xyz:8888/rtp/239.94.0.155:5140
+#EXTINF:-1 group-title="未分类",CDTV3
+http://www.160638.xyz:8888/rtp/239.94.0.156:5140
+#EXTINF:-1 group-title="未分类",CDT4
+http://www.160638.xyz:8888/rtp/239.94.0.157:5140
+#EXTINF:-1 group-title="未分类",CDTV5
+http://www.160638.xyz:8888/rtp/239.94.0.158:5140
+#EXTINF:-1 group-title="未分类",CDTV6
+http://www.160638.xyz:8888/rtp/239.94.0.159:5140
+#EXTINF:-1 group-title="未分类",CDTVE
+http://www.160638.xyz:8888/rtp/239.94.0.160:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.160638.xyz:8888/rtp/239.94.0.161:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.160638.xyz:8888/rtp/239.94.0.162:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.160638.xyz:8888/rtp/239.94.0.163:5140
+#EXTINF:-1 group-title="未分类",内江综合
+http://www.160638.xyz:8888/rtp/239.94.0.164:5140
+#EXTINF:-1 group-title="未分类",德阳文旅科教
+http://www.160638.xyz:8888/rtp/239.94.0.165:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.160638.xyz:8888/rtp/239.94.0.166:5140
+#EXTINF:-1 group-title="未分类",综合
+http://www.160638.xyz:8888/rtp/239.94.0.167:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.160638.xyz:8888/rtp/239.94.0.168:5140
+#EXTINF:-1 group-title="未分类",综合
+http://www.160638.xyz:8888/rtp/239.94.0.169:5140
+#EXTINF:-1 group-title="未分类",眉山综合
+http://www.160638.xyz:8888/rtp/239.94.0.170:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.160638.xyz:8888/rtp/239.94.0.171:5140
+#EXTINF:-1 group-title="未分类",公共
+http://www.160638.xyz:8888/rtp/239.94.0.172:5140
+#EXTINF:-1 group-title="未分类",文旅生活
+http://www.160638.xyz:8888/rtp/239.94.0.173:5140
+#EXTINF:-1 group-title="未分类",文旅乡村
+http://www.160638.xyz:8888/rtp/239.94.0.174:5140
+
+#EXTINF:-1 group-title="未分类",CCTV1
+http://www.yanbingg.com:1888/rtp/239.94.0.1:5140
+#EXTINF:-1 group-title="未分类",CCTV2
+http://www.yanbingg.com:1888/rtp/239.94.0.2:5140
+#EXTINF:-1 group-title="未分类",CCTV3
+http://www.yanbingg.com:1888/rtp/239.94.0.3:5140
+#EXTINF:-1 group-title="未分类",CCTV4
+http://www.yanbingg.com:1888/rtp/239.94.0.4:5140
+#EXTINF:-1 group-title="未分类",CCTV6
+http://www.yanbingg.com:1888/rtp/239.94.0.6:5140
+#EXTINF:-1 group-title="未分类",CCTV7
+http://www.yanbingg.com:1888/rtp/239.94.0.7:5140
+#EXTINF:-1 group-title="未分类",CCTV8
+http://www.yanbingg.com:1888/rtp/239.94.0.8:5140
+#EXTINF:-1 group-title="未分类",CCTV9
+http://www.yanbingg.com:1888/rtp/239.94.0.9:5140
+#EXTINF:-1 group-title="未分类",CCTV10
+http://www.yanbingg.com:1888/rtp/239.94.0.10:5140
+#EXTINF:-1 group-title="未分类",CCTV11
+http://www.yanbingg.com:1888/rtp/239.94.0.11:5140
+#EXTINF:-1 group-title="未分类",CCTV12
+http://www.yanbingg.com:1888/rtp/239.94.0.12:5140
+#EXTINF:-1 group-title="未分类",CCTV13
+http://www.yanbingg.com:1888/rtp/239.94.0.13:5140
+#EXTINF:-1 group-title="未分类",CCTV14
+http://www.yanbingg.com:1888/rtp/239.94.0.14:5140
+#EXTINF:-1 group-title="未分类",CCTV1
+http://www.yanbingg.com:1888/rtp/239.94.0.31:5140
+#EXTINF:-1 group-title="未分类",湖南卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.61:5140
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.62:5140
+#EXTINF:-1 group-title="未分类",浙江卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.63:5140
+#EXTINF:-1 group-title="未分类",东方卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.64:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://www.yanbingg.com:1888/rtp/239.94.0.65:5140
+#EXTINF:-1 group-title="未分类",深圳卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.66:5140
+#EXTINF:-1 group-title="未分类",广东卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.67:5140
+#EXTINF:-1 group-title="未分类",天津卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.68:5140
+#EXTINF:-1 group-title="未分类",山东卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.69:5140
+#EXTINF:-1 group-title="未分类",经济
+http://www.yanbingg.com:1888/rtp/239.94.0.70:5140
+#EXTINF:-1 group-title="未分类",文化旅游
+http://www.yanbingg.com:1888/rtp/239.94.0.71:5140
+#EXTINF:-1 group-title="未分类",新闻
+http://www.yanbingg.com:1888/rtp/239.94.0.72:5140
+#EXTINF:-1 group-title="未分类",影视文艺
+http://www.yanbingg.com:1888/rtp/239.94.0.73:5140
+#EXTINF:-1 group-title="未分类",星空购物
+http://www.yanbingg.com:1888/rtp/239.94.0.74:5140
+#EXTINF:-1 group-title="未分类",SCTV7
+http://www.yanbingg.com:1888/rtp/239.94.0.75:5140
+#EXTINF:-1 group-title="未分类",科教
+http://www.yanbingg.com:1888/rtp/239.94.0.76:5140
+#EXTINF:-1 group-title="未分类",四川乡村
+http://www.yanbingg.com:1888/rtp/239.94.0.77:5140
+#EXTINF:-1 group-title="未分类",康巴卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.78:5140
+#EXTINF:-1 group-title="未分类",江西卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.79:5140
+#EXTINF:-1 group-title="未分类",东南卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.80:5140
+#EXTINF:-1 group-title="未分类",黑龙江卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.81:5140
+#EXTINF:-1 group-title="未分类",重庆卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.82:5140
+#EXTINF:-1 group-title="未分类",贵州卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.83:5140
+#EXTINF:-1 group-title="未分类",湖北卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.84:5140
+#EXTINF:-1 group-title="未分类",安徽卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.85:5140
+#EXTINF:-1 group-title="未分类",河北卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.86:5140
+#EXTINF:-1 group-title="未分类",中国交通
+http://www.yanbingg.com:1888/rtp/239.94.0.87:5140
+#EXTINF:-1 group-title="未分类",河南卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.88:5140
+#EXTINF:-1 group-title="未分类",广西卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.89:5140
+#EXTINF:-1 group-title="未分类",云南卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.90:5140
+#EXTINF:-1 group-title="未分类",吉林卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.91:5140
+#EXTINF:-1 group-title="未分类",陕西卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.92:5140
+#EXTINF:-1 group-title="未分类",山西卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.93:5140
+#EXTINF:-1 group-title="未分类",INNTV
+http://www.yanbingg.com:1888/rtp/239.94.0.94:5140
+#EXTINF:-1 group-title="未分类",青海卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.95:5140
+#EXTINF:-1 group-title="未分类",宁夏
+http://www.yanbingg.com:1888/rtp/239.94.0.96:5140
+#EXTINF:-1 group-title="未分类",XZTV
+http://www.yanbingg.com:1888/rtp/239.94.0.97:5140
+#EXTINF:-1 group-title="未分类",新疆卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.98:5140
+#EXTINF:-1 group-title="未分类",甘肃卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.99:5140
+#EXTINF:-1 group-title="未分类",海南卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.100:5140
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.101:5140
+#EXTINF:-1 group-title="未分类",兵团卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.102:5140
+#EXTINF:-1 group-title="未分类",峨眉电影
+http://www.yanbingg.com:1888/rtp/239.94.0.103:5140
+#EXTINF:-1 group-title="未分类",XAMENSIAR
+http://www.yanbingg.com:1888/rtp/239.94.0.104:5140
+#EXTINF:-1 group-title="未分类",三沙卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.105:5140
+#EXTINF:-1 group-title="未分类",父
+http://www.yanbingg.com:1888/rtp/239.94.0.106:5140
+#EXTINF:-1 group-title="未分类",抢购
+http://www.yanbingg.com:1888/rtp/239.94.0.107:5140
+#EXTINF:-1 group-title="未分类",BRTV
+http://www.yanbingg.com:1888/rtp/239.94.0.109:5140
+#EXTINF:-1 group-title="未分类",安多卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.110:5140
+#EXTINF:-1 group-title="未分类",四川卫视
+http://www.yanbingg.com:1888/rtp/239.94.0.115:5140
+#EXTINF:-1 group-title="未分类",CDTV1
+http://www.yanbingg.com:1888/rtp/239.94.0.154:5140
+#EXTINF:-1 group-title="未分类",CDTV2
+http://www.yanbingg.com:1888/rtp/239.94.0.155:5140
+#EXTINF:-1 group-title="未分类",CDTV3
+http://www.yanbingg.com:1888/rtp/239.94.0.156:5140
+#EXTINF:-1 group-title="未分类",CDT4
+http://www.yanbingg.com:1888/rtp/239.94.0.157:5140
+#EXTINF:-1 group-title="未分类",CDTV5
+http://www.yanbingg.com:1888/rtp/239.94.0.158:5140
+#EXTINF:-1 group-title="未分类",CDTV6
+http://www.yanbingg.com:1888/rtp/239.94.0.159:5140
+#EXTINF:-1 group-title="未分类",CDTVE
+http://www.yanbingg.com:1888/rtp/239.94.0.160:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.yanbingg.com:1888/rtp/239.94.0.161:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.yanbingg.com:1888/rtp/239.94.0.162:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.yanbingg.com:1888/rtp/239.94.0.163:5140
+#EXTINF:-1 group-title="未分类",内江综合
+http://www.yanbingg.com:1888/rtp/239.94.0.164:5140
+#EXTINF:-1 group-title="未分类",德阳文旅科教
+http://www.yanbingg.com:1888/rtp/239.94.0.165:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.yanbingg.com:1888/rtp/239.94.0.166:5140
+#EXTINF:-1 group-title="未分类",综合
+http://www.yanbingg.com:1888/rtp/239.94.0.167:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.yanbingg.com:1888/rtp/239.94.0.168:5140
+#EXTINF:-1 group-title="未分类",综合
+http://www.yanbingg.com:1888/rtp/239.94.0.169:5140
+#EXTINF:-1 group-title="未分类",眉山综合
+http://www.yanbingg.com:1888/rtp/239.94.0.170:5140
+#EXTINF:-1 group-title="未分类",新闻综合
+http://www.yanbingg.com:1888/rtp/239.94.0.171:5140
+#EXTINF:-1 group-title="未分类",公共
+http://www.yanbingg.com:1888/rtp/239.94.0.172:5140
+#EXTINF:-1 group-title="未分类",文旅生活
+http://www.yanbingg.com:1888/rtp/239.94.0.173:5140
+#EXTINF:-1 group-title="未分类",文旅乡村
+http://www.yanbingg.com:1888/rtp/239.94.0.174:5140
+
