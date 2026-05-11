@@ -1,8 +1,0 @@
-NAS任务计划添加用户脚本：
-
-/usr/bin/python3 /volume1/群晖/IPTV Rtp/iptv.py
-
-
-添加拼音运行库：
-
-pip install xpinyin
