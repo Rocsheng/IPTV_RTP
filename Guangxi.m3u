@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="未分类",广西卫视 HD
-http://www.vvlcc.cn:8188/rtp/239.81.0.107:4056
-#EXTINF:-1 group-title="未分类",广西综艺旅游 HD
-http://www.vvlcc.cn:8188/rtp/239.81.0.214:4056
-#EXTINF:-1 group-title="未分类",广西都市 HD
-http://www.vvlcc.cn:8188/rtp/239.81.0.247:4056
-#EXTINF:-1 group-title="未分类",广西新闻 HD
-http://www.vvlcc.cn:8188/rtp/239.81.0.248:4056
-#EXTINF:-1 group-title="未分类",广西影视 HD
-http://www.vvlcc.cn:8188/rtp/239.81.0.250:4056
-#EXTINF:-1 group-title="未分类",中国气象高清
-http://www.vvlcc.cn:8188/rtp/239.81.1.100:4056
 #EXTINF:-1 group-title="未分类",CCTV1 HD
 http://www.vvlcc.cn:8188/rtp/239.81.0.102:4056
 #EXTINF:-1 group-title="未分类",CCTV2 HD
@@ -51,6 +39,18 @@ http://www.vvlcc.cn:8188/rtp/239.81.0.142:4056
 http://www.vvlcc.cn:8188/rtp/239.81.0.144:4056
 #EXTINF:-1 group-title="未分类",CCTV17 HD
 http://www.vvlcc.cn:8188/rtp/239.81.0.228:4056
+#EXTINF:-1 group-title="未分类",广西卫视 HD
+http://www.vvlcc.cn:8188/rtp/239.81.0.107:4056
+#EXTINF:-1 group-title="未分类",广西综艺旅游 HD
+http://www.vvlcc.cn:8188/rtp/239.81.0.214:4056
+#EXTINF:-1 group-title="未分类",广西都市 HD
+http://www.vvlcc.cn:8188/rtp/239.81.0.247:4056
+#EXTINF:-1 group-title="未分类",广西新闻 HD
+http://www.vvlcc.cn:8188/rtp/239.81.0.248:4056
+#EXTINF:-1 group-title="未分类",广西影视 HD
+http://www.vvlcc.cn:8188/rtp/239.81.0.250:4056
+#EXTINF:-1 group-title="未分类",中国气象高清
+http://www.vvlcc.cn:8188/rtp/239.81.1.100:4056
 #EXTINF:-1 group-title="未分类",南宁新闻综合高清
 http://www.vvlcc.cn:8188/rtp/239.81.0.241:4056
 #EXTINF:-1 group-title="未分类",南宁都市生活高清
@@ -136,18 +136,6 @@ http://www.vvlcc.cn:8188/rtp/239.81.0.239:4056
 #EXTINF:-1 group-title="未分类",CHC高清电影 HD
 http://www.vvlcc.cn:8188/rtp/239.81.0.240:4056
 
-#EXTINF:-1 group-title="未分类",广西卫视 HD
-http://gxhzxf.cn:10001/rtp/239.81.0.107:4056
-#EXTINF:-1 group-title="未分类",广西综艺旅游 HD
-http://gxhzxf.cn:10001/rtp/239.81.0.214:4056
-#EXTINF:-1 group-title="未分类",广西都市 HD
-http://gxhzxf.cn:10001/rtp/239.81.0.247:4056
-#EXTINF:-1 group-title="未分类",广西新闻 HD
-http://gxhzxf.cn:10001/rtp/239.81.0.248:4056
-#EXTINF:-1 group-title="未分类",广西影视 HD
-http://gxhzxf.cn:10001/rtp/239.81.0.250:4056
-#EXTINF:-1 group-title="未分类",中国气象高清
-http://gxhzxf.cn:10001/rtp/239.81.1.100:4056
 #EXTINF:-1 group-title="未分类",CCTV1 HD
 http://gxhzxf.cn:10001/rtp/239.81.0.102:4056
 #EXTINF:-1 group-title="未分类",CCTV2 HD
@@ -188,6 +176,18 @@ http://gxhzxf.cn:10001/rtp/239.81.0.142:4056
 http://gxhzxf.cn:10001/rtp/239.81.0.144:4056
 #EXTINF:-1 group-title="未分类",CCTV17 HD
 http://gxhzxf.cn:10001/rtp/239.81.0.228:4056
+#EXTINF:-1 group-title="未分类",广西卫视 HD
+http://gxhzxf.cn:10001/rtp/239.81.0.107:4056
+#EXTINF:-1 group-title="未分类",广西综艺旅游 HD
+http://gxhzxf.cn:10001/rtp/239.81.0.214:4056
+#EXTINF:-1 group-title="未分类",广西都市 HD
+http://gxhzxf.cn:10001/rtp/239.81.0.247:4056
+#EXTINF:-1 group-title="未分类",广西新闻 HD
+http://gxhzxf.cn:10001/rtp/239.81.0.248:4056
+#EXTINF:-1 group-title="未分类",广西影视 HD
+http://gxhzxf.cn:10001/rtp/239.81.0.250:4056
+#EXTINF:-1 group-title="未分类",中国气象高清
+http://gxhzxf.cn:10001/rtp/239.81.1.100:4056
 #EXTINF:-1 group-title="未分类",南宁新闻综合高清
 http://gxhzxf.cn:10001/rtp/239.81.0.241:4056
 #EXTINF:-1 group-title="未分类",南宁都市生活高清
@@ -273,18 +273,6 @@ http://gxhzxf.cn:10001/rtp/239.81.0.239:4056
 #EXTINF:-1 group-title="未分类",CHC高清电影 HD
 http://gxhzxf.cn:10001/rtp/239.81.0.240:4056
 
-#EXTINF:-1 group-title="未分类",广西卫视 HD
-http://www.jtmi.vip:10001/rtp/239.81.0.107:4056
-#EXTINF:-1 group-title="未分类",广西综艺旅游 HD
-http://www.jtmi.vip:10001/rtp/239.81.0.214:4056
-#EXTINF:-1 group-title="未分类",广西都市 HD
-http://www.jtmi.vip:10001/rtp/239.81.0.247:4056
-#EXTINF:-1 group-title="未分类",广西新闻 HD
-http://www.jtmi.vip:10001/rtp/239.81.0.248:4056
-#EXTINF:-1 group-title="未分类",广西影视 HD
-http://www.jtmi.vip:10001/rtp/239.81.0.250:4056
-#EXTINF:-1 group-title="未分类",中国气象高清
-http://www.jtmi.vip:10001/rtp/239.81.1.100:4056
 #EXTINF:-1 group-title="未分类",CCTV1 HD
 http://www.jtmi.vip:10001/rtp/239.81.0.102:4056
 #EXTINF:-1 group-title="未分类",CCTV2 HD
@@ -325,6 +313,18 @@ http://www.jtmi.vip:10001/rtp/239.81.0.142:4056
 http://www.jtmi.vip:10001/rtp/239.81.0.144:4056
 #EXTINF:-1 group-title="未分类",CCTV17 HD
 http://www.jtmi.vip:10001/rtp/239.81.0.228:4056
+#EXTINF:-1 group-title="未分类",广西卫视 HD
+http://www.jtmi.vip:10001/rtp/239.81.0.107:4056
+#EXTINF:-1 group-title="未分类",广西综艺旅游 HD
+http://www.jtmi.vip:10001/rtp/239.81.0.214:4056
+#EXTINF:-1 group-title="未分类",广西都市 HD
+http://www.jtmi.vip:10001/rtp/239.81.0.247:4056
+#EXTINF:-1 group-title="未分类",广西新闻 HD
+http://www.jtmi.vip:10001/rtp/239.81.0.248:4056
+#EXTINF:-1 group-title="未分类",广西影视 HD
+http://www.jtmi.vip:10001/rtp/239.81.0.250:4056
+#EXTINF:-1 group-title="未分类",中国气象高清
+http://www.jtmi.vip:10001/rtp/239.81.1.100:4056
 #EXTINF:-1 group-title="未分类",南宁新闻综合高清
 http://www.jtmi.vip:10001/rtp/239.81.0.241:4056
 #EXTINF:-1 group-title="未分类",南宁都市生活高清
