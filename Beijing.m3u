@@ -1,204 +1,30 @@
 #EXTM3U
-#EXTINF:-1 group-title="未分类",BRTV科教
-http://triq.cc:8012/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="未分类",CCTV16 4K
-http://triq.cc:8012/rtp/239.3.1.183:8001
+http://hcie360.cn:10001/rtp/239.3.1.183:8001
 #EXTINF:-1 group-title="未分类",少儿
-http://triq.cc:8012/rtp/239.3.1.238:8001
+http://hcie360.cn:10001/rtp/239.3.1.238:8001
 #EXTINF:-1 group-title="未分类",淘电影
-http://triq.cc:8012/rtp/239.3.1.250:8001
+http://hcie360.cn:10001/rtp/239.3.1.250:8001
 #EXTINF:-1 group-title="未分类",北京4K
-http://triq.cc:8012/rtp/239.3.1.249:8001
-#EXTINF:-1 group-title="未分类",房山电视台
-http://triq.cc:8012/rtp/239.3.1.96:8001
-#EXTINF:-1 group-title="未分类",密云电视台
-http://triq.cc:8012/rtp/239.3.1.154:8001
+http://hcie360.cn:10001/rtp/239.3.1.249:8001
 #EXTINF:-1 group-title="未分类",爱上4K[超清]
-http://triq.cc:8012/rtp/239.3.1.236:2000
+http://hcie360.cn:10001/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="未分类",房山电视台
+http://hcie360.cn:10001/rtp/239.3.1.96:8001
+#EXTINF:-1 group-title="未分类",密云电视台
+http://hcie360.cn:10001/rtp/239.3.1.154:8001
 #EXTINF:-1 group-title="未分类",BRTV新闻
-http://triq.cc:8012/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="未分类",BRTV影视
-http://triq.cc:8012/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="未分类",BRTV文艺
-http://triq.cc:8012/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="未分类",BRTV财经
-http://triq.cc:8012/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="未分类",BRTV生活
-http://triq.cc:8012/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="未分类",BRTV青年
-http://triq.cc:8012/rtp/239.3.1.118:8000
-
+http://hcie360.cn:10001/rtp/239.3.1.159:8000
 #EXTINF:-1 group-title="未分类",BRTV科教
-http://qb.yaoleyaotou.com:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="未分类",CCTV16 4K
-http://qb.yaoleyaotou.com:4022/rtp/239.3.1.183:8001
-#EXTINF:-1 group-title="未分类",少儿
-http://qb.yaoleyaotou.com:4022/rtp/239.3.1.238:8001
-#EXTINF:-1 group-title="未分类",淘电影
-http://qb.yaoleyaotou.com:4022/rtp/239.3.1.250:8001
-#EXTINF:-1 group-title="未分类",北京4K
-http://qb.yaoleyaotou.com:4022/rtp/239.3.1.249:8001
-#EXTINF:-1 group-title="未分类",房山电视台
-http://qb.yaoleyaotou.com:4022/rtp/239.3.1.96:8001
-#EXTINF:-1 group-title="未分类",密云电视台
-http://qb.yaoleyaotou.com:4022/rtp/239.3.1.154:8001
-#EXTINF:-1 group-title="未分类",爱上4K[超清]
-http://qb.yaoleyaotou.com:4022/rtp/239.3.1.236:2000
-#EXTINF:-1 group-title="未分类",BRTV新闻
-http://qb.yaoleyaotou.com:4022/rtp/239.3.1.159:8000
+http://hcie360.cn:10001/rtp/239.3.1.115:8000
 #EXTINF:-1 group-title="未分类",BRTV影视
-http://qb.yaoleyaotou.com:4022/rtp/239.3.1.158:8000
+http://hcie360.cn:10001/rtp/239.3.1.158:8000
 #EXTINF:-1 group-title="未分类",BRTV文艺
-http://qb.yaoleyaotou.com:4022/rtp/239.3.1.242:8000
+http://hcie360.cn:10001/rtp/239.3.1.242:8000
 #EXTINF:-1 group-title="未分类",BRTV财经
-http://qb.yaoleyaotou.com:4022/rtp/239.3.1.116:8000
+http://hcie360.cn:10001/rtp/239.3.1.116:8000
 #EXTINF:-1 group-title="未分类",BRTV生活
-http://qb.yaoleyaotou.com:4022/rtp/239.3.1.117:8000
+http://hcie360.cn:10001/rtp/239.3.1.117:8000
 #EXTINF:-1 group-title="未分类",BRTV青年
-http://qb.yaoleyaotou.com:4022/rtp/239.3.1.118:8000
-
-#EXTINF:-1 group-title="未分类",BRTV科教
-http://221111.best:8012/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="未分类",CCTV16 4K
-http://221111.best:8012/rtp/239.3.1.183:8001
-#EXTINF:-1 group-title="未分类",少儿
-http://221111.best:8012/rtp/239.3.1.238:8001
-#EXTINF:-1 group-title="未分类",淘电影
-http://221111.best:8012/rtp/239.3.1.250:8001
-#EXTINF:-1 group-title="未分类",北京4K
-http://221111.best:8012/rtp/239.3.1.249:8001
-#EXTINF:-1 group-title="未分类",房山电视台
-http://221111.best:8012/rtp/239.3.1.96:8001
-#EXTINF:-1 group-title="未分类",密云电视台
-http://221111.best:8012/rtp/239.3.1.154:8001
-#EXTINF:-1 group-title="未分类",爱上4K[超清]
-http://221111.best:8012/rtp/239.3.1.236:2000
-#EXTINF:-1 group-title="未分类",BRTV新闻
-http://221111.best:8012/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="未分类",BRTV影视
-http://221111.best:8012/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="未分类",BRTV文艺
-http://221111.best:8012/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="未分类",BRTV财经
-http://221111.best:8012/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="未分类",BRTV生活
-http://221111.best:8012/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="未分类",BRTV青年
-http://221111.best:8012/rtp/239.3.1.118:8000
-
-#EXTINF:-1 group-title="未分类",BRTV科教
-http://file.rbscraft.com:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="未分类",CCTV16 4K
-http://file.rbscraft.com:4022/rtp/239.3.1.183:8001
-#EXTINF:-1 group-title="未分类",少儿
-http://file.rbscraft.com:4022/rtp/239.3.1.238:8001
-#EXTINF:-1 group-title="未分类",淘电影
-http://file.rbscraft.com:4022/rtp/239.3.1.250:8001
-#EXTINF:-1 group-title="未分类",北京4K
-http://file.rbscraft.com:4022/rtp/239.3.1.249:8001
-#EXTINF:-1 group-title="未分类",房山电视台
-http://file.rbscraft.com:4022/rtp/239.3.1.96:8001
-#EXTINF:-1 group-title="未分类",密云电视台
-http://file.rbscraft.com:4022/rtp/239.3.1.154:8001
-#EXTINF:-1 group-title="未分类",爱上4K[超清]
-http://file.rbscraft.com:4022/rtp/239.3.1.236:2000
-#EXTINF:-1 group-title="未分类",BRTV新闻
-http://file.rbscraft.com:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="未分类",BRTV影视
-http://file.rbscraft.com:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="未分类",BRTV文艺
-http://file.rbscraft.com:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="未分类",BRTV财经
-http://file.rbscraft.com:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="未分类",BRTV生活
-http://file.rbscraft.com:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="未分类",BRTV青年
-http://file.rbscraft.com:4022/rtp/239.3.1.118:8000
-
-#EXTINF:-1 group-title="未分类",BRTV科教
-http://www.ikuai.me:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="未分类",CCTV16 4K
-http://www.ikuai.me:4022/rtp/239.3.1.183:8001
-#EXTINF:-1 group-title="未分类",少儿
-http://www.ikuai.me:4022/rtp/239.3.1.238:8001
-#EXTINF:-1 group-title="未分类",淘电影
-http://www.ikuai.me:4022/rtp/239.3.1.250:8001
-#EXTINF:-1 group-title="未分类",北京4K
-http://www.ikuai.me:4022/rtp/239.3.1.249:8001
-#EXTINF:-1 group-title="未分类",房山电视台
-http://www.ikuai.me:4022/rtp/239.3.1.96:8001
-#EXTINF:-1 group-title="未分类",密云电视台
-http://www.ikuai.me:4022/rtp/239.3.1.154:8001
-#EXTINF:-1 group-title="未分类",爱上4K[超清]
-http://www.ikuai.me:4022/rtp/239.3.1.236:2000
-#EXTINF:-1 group-title="未分类",BRTV新闻
-http://www.ikuai.me:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="未分类",BRTV影视
-http://www.ikuai.me:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="未分类",BRTV文艺
-http://www.ikuai.me:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="未分类",BRTV财经
-http://www.ikuai.me:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="未分类",BRTV生活
-http://www.ikuai.me:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="未分类",BRTV青年
-http://www.ikuai.me:4022/rtp/239.3.1.118:8000
-
-#EXTINF:-1 group-title="未分类",BRTV科教
-http://thomastian.duckdns.org:8012/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="未分类",CCTV16 4K
-http://thomastian.duckdns.org:8012/rtp/239.3.1.183:8001
-#EXTINF:-1 group-title="未分类",少儿
-http://thomastian.duckdns.org:8012/rtp/239.3.1.238:8001
-#EXTINF:-1 group-title="未分类",淘电影
-http://thomastian.duckdns.org:8012/rtp/239.3.1.250:8001
-#EXTINF:-1 group-title="未分类",北京4K
-http://thomastian.duckdns.org:8012/rtp/239.3.1.249:8001
-#EXTINF:-1 group-title="未分类",房山电视台
-http://thomastian.duckdns.org:8012/rtp/239.3.1.96:8001
-#EXTINF:-1 group-title="未分类",密云电视台
-http://thomastian.duckdns.org:8012/rtp/239.3.1.154:8001
-#EXTINF:-1 group-title="未分类",爱上4K[超清]
-http://thomastian.duckdns.org:8012/rtp/239.3.1.236:2000
-#EXTINF:-1 group-title="未分类",BRTV新闻
-http://thomastian.duckdns.org:8012/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="未分类",BRTV影视
-http://thomastian.duckdns.org:8012/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="未分类",BRTV文艺
-http://thomastian.duckdns.org:8012/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="未分类",BRTV财经
-http://thomastian.duckdns.org:8012/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="未分类",BRTV生活
-http://thomastian.duckdns.org:8012/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="未分类",BRTV青年
-http://thomastian.duckdns.org:8012/rtp/239.3.1.118:8000
-
-#EXTINF:-1 group-title="未分类",BRTV科教
-http://unicom3.swjms.com:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="未分类",CCTV16 4K
-http://unicom3.swjms.com:4022/rtp/239.3.1.183:8001
-#EXTINF:-1 group-title="未分类",少儿
-http://unicom3.swjms.com:4022/rtp/239.3.1.238:8001
-#EXTINF:-1 group-title="未分类",淘电影
-http://unicom3.swjms.com:4022/rtp/239.3.1.250:8001
-#EXTINF:-1 group-title="未分类",北京4K
-http://unicom3.swjms.com:4022/rtp/239.3.1.249:8001
-#EXTINF:-1 group-title="未分类",房山电视台
-http://unicom3.swjms.com:4022/rtp/239.3.1.96:8001
-#EXTINF:-1 group-title="未分类",密云电视台
-http://unicom3.swjms.com:4022/rtp/239.3.1.154:8001
-#EXTINF:-1 group-title="未分类",爱上4K[超清]
-http://unicom3.swjms.com:4022/rtp/239.3.1.236:2000
-#EXTINF:-1 group-title="未分类",BRTV新闻
-http://unicom3.swjms.com:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="未分类",BRTV影视
-http://unicom3.swjms.com:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="未分类",BRTV文艺
-http://unicom3.swjms.com:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="未分类",BRTV财经
-http://unicom3.swjms.com:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="未分类",BRTV生活
-http://unicom3.swjms.com:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="未分类",BRTV青年
-http://unicom3.swjms.com:4022/rtp/239.3.1.118:8000
+http://hcie360.cn:10001/rtp/239.3.1.118:8000
 
