@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV1综合
+#EXTINF:-1 group-title="央视频道",CCTV1
 http://www.nlmxy.top:4000/rtp/233.50.201.118:5140
-#EXTINF:-1 group-title="央视频道",CCTV2财经
+#EXTINF:-1 group-title="央视频道",CCTV2
 http://www.nlmxy.top:4000/rtp/233.50.201.119:5140
-#EXTINF:-1 group-title="央视频道",CCTV3综艺
+#EXTINF:-1 group-title="央视频道",CCTV3
 http://www.nlmxy.top:4000/rtp/233.50.201.196:5140
-#EXTINF:-1 group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 group-title="央视频道",CCTV4
 http://www.nlmxy.top:4000/rtp/233.50.200.101:5140
-#EXTINF:-1 group-title="央视频道",CCTV5体育
+#EXTINF:-1 group-title="央视频道",CCTV5
 http://www.nlmxy.top:4000/rtp/233.50.201.197:5140
-#EXTINF:-1 group-title="央视频道",CCTV5+体育赛事
+#EXTINF:-1 group-title="央视频道",CCTV5+
 http://www.nlmxy.top:4000/rtp/233.50.201.220:5140
-#EXTINF:-1 group-title="央视频道",CCTV6电影
+#EXTINF:-1 group-title="央视频道",CCTV6
 http://www.nlmxy.top:4000/rtp/233.50.201.198:5140
-#EXTINF:-1 group-title="央视频道",CCTV7国防军事
+#EXTINF:-1 group-title="央视频道",CCTV7
 http://www.nlmxy.top:4000/rtp/233.50.201.120:5140
-#EXTINF:-1 group-title="央视频道",CCTV8电视剧
+#EXTINF:-1 group-title="央视频道",CCTV8
 http://www.nlmxy.top:4000/rtp/233.50.201.199:5140
-#EXTINF:-1 group-title="央视频道",CCTV9纪录
+#EXTINF:-1 group-title="央视频道",CCTV9
 http://www.nlmxy.top:4000/rtp/233.50.201.121:5140
-#EXTINF:-1 group-title="央视频道",CCTV10科教
+#EXTINF:-1 group-title="央视频道",CCTV10
 http://www.nlmxy.top:4000/rtp/233.50.201.122:5140
-#EXTINF:-1 group-title="央视频道",CCTV11戏曲
+#EXTINF:-1 group-title="央视频道",CCTV11
 http://www.nlmxy.top:4000/rtp/233.50.202.39:5140
-#EXTINF:-1 group-title="央视频道",CCTV12社会与法
+#EXTINF:-1 group-title="央视频道",CCTV12
 http://www.nlmxy.top:4000/rtp/233.50.201.123:5140
-#EXTINF:-1 group-title="央视频道",CCTV13新闻
+#EXTINF:-1 group-title="央视频道",CCTV13
 http://www.nlmxy.top:4000/rtp/233.50.201.246:5140
-#EXTINF:-1 group-title="央视频道",CCTV14少儿
+#EXTINF:-1 group-title="央视频道",CCTV14
 http://www.nlmxy.top:4000/rtp/233.50.201.124:5140
-#EXTINF:-1 group-title="央视频道",CCTV15音乐
+#EXTINF:-1 group-title="央视频道",CCTV15
 http://www.nlmxy.top:4000/rtp/233.50.202.40:5140
-#EXTINF:-1 group-title="央视频道",CCTV16奥林匹克4k
+#EXTINF:-1 group-title="央视频道",CCTV164k
 http://www.nlmxy.top:4000/rtp/233.50.201.63:5140
-#EXTINF:-1 group-title="央视频道",CCTV16奥林匹克
+#EXTINF:-1 group-title="央视频道",CCTV16
 http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
-#EXTINF:-1 group-title="央视频道",CCTV17农业农村
+#EXTINF:-1 group-title="央视频道",CCTV17
 http://www.nlmxy.top:4000/rtp/233.50.200.113:5140
 #EXTINF:-1 group-title="国际频道",CGTN英语
 http://www.nlmxy.top:4000/rtp/233.50.201.126:5140
