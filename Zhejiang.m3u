@@ -23,7 +23,7 @@ http://www.nlmxy.top:4000/rtp/233.50.201.121:5140
 http://www.nlmxy.top:4000/rtp/233.50.201.122:5140
 #EXTINF:-1 group-title="央视频道",CCTV11戏曲
 http://www.nlmxy.top:4000/rtp/233.50.200.132:5140
-#EXTINF:-1 group-title="央视频道",CCTV11戏曲4K
+#EXTINF:-1 group-title="央视频道",CCTV11戏曲
 http://www.nlmxy.top:4000/rtp/233.50.202.39:5140
 #EXTINF:-1 group-title="央视频道",CCTV12社会与法
 http://www.nlmxy.top:4000/rtp/233.50.201.123:5140
@@ -33,7 +33,7 @@ http://www.nlmxy.top:4000/rtp/233.50.201.246:5140
 http://www.nlmxy.top:4000/rtp/233.50.201.124:5140
 #EXTINF:-1 group-title="央视频道",CCTV15音乐
 http://www.nlmxy.top:4000/rtp/233.50.200.133:5140
-#EXTINF:-1 group-title="央视频道",CCTV15音乐4K
+#EXTINF:-1 group-title="央视频道",CCTV15音乐
 http://www.nlmxy.top:4000/rtp/233.50.202.40:5140
 #EXTINF:-1 group-title="央视频道",CCTV16奥林匹克
 http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
@@ -53,11 +53,11 @@ http://www.nlmxy.top:4000/rtp/233.50.201.38:5140
 http://www.nlmxy.top:4000/rtp/233.50.201.39:5140
 #EXTINF:-1 group-title="国际频道",凤凰卫视中文
 http://www.nlmxy.top:4000/rtp/233.50.200.191:5140
-#EXTINF:-1 group-title="国际频道",凤凰卫视中文4K
+#EXTINF:-1 group-title="国际频道",凤凰卫视中文
 http://www.nlmxy.top:4000/rtp/233.50.202.35:5140
 #EXTINF:-1 group-title="国际频道",凤凰卫视资讯
 http://www.nlmxy.top:4000/rtp/233.50.200.192:5140
-#EXTINF:-1 group-title="国际频道",凤凰卫视资讯4K
+#EXTINF:-1 group-title="国际频道",凤凰卫视资讯
 http://www.nlmxy.top:4000/rtp/233.50.202.36:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://www.nlmxy.top:4000/rtp/233.50.201.100:5140
@@ -229,6 +229,8 @@ http://www.nlmxy.top:4000/rtp/233.50.201.207:5140
 http://www.nlmxy.top:4000/rtp/233.50.201.215:5140
 #EXTINF:-1 group-title="特色频道",BesTV
 http://www.nlmxy.top:4000/rtp/233.50.201.201:5140
+#EXTINF:-1 group-title="特色频道",BesTV
+http://www.nlmxy.top:4000/rtp/233.50.202.26:5140
 #EXTINF:-1 group-title="特色频道",BesTV-1
 http://www.nlmxy.top:4000/rtp/233.50.200.182:5140
 #EXTINF:-1 group-title="特色频道",BesTV-2
@@ -253,8 +255,6 @@ http://www.nlmxy.top:4000/rtp/233.50.201.186:5140
 http://www.nlmxy.top:4000/rtp/233.50.202.33:5140
 #EXTINF:-1 group-title="生活频道",睛彩竞技
 http://www.nlmxy.top:4000/rtp/233.50.200.245:5140
-#EXTINF:-1 group-title="生活频道",晴彩竞技
-http://www.nlmxy.top:4000/rtp/233.50.202.26:5140
 #EXTINF:-1 group-title="生活频道",晴彩篮球
 http://www.nlmxy.top:4000/rtp/233.50.202.27:5140
 #EXTINF:-1 group-title="生活频道",晴彩广场舞
@@ -304,7 +304,7 @@ http://hjro.cn:9999/rtp/233.50.201.121:5140
 http://hjro.cn:9999/rtp/233.50.201.122:5140
 #EXTINF:-1 group-title="央视频道",CCTV11戏曲
 http://hjro.cn:9999/rtp/233.50.200.132:5140
-#EXTINF:-1 group-title="央视频道",CCTV11戏曲4K
+#EXTINF:-1 group-title="央视频道",CCTV11戏曲
 http://hjro.cn:9999/rtp/233.50.202.39:5140
 #EXTINF:-1 group-title="央视频道",CCTV12社会与法
 http://hjro.cn:9999/rtp/233.50.201.123:5140
@@ -314,7 +314,7 @@ http://hjro.cn:9999/rtp/233.50.201.246:5140
 http://hjro.cn:9999/rtp/233.50.201.124:5140
 #EXTINF:-1 group-title="央视频道",CCTV15音乐
 http://hjro.cn:9999/rtp/233.50.200.133:5140
-#EXTINF:-1 group-title="央视频道",CCTV15音乐4K
+#EXTINF:-1 group-title="央视频道",CCTV15音乐
 http://hjro.cn:9999/rtp/233.50.202.40:5140
 #EXTINF:-1 group-title="央视频道",CCTV16奥林匹克
 http://hjro.cn:9999/rtp/233.50.201.192:5140
@@ -334,11 +334,11 @@ http://hjro.cn:9999/rtp/233.50.201.38:5140
 http://hjro.cn:9999/rtp/233.50.201.39:5140
 #EXTINF:-1 group-title="国际频道",凤凰卫视中文
 http://hjro.cn:9999/rtp/233.50.200.191:5140
-#EXTINF:-1 group-title="国际频道",凤凰卫视中文4K
+#EXTINF:-1 group-title="国际频道",凤凰卫视中文
 http://hjro.cn:9999/rtp/233.50.202.35:5140
 #EXTINF:-1 group-title="国际频道",凤凰卫视资讯
 http://hjro.cn:9999/rtp/233.50.200.192:5140
-#EXTINF:-1 group-title="国际频道",凤凰卫视资讯4K
+#EXTINF:-1 group-title="国际频道",凤凰卫视资讯
 http://hjro.cn:9999/rtp/233.50.202.36:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://hjro.cn:9999/rtp/233.50.201.100:5140
@@ -510,6 +510,8 @@ http://hjro.cn:9999/rtp/233.50.201.207:5140
 http://hjro.cn:9999/rtp/233.50.201.215:5140
 #EXTINF:-1 group-title="特色频道",BesTV
 http://hjro.cn:9999/rtp/233.50.201.201:5140
+#EXTINF:-1 group-title="特色频道",BesTV
+http://hjro.cn:9999/rtp/233.50.202.26:5140
 #EXTINF:-1 group-title="特色频道",BesTV-1
 http://hjro.cn:9999/rtp/233.50.200.182:5140
 #EXTINF:-1 group-title="特色频道",BesTV-2
@@ -534,8 +536,6 @@ http://hjro.cn:9999/rtp/233.50.201.186:5140
 http://hjro.cn:9999/rtp/233.50.202.33:5140
 #EXTINF:-1 group-title="生活频道",睛彩竞技
 http://hjro.cn:9999/rtp/233.50.200.245:5140
-#EXTINF:-1 group-title="生活频道",晴彩竞技
-http://hjro.cn:9999/rtp/233.50.202.26:5140
 #EXTINF:-1 group-title="生活频道",晴彩篮球
 http://hjro.cn:9999/rtp/233.50.202.27:5140
 #EXTINF:-1 group-title="生活频道",晴彩广场舞
