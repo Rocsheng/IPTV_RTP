@@ -11,12 +11,12 @@ CCTV8电视剧,http://www.nlmxy.top:4000/rtp/233.50.201.199:5140
 CCTV9纪录,http://www.nlmxy.top:4000/rtp/233.50.201.121:5140
 CCTV10科教,http://www.nlmxy.top:4000/rtp/233.50.201.122:5140
 CCTV11戏曲,http://www.nlmxy.top:4000/rtp/233.50.200.132:5140
-CCTV11戏曲4K,http://www.nlmxy.top:4000/rtp/233.50.202.39:5140
+CCTV11戏曲,http://www.nlmxy.top:4000/rtp/233.50.202.39:5140
 CCTV12社会与法,http://www.nlmxy.top:4000/rtp/233.50.201.123:5140
 CCTV13新闻,http://www.nlmxy.top:4000/rtp/233.50.201.246:5140
 CCTV14少儿,http://www.nlmxy.top:4000/rtp/233.50.201.124:5140
 CCTV15音乐,http://www.nlmxy.top:4000/rtp/233.50.200.133:5140
-CCTV15音乐4K,http://www.nlmxy.top:4000/rtp/233.50.202.40:5140
+CCTV15音乐,http://www.nlmxy.top:4000/rtp/233.50.202.40:5140
 CCTV16奥林匹克,http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
 CCTV16奥林匹克4K,http://www.nlmxy.top:4000/rtp/233.50.201.63:5140
 CCTV17农业农村,http://www.nlmxy.top:4000/rtp/233.50.200.113:5140
@@ -28,9 +28,9 @@ CGTN法语,http://www.nlmxy.top:4000/rtp/233.50.201.37:5140
 CGTN阿语,http://www.nlmxy.top:4000/rtp/233.50.201.38:5140
 CGTN俄语,http://www.nlmxy.top:4000/rtp/233.50.201.39:5140
 凤凰卫视中文,http://www.nlmxy.top:4000/rtp/233.50.200.191:5140
-凤凰卫视中文4K,http://www.nlmxy.top:4000/rtp/233.50.202.35:5140
+凤凰卫视中文,http://www.nlmxy.top:4000/rtp/233.50.202.35:5140
 凤凰卫视资讯,http://www.nlmxy.top:4000/rtp/233.50.200.192:5140
-凤凰卫视资讯4K,http://www.nlmxy.top:4000/rtp/233.50.202.36:5140
+凤凰卫视资讯,http://www.nlmxy.top:4000/rtp/233.50.202.36:5140
 
 卫视频道,#genre#
 浙江卫视,http://www.nlmxy.top:4000/rtp/233.50.201.100:5140
@@ -124,6 +124,7 @@ CGTN俄语,http://www.nlmxy.top:4000/rtp/233.50.201.39:5140
 游戏频道,http://www.nlmxy.top:4000/rtp/233.50.201.207:5140
 游戏频道,http://www.nlmxy.top:4000/rtp/233.50.201.215:5140
 BesTV,http://www.nlmxy.top:4000/rtp/233.50.201.201:5140
+BesTV,http://www.nlmxy.top:4000/rtp/233.50.202.26:5140
 BesTV-1,http://www.nlmxy.top:4000/rtp/233.50.200.182:5140
 BesTV-2,http://www.nlmxy.top:4000/rtp/233.50.200.183:5140
 BesTV-3,http://www.nlmxy.top:4000/rtp/233.50.200.185:5140
@@ -138,7 +139,6 @@ BesTV-3,http://www.nlmxy.top:4000/rtp/233.50.200.185:5140
 金色学堂,http://www.nlmxy.top:4000/rtp/233.50.201.186:5140
 卡酷少儿,http://www.nlmxy.top:4000/rtp/233.50.202.33:5140
 睛彩竞技,http://www.nlmxy.top:4000/rtp/233.50.200.245:5140
-晴彩竞技,http://www.nlmxy.top:4000/rtp/233.50.202.26:5140
 晴彩篮球,http://www.nlmxy.top:4000/rtp/233.50.202.27:5140
 晴彩广场舞,http://www.nlmxy.top:4000/rtp/233.50.202.29:5140
 好易购,http://www.nlmxy.top:4000/rtp/233.50.201.248:5140
@@ -168,12 +168,12 @@ CCTV8电视剧,http://hjro.cn:9999/rtp/233.50.201.199:5140
 CCTV9纪录,http://hjro.cn:9999/rtp/233.50.201.121:5140
 CCTV10科教,http://hjro.cn:9999/rtp/233.50.201.122:5140
 CCTV11戏曲,http://hjro.cn:9999/rtp/233.50.200.132:5140
-CCTV11戏曲4K,http://hjro.cn:9999/rtp/233.50.202.39:5140
+CCTV11戏曲,http://hjro.cn:9999/rtp/233.50.202.39:5140
 CCTV12社会与法,http://hjro.cn:9999/rtp/233.50.201.123:5140
 CCTV13新闻,http://hjro.cn:9999/rtp/233.50.201.246:5140
 CCTV14少儿,http://hjro.cn:9999/rtp/233.50.201.124:5140
 CCTV15音乐,http://hjro.cn:9999/rtp/233.50.200.133:5140
-CCTV15音乐4K,http://hjro.cn:9999/rtp/233.50.202.40:5140
+CCTV15音乐,http://hjro.cn:9999/rtp/233.50.202.40:5140
 CCTV16奥林匹克,http://hjro.cn:9999/rtp/233.50.201.192:5140
 CCTV16奥林匹克4K,http://hjro.cn:9999/rtp/233.50.201.63:5140
 CCTV17农业农村,http://hjro.cn:9999/rtp/233.50.200.113:5140
@@ -185,9 +185,9 @@ CGTN法语,http://hjro.cn:9999/rtp/233.50.201.37:5140
 CGTN阿语,http://hjro.cn:9999/rtp/233.50.201.38:5140
 CGTN俄语,http://hjro.cn:9999/rtp/233.50.201.39:5140
 凤凰卫视中文,http://hjro.cn:9999/rtp/233.50.200.191:5140
-凤凰卫视中文4K,http://hjro.cn:9999/rtp/233.50.202.35:5140
+凤凰卫视中文,http://hjro.cn:9999/rtp/233.50.202.35:5140
 凤凰卫视资讯,http://hjro.cn:9999/rtp/233.50.200.192:5140
-凤凰卫视资讯4K,http://hjro.cn:9999/rtp/233.50.202.36:5140
+凤凰卫视资讯,http://hjro.cn:9999/rtp/233.50.202.36:5140
 
 卫视频道,#genre#
 浙江卫视,http://hjro.cn:9999/rtp/233.50.201.100:5140
@@ -281,6 +281,7 @@ CGTN俄语,http://hjro.cn:9999/rtp/233.50.201.39:5140
 游戏频道,http://hjro.cn:9999/rtp/233.50.201.207:5140
 游戏频道,http://hjro.cn:9999/rtp/233.50.201.215:5140
 BesTV,http://hjro.cn:9999/rtp/233.50.201.201:5140
+BesTV,http://hjro.cn:9999/rtp/233.50.202.26:5140
 BesTV-1,http://hjro.cn:9999/rtp/233.50.200.182:5140
 BesTV-2,http://hjro.cn:9999/rtp/233.50.200.183:5140
 BesTV-3,http://hjro.cn:9999/rtp/233.50.200.185:5140
@@ -295,7 +296,6 @@ BesTV-3,http://hjro.cn:9999/rtp/233.50.200.185:5140
 金色学堂,http://hjro.cn:9999/rtp/233.50.201.186:5140
 卡酷少儿,http://hjro.cn:9999/rtp/233.50.202.33:5140
 睛彩竞技,http://hjro.cn:9999/rtp/233.50.200.245:5140
-晴彩竞技,http://hjro.cn:9999/rtp/233.50.202.26:5140
 晴彩篮球,http://hjro.cn:9999/rtp/233.50.202.27:5140
 晴彩广场舞,http://hjro.cn:9999/rtp/233.50.202.29:5140
 好易购,http://hjro.cn:9999/rtp/233.50.201.248:5140
