@@ -19,7 +19,7 @@ CCTV16奥林匹克,http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
 CCTV17农业农村,http://www.nlmxy.top:4000/rtp/233.50.200.113:5140
 
 4K频道,#genre#
-CCTV16,http://www.nlmxy.top:4000/rtp/233.50.201.63:5140
+CCTV16奥林匹克,http://www.nlmxy.top:4000/rtp/233.50.201.63:5140
 北京卫视,http://www.nlmxy.top:4000/rtp/233.50.202.100:5140
 广东卫视,http://www.nlmxy.top:4000/rtp/233.50.202.101:5140
 深圳卫视,http://www.nlmxy.top:4000/rtp/233.50.202.102:5140
@@ -184,7 +184,7 @@ CCTV16奥林匹克,http://hjro.cn:9999/rtp/233.50.201.192:5140
 CCTV17农业农村,http://hjro.cn:9999/rtp/233.50.200.113:5140
 
 4K频道,#genre#
-CCTV16,http://hjro.cn:9999/rtp/233.50.201.63:5140
+CCTV16奥林匹克,http://hjro.cn:9999/rtp/233.50.201.63:5140
 北京卫视,http://hjro.cn:9999/rtp/233.50.202.100:5140
 广东卫视,http://hjro.cn:9999/rtp/233.50.202.101:5140
 深圳卫视,http://hjro.cn:9999/rtp/233.50.202.102:5140
