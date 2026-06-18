@@ -34,13 +34,6 @@ BesTV-1,http://www.nlmxy.top:4000/rtp/233.50.200.182:5140
 BesTV-2,http://www.nlmxy.top:4000/rtp/233.50.200.183:5140
 BesTV-3,http://www.nlmxy.top:4000/rtp/233.50.200.185:5140
 
-国际频道,#genre#
-CGTN英语,http://www.nlmxy.top:4000/rtp/233.50.201.126:5140
-CGTN西语,http://www.nlmxy.top:4000/rtp/233.50.201.36:5140
-CGTN法语,http://www.nlmxy.top:4000/rtp/233.50.201.37:5140
-CGTN阿语,http://www.nlmxy.top:4000/rtp/233.50.201.38:5140
-CGTN俄语,http://www.nlmxy.top:4000/rtp/233.50.201.39:5140
-
 卫视频道,#genre#
 浙江卫视,http://www.nlmxy.top:4000/rtp/233.50.201.100:5140
 东方卫视,http://www.nlmxy.top:4000/rtp/233.50.201.125:5140
@@ -119,14 +112,21 @@ CGTN俄语,http://www.nlmxy.top:4000/rtp/233.50.201.39:5140
 临平新闻,http://www.nlmxy.top:4000/rtp/233.50.202.32:5140
 纪实科教,http://www.nlmxy.top:4000/rtp/233.50.202.34:5140
 
+国际频道,#genre#
+CGTN英语,http://www.nlmxy.top:4000/rtp/233.50.201.126:5140
+CGTN西语,http://www.nlmxy.top:4000/rtp/233.50.201.36:5140
+CGTN法语,http://www.nlmxy.top:4000/rtp/233.50.201.37:5140
+CGTN阿语,http://www.nlmxy.top:4000/rtp/233.50.201.38:5140
+CGTN俄语,http://www.nlmxy.top:4000/rtp/233.50.201.39:5140
+
 教育频道,#genre#
-中国教育一套,http://www.nlmxy.top:4000/rtp/233.50.200.169:5140
-中国教育四套,http://www.nlmxy.top:4000/rtp/233.50.200.162:5140
-中国教育四套,rhttp://www.nlmxy.top:4000/rtp/233.50.200.174:5140
+CETV1,http://www.nlmxy.top:4000/rtp/233.50.200.169:5140
+CETV4,http://www.nlmxy.top:4000/rtp/233.50.200.162:5140
+CETV4,rhttp://www.nlmxy.top:4000/rtp/233.50.200.174:5140
+乐游,http://www.nlmxy.top:4000/rtp/233.50.201.185:5140
 金色学堂,http://www.nlmxy.top:4000/rtp/233.50.201.186:5140
 快乐垂钓,http://www.nlmxy.top:4000/rtp/233.50.201.109:5140
 茶频道,http://www.nlmxy.top:4000/rtp/233.50.201.188:5140
-乐游,http://www.nlmxy.top:4000/rtp/233.50.201.185:5140
 金鹰卡通,http://www.nlmxy.top:4000/rtp/233.50.201.73:5140
 哈哈炫动,http://www.nlmxy.top:4000/rtp/233.50.200.167:5140
 卡酷少儿,http://www.nlmxy.top:4000/rtp/233.50.202.33:5140
@@ -135,12 +135,12 @@ CGTN俄语,http://www.nlmxy.top:4000/rtp/233.50.201.39:5140
 晴彩篮球,http://www.nlmxy.top:4000/rtp/233.50.202.27:5140
 晴彩广场舞,http://www.nlmxy.top:4000/rtp/233.50.202.29:5140
 生活时尚,http://www.nlmxy.top:4000/rtp/233.50.201.187:5140
-好易购,http://www.nlmxy.top:4000/rtp/233.50.201.248:5140
 家有购物,http://www.nlmxy.top:4000/rtp/233.50.201.90:5140
+好易购,http://www.nlmxy.top:4000/rtp/233.50.201.248:5140
 
 特色频道,#genre#
 新视觉HD,http://www.nlmxy.top:4000/rtp/233.50.201.244:5140
-欢笑剧场,http://www.nlmxy.top:4000/rtp/233.50.201.189:5140
+多彩文体,http://www.nlmxy.top:4000/rtp/233.50.201.189:5140
 都市剧场,http://www.nlmxy.top:4000/rtp/233.50.201.190:5140
 法制天地,http://www.nlmxy.top:4000/rtp/233.50.201.191:5140
 游戏风云,http://www.nlmxy.top:4000/rtp/233.50.201.183:5140
@@ -198,13 +198,6 @@ CCTV16奥林匹克,http://hjro.cn:9999/rtp/233.50.201.63:5140
 BesTV-1,http://hjro.cn:9999/rtp/233.50.200.182:5140
 BesTV-2,http://hjro.cn:9999/rtp/233.50.200.183:5140
 BesTV-3,http://hjro.cn:9999/rtp/233.50.200.185:5140
-
-国际频道,#genre#
-CGTN英语,http://hjro.cn:9999/rtp/233.50.201.126:5140
-CGTN西语,http://hjro.cn:9999/rtp/233.50.201.36:5140
-CGTN法语,http://hjro.cn:9999/rtp/233.50.201.37:5140
-CGTN阿语,http://hjro.cn:9999/rtp/233.50.201.38:5140
-CGTN俄语,http://hjro.cn:9999/rtp/233.50.201.39:5140
 
 卫视频道,#genre#
 浙江卫视,http://hjro.cn:9999/rtp/233.50.201.100:5140
@@ -284,14 +277,21 @@ CGTN俄语,http://hjro.cn:9999/rtp/233.50.201.39:5140
 临平新闻,http://hjro.cn:9999/rtp/233.50.202.32:5140
 纪实科教,http://hjro.cn:9999/rtp/233.50.202.34:5140
 
+国际频道,#genre#
+CGTN英语,http://hjro.cn:9999/rtp/233.50.201.126:5140
+CGTN西语,http://hjro.cn:9999/rtp/233.50.201.36:5140
+CGTN法语,http://hjro.cn:9999/rtp/233.50.201.37:5140
+CGTN阿语,http://hjro.cn:9999/rtp/233.50.201.38:5140
+CGTN俄语,http://hjro.cn:9999/rtp/233.50.201.39:5140
+
 教育频道,#genre#
-中国教育一套,http://hjro.cn:9999/rtp/233.50.200.169:5140
-中国教育四套,http://hjro.cn:9999/rtp/233.50.200.162:5140
-中国教育四套,rhttp://hjro.cn:9999/rtp/233.50.200.174:5140
+CETV1,http://hjro.cn:9999/rtp/233.50.200.169:5140
+CETV4,http://hjro.cn:9999/rtp/233.50.200.162:5140
+CETV4,rhttp://hjro.cn:9999/rtp/233.50.200.174:5140
+乐游,http://hjro.cn:9999/rtp/233.50.201.185:5140
 金色学堂,http://hjro.cn:9999/rtp/233.50.201.186:5140
 快乐垂钓,http://hjro.cn:9999/rtp/233.50.201.109:5140
 茶频道,http://hjro.cn:9999/rtp/233.50.201.188:5140
-乐游,http://hjro.cn:9999/rtp/233.50.201.185:5140
 金鹰卡通,http://hjro.cn:9999/rtp/233.50.201.73:5140
 哈哈炫动,http://hjro.cn:9999/rtp/233.50.200.167:5140
 卡酷少儿,http://hjro.cn:9999/rtp/233.50.202.33:5140
@@ -300,12 +300,12 @@ CGTN俄语,http://hjro.cn:9999/rtp/233.50.201.39:5140
 晴彩篮球,http://hjro.cn:9999/rtp/233.50.202.27:5140
 晴彩广场舞,http://hjro.cn:9999/rtp/233.50.202.29:5140
 生活时尚,http://hjro.cn:9999/rtp/233.50.201.187:5140
-好易购,http://hjro.cn:9999/rtp/233.50.201.248:5140
 家有购物,http://hjro.cn:9999/rtp/233.50.201.90:5140
+好易购,http://hjro.cn:9999/rtp/233.50.201.248:5140
 
 特色频道,#genre#
 新视觉HD,http://hjro.cn:9999/rtp/233.50.201.244:5140
-欢笑剧场,http://hjro.cn:9999/rtp/233.50.201.189:5140
+多彩文体,http://hjro.cn:9999/rtp/233.50.201.189:5140
 都市剧场,http://hjro.cn:9999/rtp/233.50.201.190:5140
 法制天地,http://hjro.cn:9999/rtp/233.50.201.191:5140
 游戏风云,http://hjro.cn:9999/rtp/233.50.201.183:5140
