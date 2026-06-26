@@ -1,0 +1,696 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://yun.lei119911.xyz:5488/rtp/233.18.204.168:5140
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://yun.lei119911.xyz:5488/rtp/233.18.204.52:5140
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://yun.lei119911.xyz:5488/rtp/233.18.204.68:5140
+#EXTINF:-1 group-title="央视频道",CCTTV3
+http://yun.lei119911.xyz:5488/rtp/233.18.204.69:5140
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://yun.lei119911.xyz:5488/rtp/233.18.204.70:5140
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://yun.lei119911.xyz:5488/rtp/233.18.204.71:5140
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://yun.lei119911.xyz:5488/rtp/233.18.204.67:5140
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://yun.lei119911.xyz:5488/rtp/233.18.204.72:5140
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://yun.lei119911.xyz:5488/rtp/233.18.204.73:5140
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://yun.lei119911.xyz:5488/rtp/233.18.204.74:5140
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://yun.lei119911.xyz:5488/rtp/233.18.204.75:5140
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://yun.lei119911.xyz:5488/rtp/233.18.204.76:5140
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://yun.lei119911.xyz:5488/rtp/233.18.204.77:5140
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://yun.lei119911.xyz:5488/rtp/233.18.204.78:5140
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://yun.lei119911.xyz:5488/rtp/233.18.204.79:5140
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://yun.lei119911.xyz:5488/rtp/233.18.204.80:5140
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://yun.lei119911.xyz:5488/rtp/233.18.204.81:5140
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://yun.lei119911.xyz:5488/rtp/233.18.204.82:5140
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://yun.lei119911.xyz:5488/rtp/233.18.204.83:5140
+#EXTINF:-1 group-title="央视频道",CETV1
+http://yun.lei119911.xyz:5488/rtp/233.18.204.98:5140
+#EXTINF:-1 group-title="央视频道",CETV4
+http://yun.lei119911.xyz:5488/rtp/233.18.204.111:5140
+#EXTINF:-1 group-title="上海频道",东方卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.51:5140
+#EXTINF:-1 group-title="上海频道",东方都市
+http://yun.lei119911.xyz:5488/rtp/233.18.204.53:5140
+#EXTINF:-1 group-title="上海频道",东方影视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.55:5140
+#EXTINF:-1 group-title="上海频道",东方财经
+http://yun.lei119911.xyz:5488/rtp/233.18.204.65:5140
+#EXTINF:-1 group-title="上海频道",新闻综合
+http://yun.lei119911.xyz:5488/rtp/233.18.204.57:5140
+#EXTINF:-1 group-title="上海频道",都市剧场
+http://yun.lei119911.xyz:5488/rtp/233.18.204.48:5140
+#EXTINF:-1 group-title="上海频道",法治天地
+http://yun.lei119911.xyz:5488/rtp/233.18.204.49:5140
+#EXTINF:-1 group-title="上海频道",生活时尚
+http://yun.lei119911.xyz:5488/rtp/233.18.204.45:5140
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.84:5140
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.85:5140
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.51:5140
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.86:5140
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.87:5140
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.88:5140
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.89:5140
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.90:5140
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.91:5140
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.92:5140
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.93:5140
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.94:5140
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.95:5140
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.96:5140
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.97:5140
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.99:5140
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.100:5140
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.101:5140
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.102:5140
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.103:5140
+#EXTINF:-1 group-title="卫视频道",金鹰纪实
+http://yun.lei119911.xyz:5488/rtp/233.18.204.104:5140
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.105:5140
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.106:5140
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.107:5140
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.108:5140
+#EXTINF:-1 group-title="卫视频道",北京卡酷
+http://yun.lei119911.xyz:5488/rtp/233.18.204.109:5140
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.110:5140
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://yun.lei119911.xyz:5488/rtp/233.18.204.112:5140
+#EXTINF:-1 group-title="生活频道",金鹰卡通
+http://yun.lei119911.xyz:5488/rtp/233.18.204.113:5140
+#EXTINF:-1 group-title="生活频道",哈哈炫动
+http://yun.lei119911.xyz:5488/rtp/233.18.204.54:5140
+#EXTINF:-1 group-title="生活频道",五星体育
+http://yun.lei119911.xyz:5488/rtp/233.18.204.58:5140
+#EXTINF:-1 group-title="生活频道",长助理
+http://yun.lei119911.xyz:5488/rtp/233.18.204.59:5140
+#EXTINF:-1 group-title="生活频道",金色学堂
+http://yun.lei119911.xyz:5488/rtp/233.18.204.66:5140
+#EXTINF:-1 group-title="生活频道",快乐垂钓
+http://yun.lei119911.xyz:5488/rtp/233.18.204.42:5140
+#EXTINF:-1 group-title="生活频道",茶频道
+http://yun.lei119911.xyz:5488/rtp/233.18.204.43:5140
+#EXTINF:-1 group-title="生活频道",游戏风云
+http://yun.lei119911.xyz:5488/rtp/233.18.204.44:5140
+#EXTINF:-1 group-title="生活频道",动漫秀场
+http://yun.lei119911.xyz:5488/rtp/233.18.204.46:5140
+#EXTINF:-1 group-title="生活频道",乐游
+http://yun.lei119911.xyz:5488/rtp/233.18.204.47:5140
+#EXTINF:-1 group-title="生活频道",欢笑剧场4K
+http://yun.lei119911.xyz:5488/rtp/233.18.204.50:5140
+#EXTINF:-1 group-title="生活频道",欢笑剧场4K
+http://yun.lei119911.xyz:5488/rtp/233.18.204.115:5140
+
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://emby.gujun.xyz:8001/rtp/233.18.204.168:5140
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://emby.gujun.xyz:8001/rtp/233.18.204.52:5140
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://emby.gujun.xyz:8001/rtp/233.18.204.68:5140
+#EXTINF:-1 group-title="央视频道",CCTTV3
+http://emby.gujun.xyz:8001/rtp/233.18.204.69:5140
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://emby.gujun.xyz:8001/rtp/233.18.204.70:5140
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://emby.gujun.xyz:8001/rtp/233.18.204.71:5140
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://emby.gujun.xyz:8001/rtp/233.18.204.67:5140
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://emby.gujun.xyz:8001/rtp/233.18.204.72:5140
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://emby.gujun.xyz:8001/rtp/233.18.204.73:5140
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://emby.gujun.xyz:8001/rtp/233.18.204.74:5140
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://emby.gujun.xyz:8001/rtp/233.18.204.75:5140
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://emby.gujun.xyz:8001/rtp/233.18.204.76:5140
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://emby.gujun.xyz:8001/rtp/233.18.204.77:5140
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://emby.gujun.xyz:8001/rtp/233.18.204.78:5140
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://emby.gujun.xyz:8001/rtp/233.18.204.79:5140
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://emby.gujun.xyz:8001/rtp/233.18.204.80:5140
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://emby.gujun.xyz:8001/rtp/233.18.204.81:5140
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://emby.gujun.xyz:8001/rtp/233.18.204.82:5140
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://emby.gujun.xyz:8001/rtp/233.18.204.83:5140
+#EXTINF:-1 group-title="央视频道",CETV1
+http://emby.gujun.xyz:8001/rtp/233.18.204.98:5140
+#EXTINF:-1 group-title="央视频道",CETV4
+http://emby.gujun.xyz:8001/rtp/233.18.204.111:5140
+#EXTINF:-1 group-title="上海频道",东方卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.51:5140
+#EXTINF:-1 group-title="上海频道",东方都市
+http://emby.gujun.xyz:8001/rtp/233.18.204.53:5140
+#EXTINF:-1 group-title="上海频道",东方影视
+http://emby.gujun.xyz:8001/rtp/233.18.204.55:5140
+#EXTINF:-1 group-title="上海频道",东方财经
+http://emby.gujun.xyz:8001/rtp/233.18.204.65:5140
+#EXTINF:-1 group-title="上海频道",新闻综合
+http://emby.gujun.xyz:8001/rtp/233.18.204.57:5140
+#EXTINF:-1 group-title="上海频道",都市剧场
+http://emby.gujun.xyz:8001/rtp/233.18.204.48:5140
+#EXTINF:-1 group-title="上海频道",法治天地
+http://emby.gujun.xyz:8001/rtp/233.18.204.49:5140
+#EXTINF:-1 group-title="上海频道",生活时尚
+http://emby.gujun.xyz:8001/rtp/233.18.204.45:5140
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.84:5140
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.85:5140
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.51:5140
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.86:5140
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.87:5140
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.88:5140
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.89:5140
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.90:5140
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.91:5140
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.92:5140
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.93:5140
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.94:5140
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.95:5140
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.96:5140
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.97:5140
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.99:5140
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.100:5140
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.101:5140
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.102:5140
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.103:5140
+#EXTINF:-1 group-title="卫视频道",金鹰纪实
+http://emby.gujun.xyz:8001/rtp/233.18.204.104:5140
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.105:5140
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.106:5140
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.107:5140
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.108:5140
+#EXTINF:-1 group-title="卫视频道",北京卡酷
+http://emby.gujun.xyz:8001/rtp/233.18.204.109:5140
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.110:5140
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://emby.gujun.xyz:8001/rtp/233.18.204.112:5140
+#EXTINF:-1 group-title="生活频道",金鹰卡通
+http://emby.gujun.xyz:8001/rtp/233.18.204.113:5140
+#EXTINF:-1 group-title="生活频道",哈哈炫动
+http://emby.gujun.xyz:8001/rtp/233.18.204.54:5140
+#EXTINF:-1 group-title="生活频道",五星体育
+http://emby.gujun.xyz:8001/rtp/233.18.204.58:5140
+#EXTINF:-1 group-title="生活频道",长助理
+http://emby.gujun.xyz:8001/rtp/233.18.204.59:5140
+#EXTINF:-1 group-title="生活频道",金色学堂
+http://emby.gujun.xyz:8001/rtp/233.18.204.66:5140
+#EXTINF:-1 group-title="生活频道",快乐垂钓
+http://emby.gujun.xyz:8001/rtp/233.18.204.42:5140
+#EXTINF:-1 group-title="生活频道",茶频道
+http://emby.gujun.xyz:8001/rtp/233.18.204.43:5140
+#EXTINF:-1 group-title="生活频道",游戏风云
+http://emby.gujun.xyz:8001/rtp/233.18.204.44:5140
+#EXTINF:-1 group-title="生活频道",动漫秀场
+http://emby.gujun.xyz:8001/rtp/233.18.204.46:5140
+#EXTINF:-1 group-title="生活频道",乐游
+http://emby.gujun.xyz:8001/rtp/233.18.204.47:5140
+#EXTINF:-1 group-title="生活频道",欢笑剧场4K
+http://emby.gujun.xyz:8001/rtp/233.18.204.50:5140
+#EXTINF:-1 group-title="生活频道",欢笑剧场4K
+http://emby.gujun.xyz:8001/rtp/233.18.204.115:5140
+
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://demo.medrun.cn:4022/rtp/233.18.204.168:5140
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://demo.medrun.cn:4022/rtp/233.18.204.52:5140
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://demo.medrun.cn:4022/rtp/233.18.204.68:5140
+#EXTINF:-1 group-title="央视频道",CCTTV3
+http://demo.medrun.cn:4022/rtp/233.18.204.69:5140
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://demo.medrun.cn:4022/rtp/233.18.204.70:5140
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://demo.medrun.cn:4022/rtp/233.18.204.71:5140
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://demo.medrun.cn:4022/rtp/233.18.204.67:5140
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://demo.medrun.cn:4022/rtp/233.18.204.72:5140
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://demo.medrun.cn:4022/rtp/233.18.204.73:5140
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://demo.medrun.cn:4022/rtp/233.18.204.74:5140
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://demo.medrun.cn:4022/rtp/233.18.204.75:5140
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://demo.medrun.cn:4022/rtp/233.18.204.76:5140
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://demo.medrun.cn:4022/rtp/233.18.204.77:5140
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://demo.medrun.cn:4022/rtp/233.18.204.78:5140
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://demo.medrun.cn:4022/rtp/233.18.204.79:5140
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://demo.medrun.cn:4022/rtp/233.18.204.80:5140
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://demo.medrun.cn:4022/rtp/233.18.204.81:5140
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://demo.medrun.cn:4022/rtp/233.18.204.82:5140
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://demo.medrun.cn:4022/rtp/233.18.204.83:5140
+#EXTINF:-1 group-title="央视频道",CETV1
+http://demo.medrun.cn:4022/rtp/233.18.204.98:5140
+#EXTINF:-1 group-title="央视频道",CETV4
+http://demo.medrun.cn:4022/rtp/233.18.204.111:5140
+#EXTINF:-1 group-title="上海频道",东方卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.51:5140
+#EXTINF:-1 group-title="上海频道",东方都市
+http://demo.medrun.cn:4022/rtp/233.18.204.53:5140
+#EXTINF:-1 group-title="上海频道",东方影视
+http://demo.medrun.cn:4022/rtp/233.18.204.55:5140
+#EXTINF:-1 group-title="上海频道",东方财经
+http://demo.medrun.cn:4022/rtp/233.18.204.65:5140
+#EXTINF:-1 group-title="上海频道",新闻综合
+http://demo.medrun.cn:4022/rtp/233.18.204.57:5140
+#EXTINF:-1 group-title="上海频道",都市剧场
+http://demo.medrun.cn:4022/rtp/233.18.204.48:5140
+#EXTINF:-1 group-title="上海频道",法治天地
+http://demo.medrun.cn:4022/rtp/233.18.204.49:5140
+#EXTINF:-1 group-title="上海频道",生活时尚
+http://demo.medrun.cn:4022/rtp/233.18.204.45:5140
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.84:5140
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.85:5140
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.51:5140
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.86:5140
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.87:5140
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.88:5140
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.89:5140
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.90:5140
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.91:5140
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.92:5140
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.93:5140
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.94:5140
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.95:5140
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.96:5140
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.97:5140
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.99:5140
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.100:5140
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.101:5140
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.102:5140
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.103:5140
+#EXTINF:-1 group-title="卫视频道",金鹰纪实
+http://demo.medrun.cn:4022/rtp/233.18.204.104:5140
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.105:5140
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.106:5140
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.107:5140
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.108:5140
+#EXTINF:-1 group-title="卫视频道",北京卡酷
+http://demo.medrun.cn:4022/rtp/233.18.204.109:5140
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.110:5140
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://demo.medrun.cn:4022/rtp/233.18.204.112:5140
+#EXTINF:-1 group-title="生活频道",金鹰卡通
+http://demo.medrun.cn:4022/rtp/233.18.204.113:5140
+#EXTINF:-1 group-title="生活频道",哈哈炫动
+http://demo.medrun.cn:4022/rtp/233.18.204.54:5140
+#EXTINF:-1 group-title="生活频道",五星体育
+http://demo.medrun.cn:4022/rtp/233.18.204.58:5140
+#EXTINF:-1 group-title="生活频道",长助理
+http://demo.medrun.cn:4022/rtp/233.18.204.59:5140
+#EXTINF:-1 group-title="生活频道",金色学堂
+http://demo.medrun.cn:4022/rtp/233.18.204.66:5140
+#EXTINF:-1 group-title="生活频道",快乐垂钓
+http://demo.medrun.cn:4022/rtp/233.18.204.42:5140
+#EXTINF:-1 group-title="生活频道",茶频道
+http://demo.medrun.cn:4022/rtp/233.18.204.43:5140
+#EXTINF:-1 group-title="生活频道",游戏风云
+http://demo.medrun.cn:4022/rtp/233.18.204.44:5140
+#EXTINF:-1 group-title="生活频道",动漫秀场
+http://demo.medrun.cn:4022/rtp/233.18.204.46:5140
+#EXTINF:-1 group-title="生活频道",乐游
+http://demo.medrun.cn:4022/rtp/233.18.204.47:5140
+#EXTINF:-1 group-title="生活频道",欢笑剧场4K
+http://demo.medrun.cn:4022/rtp/233.18.204.50:5140
+#EXTINF:-1 group-title="生活频道",欢笑剧场4K
+http://demo.medrun.cn:4022/rtp/233.18.204.115:5140
+
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://nas.220620.xyz:4022/rtp/233.18.204.168:5140
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://nas.220620.xyz:4022/rtp/233.18.204.52:5140
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://nas.220620.xyz:4022/rtp/233.18.204.68:5140
+#EXTINF:-1 group-title="央视频道",CCTTV3
+http://nas.220620.xyz:4022/rtp/233.18.204.69:5140
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://nas.220620.xyz:4022/rtp/233.18.204.70:5140
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://nas.220620.xyz:4022/rtp/233.18.204.71:5140
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://nas.220620.xyz:4022/rtp/233.18.204.67:5140
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://nas.220620.xyz:4022/rtp/233.18.204.72:5140
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://nas.220620.xyz:4022/rtp/233.18.204.73:5140
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://nas.220620.xyz:4022/rtp/233.18.204.74:5140
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://nas.220620.xyz:4022/rtp/233.18.204.75:5140
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://nas.220620.xyz:4022/rtp/233.18.204.76:5140
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://nas.220620.xyz:4022/rtp/233.18.204.77:5140
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://nas.220620.xyz:4022/rtp/233.18.204.78:5140
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://nas.220620.xyz:4022/rtp/233.18.204.79:5140
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://nas.220620.xyz:4022/rtp/233.18.204.80:5140
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://nas.220620.xyz:4022/rtp/233.18.204.81:5140
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://nas.220620.xyz:4022/rtp/233.18.204.82:5140
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://nas.220620.xyz:4022/rtp/233.18.204.83:5140
+#EXTINF:-1 group-title="央视频道",CETV1
+http://nas.220620.xyz:4022/rtp/233.18.204.98:5140
+#EXTINF:-1 group-title="央视频道",CETV4
+http://nas.220620.xyz:4022/rtp/233.18.204.111:5140
+#EXTINF:-1 group-title="上海频道",东方卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.51:5140
+#EXTINF:-1 group-title="上海频道",东方都市
+http://nas.220620.xyz:4022/rtp/233.18.204.53:5140
+#EXTINF:-1 group-title="上海频道",东方影视
+http://nas.220620.xyz:4022/rtp/233.18.204.55:5140
+#EXTINF:-1 group-title="上海频道",东方财经
+http://nas.220620.xyz:4022/rtp/233.18.204.65:5140
+#EXTINF:-1 group-title="上海频道",新闻综合
+http://nas.220620.xyz:4022/rtp/233.18.204.57:5140
+#EXTINF:-1 group-title="上海频道",都市剧场
+http://nas.220620.xyz:4022/rtp/233.18.204.48:5140
+#EXTINF:-1 group-title="上海频道",法治天地
+http://nas.220620.xyz:4022/rtp/233.18.204.49:5140
+#EXTINF:-1 group-title="上海频道",生活时尚
+http://nas.220620.xyz:4022/rtp/233.18.204.45:5140
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.84:5140
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.85:5140
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.51:5140
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.86:5140
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.87:5140
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.88:5140
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.89:5140
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.90:5140
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.91:5140
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.92:5140
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.93:5140
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.94:5140
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.95:5140
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.96:5140
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.97:5140
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.99:5140
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.100:5140
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.101:5140
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.102:5140
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.103:5140
+#EXTINF:-1 group-title="卫视频道",金鹰纪实
+http://nas.220620.xyz:4022/rtp/233.18.204.104:5140
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.105:5140
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.106:5140
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.107:5140
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.108:5140
+#EXTINF:-1 group-title="卫视频道",北京卡酷
+http://nas.220620.xyz:4022/rtp/233.18.204.109:5140
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.110:5140
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://nas.220620.xyz:4022/rtp/233.18.204.112:5140
+#EXTINF:-1 group-title="生活频道",金鹰卡通
+http://nas.220620.xyz:4022/rtp/233.18.204.113:5140
+#EXTINF:-1 group-title="生活频道",哈哈炫动
+http://nas.220620.xyz:4022/rtp/233.18.204.54:5140
+#EXTINF:-1 group-title="生活频道",五星体育
+http://nas.220620.xyz:4022/rtp/233.18.204.58:5140
+#EXTINF:-1 group-title="生活频道",长助理
+http://nas.220620.xyz:4022/rtp/233.18.204.59:5140
+#EXTINF:-1 group-title="生活频道",金色学堂
+http://nas.220620.xyz:4022/rtp/233.18.204.66:5140
+#EXTINF:-1 group-title="生活频道",快乐垂钓
+http://nas.220620.xyz:4022/rtp/233.18.204.42:5140
+#EXTINF:-1 group-title="生活频道",茶频道
+http://nas.220620.xyz:4022/rtp/233.18.204.43:5140
+#EXTINF:-1 group-title="生活频道",游戏风云
+http://nas.220620.xyz:4022/rtp/233.18.204.44:5140
+#EXTINF:-1 group-title="生活频道",动漫秀场
+http://nas.220620.xyz:4022/rtp/233.18.204.46:5140
+#EXTINF:-1 group-title="生活频道",乐游
+http://nas.220620.xyz:4022/rtp/233.18.204.47:5140
+#EXTINF:-1 group-title="生活频道",欢笑剧场4K
+http://nas.220620.xyz:4022/rtp/233.18.204.50:5140
+#EXTINF:-1 group-title="生活频道",欢笑剧场4K
+http://nas.220620.xyz:4022/rtp/233.18.204.115:5140
+
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.168:5140
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.52:5140
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.68:5140
+#EXTINF:-1 group-title="央视频道",CCTTV3
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.69:5140
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.70:5140
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.71:5140
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.67:5140
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.72:5140
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.73:5140
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.74:5140
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.75:5140
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.76:5140
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.77:5140
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.78:5140
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.79:5140
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.80:5140
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.81:5140
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.82:5140
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.83:5140
+#EXTINF:-1 group-title="央视频道",CETV1
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.98:5140
+#EXTINF:-1 group-title="央视频道",CETV4
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.111:5140
+#EXTINF:-1 group-title="上海频道",东方卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.51:5140
+#EXTINF:-1 group-title="上海频道",东方都市
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.53:5140
+#EXTINF:-1 group-title="上海频道",东方影视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.55:5140
+#EXTINF:-1 group-title="上海频道",东方财经
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.65:5140
+#EXTINF:-1 group-title="上海频道",新闻综合
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.57:5140
+#EXTINF:-1 group-title="上海频道",都市剧场
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.48:5140
+#EXTINF:-1 group-title="上海频道",法治天地
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.49:5140
+#EXTINF:-1 group-title="上海频道",生活时尚
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.45:5140
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.84:5140
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.85:5140
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.51:5140
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.86:5140
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.87:5140
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.88:5140
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.89:5140
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.90:5140
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.91:5140
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.92:5140
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.93:5140
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.94:5140
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.95:5140
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.96:5140
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.97:5140
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.99:5140
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.100:5140
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.101:5140
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.102:5140
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.103:5140
+#EXTINF:-1 group-title="卫视频道",金鹰纪实
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.104:5140
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.105:5140
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.106:5140
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.107:5140
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.108:5140
+#EXTINF:-1 group-title="卫视频道",北京卡酷
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.109:5140
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.110:5140
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.112:5140
+#EXTINF:-1 group-title="生活频道",金鹰卡通
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.113:5140
+#EXTINF:-1 group-title="生活频道",哈哈炫动
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.54:5140
+#EXTINF:-1 group-title="生活频道",五星体育
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.58:5140
+#EXTINF:-1 group-title="生活频道",长助理
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.59:5140
+#EXTINF:-1 group-title="生活频道",金色学堂
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.66:5140
+#EXTINF:-1 group-title="生活频道",快乐垂钓
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.42:5140
+#EXTINF:-1 group-title="生活频道",茶频道
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.43:5140
+#EXTINF:-1 group-title="生活频道",游戏风云
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.44:5140
+#EXTINF:-1 group-title="生活频道",动漫秀场
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.46:5140
+#EXTINF:-1 group-title="生活频道",乐游
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.47:5140
+#EXTINF:-1 group-title="生活频道",欢笑剧场4K
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.50:5140
+#EXTINF:-1 group-title="生活频道",欢笑剧场4K
+http://emby.ausley.pp.ua:4022/rtp/233.18.204.115:5140
+
