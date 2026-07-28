@@ -35,4 +35,3 @@ CHC高清电影,http://www.apple615.asia:3000/rtp/225.0.4.230:7980
 精彩影视,http://www.apple615.asia:3000/rtp/225.0.4.231:7980
 求索纪录,http://www.apple615.asia:3000/rtp/225.0.4.232:7980
 茶高清,http://www.apple615.asia:3000/rtp/225.0.4.233:7980
-
