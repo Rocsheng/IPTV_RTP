@@ -25,6 +25,9 @@ CGTN俄语,http://www.nlmxy.top:4000/rtp/233.50.201.39:5140
 
 4K频道,#genre#
 CCTV16奥林匹克,http://www.nlmxy.top:4000/rtp/233.50.201.63:5140
+BesTV-1,http://www.nlmxy.top:4000/rtp/233.50.200.182:5140
+BesTV-2,http://www.nlmxy.top:4000/rtp/233.50.200.183:5140
+BesTV-3,http://www.nlmxy.top:4000/rtp/233.50.200.185:5140
 北京卫视,http://www.nlmxy.top:4000/rtp/233.50.202.100:5140
 广东卫视,http://www.nlmxy.top:4000/rtp/233.50.202.101:5140
 深圳卫视,http://www.nlmxy.top:4000/rtp/233.50.202.102:5140
@@ -35,9 +38,6 @@ CCTV16奥林匹克,http://www.nlmxy.top:4000/rtp/233.50.201.63:5140
 山东卫视,http://www.nlmxy.top:4000/rtp/233.50.202.108:5140
 四川卫视,http://www.nlmxy.top:4000/rtp/233.50.202.109:5140
 欢笑剧场,http://www.nlmxy.top:4000/rtp/233.50.200.52:5140
-BesTV-1,http://www.nlmxy.top:4000/rtp/233.50.200.182:5140
-BesTV-2,http://www.nlmxy.top:4000/rtp/233.50.200.183:5140
-BesTV-3,http://www.nlmxy.top:4000/rtp/233.50.200.185:5140
 
 卫视频道,#genre#
 浙江卫视,http://www.nlmxy.top:4000/rtp/233.50.201.100:5140
@@ -189,6 +189,9 @@ CGTN俄语,http://hjro.cn:9999/rtp/233.50.201.39:5140
 
 4K频道,#genre#
 CCTV16奥林匹克,http://hjro.cn:9999/rtp/233.50.201.63:5140
+BesTV-1,http://hjro.cn:9999/rtp/233.50.200.182:5140
+BesTV-2,http://hjro.cn:9999/rtp/233.50.200.183:5140
+BesTV-3,http://hjro.cn:9999/rtp/233.50.200.185:5140
 北京卫视,http://hjro.cn:9999/rtp/233.50.202.100:5140
 广东卫视,http://hjro.cn:9999/rtp/233.50.202.101:5140
 深圳卫视,http://hjro.cn:9999/rtp/233.50.202.102:5140
@@ -199,9 +202,6 @@ CCTV16奥林匹克,http://hjro.cn:9999/rtp/233.50.201.63:5140
 山东卫视,http://hjro.cn:9999/rtp/233.50.202.108:5140
 四川卫视,http://hjro.cn:9999/rtp/233.50.202.109:5140
 欢笑剧场,http://hjro.cn:9999/rtp/233.50.200.52:5140
-BesTV-1,http://hjro.cn:9999/rtp/233.50.200.182:5140
-BesTV-2,http://hjro.cn:9999/rtp/233.50.200.183:5140
-BesTV-3,http://hjro.cn:9999/rtp/233.50.200.185:5140
 
 卫视频道,#genre#
 浙江卫视,http://hjro.cn:9999/rtp/233.50.201.100:5140
@@ -353,6 +353,9 @@ CGTN俄语,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.39:5140
 
 4K频道,#genre#
 CCTV16奥林匹克,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.63:5140
+BesTV-1,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.182:5140
+BesTV-2,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.183:5140
+BesTV-3,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.185:5140
 北京卫视,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.100:5140
 广东卫视,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.101:5140
 深圳卫视,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.102:5140
@@ -363,9 +366,6 @@ CCTV16奥林匹克,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.
 山东卫视,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.108:5140
 四川卫视,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.109:5140
 欢笑剧场,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.52:5140
-BesTV-1,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.182:5140
-BesTV-2,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.183:5140
-BesTV-3,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.185:5140
 
 卫视频道,#genre#
 浙江卫视,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.100:5140
@@ -516,6 +516,9 @@ CGTN俄语,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.39:5140
 
 4K频道,#genre#
 CCTV16奥林匹克,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.63:5140
+BesTV-1,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.182:5140
+BesTV-2,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.183:5140
+BesTV-3,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.185:5140
 北京卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.100:5140
 广东卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.101:5140
 深圳卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.102:5140
@@ -526,9 +529,6 @@ CCTV16奥林匹克,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.63:51
 山东卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.108:5140
 四川卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.109:5140
 欢笑剧场,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.52:5140
-BesTV-1,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.182:5140
-BesTV-2,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.183:5140
-BesTV-3,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.185:5140
 
 卫视频道,#genre#
 浙江卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.100:5140
@@ -680,6 +680,9 @@ CGTN俄语,http://gilbert0571.eu.org:8888/rtp/233.50.201.39:5140
 
 4K频道,#genre#
 CCTV16奥林匹克,http://gilbert0571.eu.org:8888/rtp/233.50.201.63:5140
+BesTV-1,http://gilbert0571.eu.org:8888/rtp/233.50.200.182:5140
+BesTV-2,http://gilbert0571.eu.org:8888/rtp/233.50.200.183:5140
+BesTV-3,http://gilbert0571.eu.org:8888/rtp/233.50.200.185:5140
 北京卫视,http://gilbert0571.eu.org:8888/rtp/233.50.202.100:5140
 广东卫视,http://gilbert0571.eu.org:8888/rtp/233.50.202.101:5140
 深圳卫视,http://gilbert0571.eu.org:8888/rtp/233.50.202.102:5140
@@ -690,9 +693,6 @@ CCTV16奥林匹克,http://gilbert0571.eu.org:8888/rtp/233.50.201.63:5140
 山东卫视,http://gilbert0571.eu.org:8888/rtp/233.50.202.108:5140
 四川卫视,http://gilbert0571.eu.org:8888/rtp/233.50.202.109:5140
 欢笑剧场,http://gilbert0571.eu.org:8888/rtp/233.50.200.52:5140
-BesTV-1,http://gilbert0571.eu.org:8888/rtp/233.50.200.182:5140
-BesTV-2,http://gilbert0571.eu.org:8888/rtp/233.50.200.183:5140
-BesTV-3,http://gilbert0571.eu.org:8888/rtp/233.50.200.185:5140
 
 卫视频道,#genre#
 浙江卫视,http://gilbert0571.eu.org:8888/rtp/233.50.201.100:5140
