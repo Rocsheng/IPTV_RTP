@@ -1,4 +1,43 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="未分类",江苏城市HD
+http://hisaozhu.cn:9999/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="未分类",江苏综艺HD
+http://hisaozhu.cn:9999/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="未分类",江苏体育休闲HD
+http://hisaozhu.cn:9999/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="未分类",江苏影视HD
+http://hisaozhu.cn:9999/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
+http://hisaozhu.cn:9999/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="未分类",江苏教育HD
+http://hisaozhu.cn:9999/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="未分类",江苏新闻HD
+http://hisaozhu.cn:9999/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="未分类",江苏卫视HD
+http://hisaozhu.cn:9999/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="未分类",广西卫视HD
+http://hisaozhu.cn:9999/rtp/239.49.8.10:8000
+
+#EXTINF:-1 group-title="未分类",江苏城市HD
+http://jstxsheng.com:28088/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="未分类",江苏综艺HD
+http://jstxsheng.com:28088/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="未分类",江苏体育休闲HD
+http://jstxsheng.com:28088/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="未分类",江苏影视HD
+http://jstxsheng.com:28088/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
+http://jstxsheng.com:28088/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="未分类",江苏教育HD
+http://jstxsheng.com:28088/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="未分类",江苏新闻HD
+http://jstxsheng.com:28088/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="未分类",江苏卫视HD
+http://jstxsheng.com:28088/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="未分类",广西卫视HD
+http://jstxsheng.com:28088/rtp/239.49.8.10:8000
+
 #EXTINF:-1 group-title="未分类",江苏城市HD
 http://njbobo.com:4022/rtp/239.49.8.107:8000
 #EXTINF:-1 group-title="未分类",江苏综艺HD
@@ -55,44 +94,6 @@ http://dx.joygala.cn:8118/rtp/239.49.8.120:8000
 http://dx.joygala.cn:8118/rtp/239.49.8.16:9602
 #EXTINF:-1 group-title="未分类",广西卫视HD
 http://dx.joygala.cn:8118/rtp/239.49.8.10:8000
-
-#EXTINF:-1 group-title="未分类",江苏城市HD
-http://www.jstxsheng.com:28088/rtp/239.49.8.107:8000
-#EXTINF:-1 group-title="未分类",江苏综艺HD
-http://www.jstxsheng.com:28088/rtp/239.49.8.108:8000
-#EXTINF:-1 group-title="未分类",江苏体育休闲HD
-http://www.jstxsheng.com:28088/rtp/239.49.8.117:8000
-#EXTINF:-1 group-title="未分类",江苏影视HD
-http://www.jstxsheng.com:28088/rtp/239.49.8.118:8000
-#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
-http://www.jstxsheng.com:28088/rtp/239.49.8.119:8000
-#EXTINF:-1 group-title="未分类",江苏教育HD
-http://www.jstxsheng.com:28088/rtp/239.49.8.122:8000
-#EXTINF:-1 group-title="未分类",江苏新闻HD
-http://www.jstxsheng.com:28088/rtp/239.49.8.120:8000
-#EXTINF:-1 group-title="未分类",江苏卫视HD
-http://www.jstxsheng.com:28088/rtp/239.49.8.16:9602
-#EXTINF:-1 group-title="未分类",广西卫视HD
-http://www.jstxsheng.com:28088/rtp/239.49.8.10:8000
-
-#EXTINF:-1 group-title="未分类",江苏城市HD
-http://kouki.pro:8888/rtp/239.49.8.107:8000
-#EXTINF:-1 group-title="未分类",江苏综艺HD
-http://kouki.pro:8888/rtp/239.49.8.108:8000
-#EXTINF:-1 group-title="未分类",江苏体育休闲HD
-http://kouki.pro:8888/rtp/239.49.8.117:8000
-#EXTINF:-1 group-title="未分类",江苏影视HD
-http://kouki.pro:8888/rtp/239.49.8.118:8000
-#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
-http://kouki.pro:8888/rtp/239.49.8.119:8000
-#EXTINF:-1 group-title="未分类",江苏教育HD
-http://kouki.pro:8888/rtp/239.49.8.122:8000
-#EXTINF:-1 group-title="未分类",江苏新闻HD
-http://kouki.pro:8888/rtp/239.49.8.120:8000
-#EXTINF:-1 group-title="未分类",江苏卫视HD
-http://kouki.pro:8888/rtp/239.49.8.16:9602
-#EXTINF:-1 group-title="未分类",广西卫视HD
-http://kouki.pro:8888/rtp/239.49.8.10:8000
 
 #EXTINF:-1 group-title="未分类",江苏城市HD
 http://h.vanshun.com:8802/rtp/239.49.8.107:8000
@@ -152,25 +153,6 @@ http://vpn.a5521.top:9889/rtp/239.49.8.16:9602
 http://vpn.a5521.top:9889/rtp/239.49.8.10:8000
 
 #EXTINF:-1 group-title="未分类",江苏城市HD
-http://bi4xga.x3322.net:8800/rtp/239.49.8.107:8000
-#EXTINF:-1 group-title="未分类",江苏综艺HD
-http://bi4xga.x3322.net:8800/rtp/239.49.8.108:8000
-#EXTINF:-1 group-title="未分类",江苏体育休闲HD
-http://bi4xga.x3322.net:8800/rtp/239.49.8.117:8000
-#EXTINF:-1 group-title="未分类",江苏影视HD
-http://bi4xga.x3322.net:8800/rtp/239.49.8.118:8000
-#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
-http://bi4xga.x3322.net:8800/rtp/239.49.8.119:8000
-#EXTINF:-1 group-title="未分类",江苏教育HD
-http://bi4xga.x3322.net:8800/rtp/239.49.8.122:8000
-#EXTINF:-1 group-title="未分类",江苏新闻HD
-http://bi4xga.x3322.net:8800/rtp/239.49.8.120:8000
-#EXTINF:-1 group-title="未分类",江苏卫视HD
-http://bi4xga.x3322.net:8800/rtp/239.49.8.16:9602
-#EXTINF:-1 group-title="未分类",广西卫视HD
-http://bi4xga.x3322.net:8800/rtp/239.49.8.10:8000
-
-#EXTINF:-1 group-title="未分类",江苏城市HD
 http://www.yzddy.top:8800/rtp/239.49.8.107:8000
 #EXTINF:-1 group-title="未分类",江苏综艺HD
 http://www.yzddy.top:8800/rtp/239.49.8.108:8000
@@ -188,25 +170,6 @@ http://www.yzddy.top:8800/rtp/239.49.8.120:8000
 http://www.yzddy.top:8800/rtp/239.49.8.16:9602
 #EXTINF:-1 group-title="未分类",广西卫视HD
 http://www.yzddy.top:8800/rtp/239.49.8.10:8000
-
-#EXTINF:-1 group-title="未分类",江苏城市HD
-http://dentist.dsmv.top:7777/rtp/239.49.8.107:8000
-#EXTINF:-1 group-title="未分类",江苏综艺HD
-http://dentist.dsmv.top:7777/rtp/239.49.8.108:8000
-#EXTINF:-1 group-title="未分类",江苏体育休闲HD
-http://dentist.dsmv.top:7777/rtp/239.49.8.117:8000
-#EXTINF:-1 group-title="未分类",江苏影视HD
-http://dentist.dsmv.top:7777/rtp/239.49.8.118:8000
-#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
-http://dentist.dsmv.top:7777/rtp/239.49.8.119:8000
-#EXTINF:-1 group-title="未分类",江苏教育HD
-http://dentist.dsmv.top:7777/rtp/239.49.8.122:8000
-#EXTINF:-1 group-title="未分类",江苏新闻HD
-http://dentist.dsmv.top:7777/rtp/239.49.8.120:8000
-#EXTINF:-1 group-title="未分类",江苏卫视HD
-http://dentist.dsmv.top:7777/rtp/239.49.8.16:9602
-#EXTINF:-1 group-title="未分类",广西卫视HD
-http://dentist.dsmv.top:7777/rtp/239.49.8.10:8000
 
 #EXTINF:-1 group-title="未分类",江苏城市HD
 http://xuzhitao.com:8188/rtp/239.49.8.107:8000
@@ -228,6 +191,25 @@ http://xuzhitao.com:8188/rtp/239.49.8.16:9602
 http://xuzhitao.com:8188/rtp/239.49.8.10:8000
 
 #EXTINF:-1 group-title="未分类",江苏城市HD
+http://basvea.shop:8188/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="未分类",江苏综艺HD
+http://basvea.shop:8188/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="未分类",江苏体育休闲HD
+http://basvea.shop:8188/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="未分类",江苏影视HD
+http://basvea.shop:8188/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
+http://basvea.shop:8188/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="未分类",江苏教育HD
+http://basvea.shop:8188/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="未分类",江苏新闻HD
+http://basvea.shop:8188/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="未分类",江苏卫视HD
+http://basvea.shop:8188/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="未分类",广西卫视HD
+http://basvea.shop:8188/rtp/239.49.8.10:8000
+
+#EXTINF:-1 group-title="未分类",江苏城市HD
 http://xuzhitao.cn:8188/rtp/239.49.8.107:8000
 #EXTINF:-1 group-title="未分类",江苏综艺HD
 http://xuzhitao.cn:8188/rtp/239.49.8.108:8000
@@ -246,3 +228,173 @@ http://xuzhitao.cn:8188/rtp/239.49.8.16:9602
 #EXTINF:-1 group-title="未分类",广西卫视HD
 http://xuzhitao.cn:8188/rtp/239.49.8.10:8000
 
+#EXTINF:-1 group-title="未分类",江苏城市HD
+http://njbobo.mycloudnas.com:4022/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="未分类",江苏综艺HD
+http://njbobo.mycloudnas.com:4022/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="未分类",江苏体育休闲HD
+http://njbobo.mycloudnas.com:4022/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="未分类",江苏影视HD
+http://njbobo.mycloudnas.com:4022/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
+http://njbobo.mycloudnas.com:4022/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="未分类",江苏教育HD
+http://njbobo.mycloudnas.com:4022/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="未分类",江苏新闻HD
+http://njbobo.mycloudnas.com:4022/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="未分类",江苏卫视HD
+http://njbobo.mycloudnas.com:4022/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="未分类",广西卫视HD
+http://njbobo.mycloudnas.com:4022/rtp/239.49.8.10:8000
+
+#EXTINF:-1 group-title="未分类",江苏城市HD
+http://www.ceowzh.asia:8855/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="未分类",江苏综艺HD
+http://www.ceowzh.asia:8855/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="未分类",江苏体育休闲HD
+http://www.ceowzh.asia:8855/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="未分类",江苏影视HD
+http://www.ceowzh.asia:8855/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
+http://www.ceowzh.asia:8855/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="未分类",江苏教育HD
+http://www.ceowzh.asia:8855/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="未分类",江苏新闻HD
+http://www.ceowzh.asia:8855/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="未分类",江苏卫视HD
+http://www.ceowzh.asia:8855/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="未分类",广西卫视HD
+http://www.ceowzh.asia:8855/rtp/239.49.8.10:8000
+
+#EXTINF:-1 group-title="未分类",江苏城市HD
+http://istoreos.sclvip.top:5566/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="未分类",江苏综艺HD
+http://istoreos.sclvip.top:5566/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="未分类",江苏体育休闲HD
+http://istoreos.sclvip.top:5566/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="未分类",江苏影视HD
+http://istoreos.sclvip.top:5566/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
+http://istoreos.sclvip.top:5566/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="未分类",江苏教育HD
+http://istoreos.sclvip.top:5566/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="未分类",江苏新闻HD
+http://istoreos.sclvip.top:5566/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="未分类",江苏卫视HD
+http://istoreos.sclvip.top:5566/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="未分类",广西卫视HD
+http://istoreos.sclvip.top:5566/rtp/239.49.8.10:8000
+
+#EXTINF:-1 group-title="未分类",江苏城市HD
+http://ali.wxj520.top:8188/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="未分类",江苏综艺HD
+http://ali.wxj520.top:8188/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="未分类",江苏体育休闲HD
+http://ali.wxj520.top:8188/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="未分类",江苏影视HD
+http://ali.wxj520.top:8188/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
+http://ali.wxj520.top:8188/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="未分类",江苏教育HD
+http://ali.wxj520.top:8188/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="未分类",江苏新闻HD
+http://ali.wxj520.top:8188/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="未分类",江苏卫视HD
+http://ali.wxj520.top:8188/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="未分类",广西卫视HD
+http://ali.wxj520.top:8188/rtp/239.49.8.10:8000
+
+#EXTINF:-1 group-title="未分类",江苏城市HD
+http://www.zk220.com:32345/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="未分类",江苏综艺HD
+http://www.zk220.com:32345/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="未分类",江苏体育休闲HD
+http://www.zk220.com:32345/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="未分类",江苏影视HD
+http://www.zk220.com:32345/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
+http://www.zk220.com:32345/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="未分类",江苏教育HD
+http://www.zk220.com:32345/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="未分类",江苏新闻HD
+http://www.zk220.com:32345/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="未分类",江苏卫视HD
+http://www.zk220.com:32345/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="未分类",广西卫视HD
+http://www.zk220.com:32345/rtp/239.49.8.10:8000
+
+#EXTINF:-1 group-title="未分类",江苏城市HD
+http://www.duanht.top:4000/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="未分类",江苏综艺HD
+http://www.duanht.top:4000/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="未分类",江苏体育休闲HD
+http://www.duanht.top:4000/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="未分类",江苏影视HD
+http://www.duanht.top:4000/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
+http://www.duanht.top:4000/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="未分类",江苏教育HD
+http://www.duanht.top:4000/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="未分类",江苏新闻HD
+http://www.duanht.top:4000/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="未分类",江苏卫视HD
+http://www.duanht.top:4000/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="未分类",广西卫视HD
+http://www.duanht.top:4000/rtp/239.49.8.10:8000
+
+#EXTINF:-1 group-title="未分类",江苏城市HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="未分类",江苏综艺HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="未分类",江苏体育休闲HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="未分类",江苏影视HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="未分类",江苏教育HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="未分类",江苏新闻HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="未分类",江苏卫视HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="未分类",广西卫视HD
+http://j1900.silicaite.com:58888/rtp/239.49.8.10:8000
+
+#EXTINF:-1 group-title="未分类",江苏城市HD
+http://fb.linc.vip:4022/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="未分类",江苏综艺HD
+http://fb.linc.vip:4022/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="未分类",江苏体育休闲HD
+http://fb.linc.vip:4022/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="未分类",江苏影视HD
+http://fb.linc.vip:4022/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
+http://fb.linc.vip:4022/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="未分类",江苏教育HD
+http://fb.linc.vip:4022/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="未分类",江苏新闻HD
+http://fb.linc.vip:4022/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="未分类",江苏卫视HD
+http://fb.linc.vip:4022/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="未分类",广西卫视HD
+http://fb.linc.vip:4022/rtp/239.49.8.10:8000
+
+#EXTINF:-1 group-title="未分类",江苏城市HD
+http://clnas.heylc.com:4022/rtp/239.49.8.107:8000
+#EXTINF:-1 group-title="未分类",江苏综艺HD
+http://clnas.heylc.com:4022/rtp/239.49.8.108:8000
+#EXTINF:-1 group-title="未分类",江苏体育休闲HD
+http://clnas.heylc.com:4022/rtp/239.49.8.117:8000
+#EXTINF:-1 group-title="未分类",江苏影视HD
+http://clnas.heylc.com:4022/rtp/239.49.8.118:8000
+#EXTINF:-1 group-title="未分类",江苏优漫卡通HD
+http://clnas.heylc.com:4022/rtp/239.49.8.119:8000
+#EXTINF:-1 group-title="未分类",江苏教育HD
+http://clnas.heylc.com:4022/rtp/239.49.8.122:8000
+#EXTINF:-1 group-title="未分类",江苏新闻HD
+http://clnas.heylc.com:4022/rtp/239.49.8.120:8000
+#EXTINF:-1 group-title="未分类",江苏卫视HD
+http://clnas.heylc.com:4022/rtp/239.49.8.16:9602
+#EXTINF:-1 group-title="未分类",广西卫视HD
+http://clnas.heylc.com:4022/rtp/239.49.8.10:8000
