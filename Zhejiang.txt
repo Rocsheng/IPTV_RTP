@@ -142,7 +142,7 @@ BesTV,http://www.nlmxy.top:4000/rtp/233.50.201.201:5140
 新视觉HD,http://www.nlmxy.top:4000/rtp/233.50.201.244:5140
 多彩文体,http://www.nlmxy.top:4000/rtp/233.50.201.189:5140
 都市剧场,http://www.nlmxy.top:4000/rtp/233.50.201.190:5140
-法制天地,http://www.nlmxy.top:4000/rtp/233.50.201.191:5140
+法治天地,http://www.nlmxy.top:4000/rtp/233.50.201.191:5140
 游戏风云,http://www.nlmxy.top:4000/rtp/233.50.201.183:5140
 动漫秀场,http://www.nlmxy.top:4000/rtp/233.50.201.184:5140
 游戏频道,http://www.nlmxy.top:4000/rtp/233.50.201.207:5140
@@ -305,7 +305,7 @@ BesTV,http://hjro.cn:9999/rtp/233.50.201.201:5140
 新视觉HD,http://hjro.cn:9999/rtp/233.50.201.244:5140
 多彩文体,http://hjro.cn:9999/rtp/233.50.201.189:5140
 都市剧场,http://hjro.cn:9999/rtp/233.50.201.190:5140
-法制天地,http://hjro.cn:9999/rtp/233.50.201.191:5140
+法治天地,http://hjro.cn:9999/rtp/233.50.201.191:5140
 游戏风云,http://hjro.cn:9999/rtp/233.50.201.183:5140
 动漫秀场,http://hjro.cn:9999/rtp/233.50.201.184:5140
 游戏频道,http://hjro.cn:9999/rtp/233.50.201.207:5140
@@ -468,7 +468,7 @@ BesTV,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.201:5140
 新视觉HD,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.244:5140
 多彩文体,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.189:5140
 都市剧场,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.190:5140
-法制天地,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.191:5140
+法治天地,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.191:5140
 游戏风云,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.183:5140
 动漫秀场,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.184:5140
 游戏频道,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.207:5140
@@ -631,7 +631,7 @@ BesTV,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.201:5140
 新视觉HD,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.244:5140
 多彩文体,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.189:5140
 都市剧场,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.190:5140
-法制天地,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.191:5140
+法治天地,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.191:5140
 游戏风云,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.183:5140
 动漫秀场,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.184:5140
 游戏频道,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.207:5140
@@ -794,7 +794,7 @@ BesTV,http://dknas.song.zj.cn:4043/rtp/233.50.201.201:5140
 新视觉HD,http://dknas.song.zj.cn:4043/rtp/233.50.201.244:5140
 多彩文体,http://dknas.song.zj.cn:4043/rtp/233.50.201.189:5140
 都市剧场,http://dknas.song.zj.cn:4043/rtp/233.50.201.190:5140
-法制天地,http://dknas.song.zj.cn:4043/rtp/233.50.201.191:5140
+法治天地,http://dknas.song.zj.cn:4043/rtp/233.50.201.191:5140
 游戏风云,http://dknas.song.zj.cn:4043/rtp/233.50.201.183:5140
 动漫秀场,http://dknas.song.zj.cn:4043/rtp/233.50.201.184:5140
 游戏频道,http://dknas.song.zj.cn:4043/rtp/233.50.201.207:5140
@@ -957,7 +957,7 @@ BesTV,http://gilbert0571.eu.org:8888/rtp/233.50.201.201:5140
 新视觉HD,http://gilbert0571.eu.org:8888/rtp/233.50.201.244:5140
 多彩文体,http://gilbert0571.eu.org:8888/rtp/233.50.201.189:5140
 都市剧场,http://gilbert0571.eu.org:8888/rtp/233.50.201.190:5140
-法制天地,http://gilbert0571.eu.org:8888/rtp/233.50.201.191:5140
+法治天地,http://gilbert0571.eu.org:8888/rtp/233.50.201.191:5140
 游戏风云,http://gilbert0571.eu.org:8888/rtp/233.50.201.183:5140
 动漫秀场,http://gilbert0571.eu.org:8888/rtp/233.50.201.184:5140
 游戏频道,http://gilbert0571.eu.org:8888/rtp/233.50.201.207:5140
@@ -1120,7 +1120,7 @@ BesTV,http://zjhuct.synology.me:8888/rtp/233.50.201.201:5140
 新视觉HD,http://zjhuct.synology.me:8888/rtp/233.50.201.244:5140
 多彩文体,http://zjhuct.synology.me:8888/rtp/233.50.201.189:5140
 都市剧场,http://zjhuct.synology.me:8888/rtp/233.50.201.190:5140
-法制天地,http://zjhuct.synology.me:8888/rtp/233.50.201.191:5140
+法治天地,http://zjhuct.synology.me:8888/rtp/233.50.201.191:5140
 游戏风云,http://zjhuct.synology.me:8888/rtp/233.50.201.183:5140
 动漫秀场,http://zjhuct.synology.me:8888/rtp/233.50.201.184:5140
 游戏频道,http://zjhuct.synology.me:8888/rtp/233.50.201.207:5140
