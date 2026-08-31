@@ -71,7 +71,7 @@ http://www.nlmxy.top:4000/rtp/233.50.202.107:5140
 http://www.nlmxy.top:4000/rtp/233.50.202.108:5140
 #EXTINF:-1 group-title="4K频道",四川卫视
 http://www.nlmxy.top:4000/rtp/233.50.202.109:5140
-#EXTINF:-1 group-title="4K频道",欢笑剧场
+#EXTINF:-1 group-title="4K频道",多彩文体
 http://www.nlmxy.top:4000/rtp/233.50.200.52:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://www.nlmxy.top:4000/rtp/233.50.201.100:5140
@@ -365,7 +365,7 @@ http://hjro.cn:9999/rtp/233.50.202.107:5140
 http://hjro.cn:9999/rtp/233.50.202.108:5140
 #EXTINF:-1 group-title="4K频道",四川卫视
 http://hjro.cn:9999/rtp/233.50.202.109:5140
-#EXTINF:-1 group-title="4K频道",欢笑剧场
+#EXTINF:-1 group-title="4K频道",多彩文体
 http://hjro.cn:9999/rtp/233.50.200.52:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://hjro.cn:9999/rtp/233.50.201.100:5140
@@ -659,7 +659,7 @@ http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.107:5140
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.108:5140
 #EXTINF:-1 group-title="4K频道",四川卫视
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.109:5140
-#EXTINF:-1 group-title="4K频道",欢笑剧场
+#EXTINF:-1 group-title="4K频道",多彩文体
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.52:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.100:5140
@@ -953,7 +953,7 @@ http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.107:5140
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.108:5140
 #EXTINF:-1 group-title="4K频道",四川卫视
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.109:5140
-#EXTINF:-1 group-title="4K频道",欢笑剧场
+#EXTINF:-1 group-title="4K频道",多彩文体
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.52:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.100:5140
@@ -1247,7 +1247,7 @@ http://dknas.song.zj.cn:4043/rtp/233.50.202.107:5140
 http://dknas.song.zj.cn:4043/rtp/233.50.202.108:5140
 #EXTINF:-1 group-title="4K频道",四川卫视
 http://dknas.song.zj.cn:4043/rtp/233.50.202.109:5140
-#EXTINF:-1 group-title="4K频道",欢笑剧场
+#EXTINF:-1 group-title="4K频道",多彩文体
 http://dknas.song.zj.cn:4043/rtp/233.50.200.52:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://dknas.song.zj.cn:4043/rtp/233.50.201.100:5140
@@ -1541,7 +1541,7 @@ http://gilbert0571.eu.org:8888/rtp/233.50.202.107:5140
 http://gilbert0571.eu.org:8888/rtp/233.50.202.108:5140
 #EXTINF:-1 group-title="4K频道",四川卫视
 http://gilbert0571.eu.org:8888/rtp/233.50.202.109:5140
-#EXTINF:-1 group-title="4K频道",欢笑剧场
+#EXTINF:-1 group-title="4K频道",多彩文体
 http://gilbert0571.eu.org:8888/rtp/233.50.200.52:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://gilbert0571.eu.org:8888/rtp/233.50.201.100:5140
@@ -1835,7 +1835,7 @@ http://zjhuct.synology.me:8888/rtp/233.50.202.107:5140
 http://zjhuct.synology.me:8888/rtp/233.50.202.108:5140
 #EXTINF:-1 group-title="4K频道",四川卫视
 http://zjhuct.synology.me:8888/rtp/233.50.202.109:5140
-#EXTINF:-1 group-title="4K频道",欢笑剧场
+#EXTINF:-1 group-title="4K频道",多彩文体
 http://zjhuct.synology.me:8888/rtp/233.50.200.52:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://zjhuct.synology.me:8888/rtp/233.50.201.100:5140
