@@ -171,15 +171,15 @@ http://www.nlmxy.top:4000/rtp/233.50.201.138:5140
 http://www.nlmxy.top:4000/rtp/233.50.202.25:5140
 #EXTINF:-1 group-title="浙江频道",温州新闻综合
 http://www.nlmxy.top:4000/rtp/233.50.201.87:5140
-#EXTINF:-1 group-title="浙江频道",金华新闻
+#EXTINF:-1 group-title="浙江频道",金华新闻综合
 http://www.nlmxy.top:4000/rtp/233.50.201.161:5140
-#EXTINF:-1 group-title="浙江频道",丽水新闻
+#EXTINF:-1 group-title="浙江频道",丽水新闻综合
 http://www.nlmxy.top:4000/rtp/233.50.201.162:5140
-#EXTINF:-1 group-title="浙江频道",嘉兴新闻
+#EXTINF:-1 group-title="浙江频道",嘉兴新闻综合
 http://www.nlmxy.top:4000/rtp/233.50.201.163:5140
-#EXTINF:-1 group-title="浙江频道",桐乡新闻
+#EXTINF:-1 group-title="浙江频道",桐乡新闻综合
 http://www.nlmxy.top:4000/rtp/233.50.201.169:5140
-#EXTINF:-1 group-title="浙江频道",绍兴新闻
+#EXTINF:-1 group-title="浙江频道",绍兴新闻综合
 http://www.nlmxy.top:4000/rtp/233.50.201.156:5140
 #EXTINF:-1 group-title="浙江频道",余杭新闻
 http://www.nlmxy.top:4000/rtp/233.50.201.159:5140
@@ -205,14 +205,14 @@ http://www.nlmxy.top:4000/rtp/233.50.201.179:5140
 http://www.nlmxy.top:4000/rtp/233.50.201.180:5140
 #EXTINF:-1 group-title="浙江频道",宁波少儿
 http://www.nlmxy.top:4000/rtp/233.50.201.181:5140
-#EXTINF:-1 group-title="浙江频道",衢州新闻
+#EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://www.nlmxy.top:4000/rtp/233.50.201.155:5140
-#EXTINF:-1 group-title="浙江频道",衢州新闻
+#EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://www.nlmxy.top:4000/rtp/233.50.202.11:5140
 #EXTINF:-1 group-title="浙江频道",衢州公共
 http://www.nlmxy.top:4000/rtp/233.50.202.12:5140
-#EXTINF:-1 group-title="浙江频道",湖州公共
-http://www.nlmxy.top:4000/rtp/233.50.201.158:5140
+#EXTINF:-1 group-title="浙江频道",湖州新闻综合
+http://www.nlmxy.top:4000/rtp/33.50.201.158:5140
 #EXTINF:-1 group-title="浙江频道",台州公共
 http://www.nlmxy.top:4000/rtp/233.50.201.157:5140
 #EXTINF:-1 group-title="浙江频道",临平新闻
@@ -465,15 +465,15 @@ http://hjro.cn:9999/rtp/233.50.201.138:5140
 http://hjro.cn:9999/rtp/233.50.202.25:5140
 #EXTINF:-1 group-title="浙江频道",温州新闻综合
 http://hjro.cn:9999/rtp/233.50.201.87:5140
-#EXTINF:-1 group-title="浙江频道",金华新闻
+#EXTINF:-1 group-title="浙江频道",金华新闻综合
 http://hjro.cn:9999/rtp/233.50.201.161:5140
-#EXTINF:-1 group-title="浙江频道",丽水新闻
+#EXTINF:-1 group-title="浙江频道",丽水新闻综合
 http://hjro.cn:9999/rtp/233.50.201.162:5140
-#EXTINF:-1 group-title="浙江频道",嘉兴新闻
+#EXTINF:-1 group-title="浙江频道",嘉兴新闻综合
 http://hjro.cn:9999/rtp/233.50.201.163:5140
-#EXTINF:-1 group-title="浙江频道",桐乡新闻
+#EXTINF:-1 group-title="浙江频道",桐乡新闻综合
 http://hjro.cn:9999/rtp/233.50.201.169:5140
-#EXTINF:-1 group-title="浙江频道",绍兴新闻
+#EXTINF:-1 group-title="浙江频道",绍兴新闻综合
 http://hjro.cn:9999/rtp/233.50.201.156:5140
 #EXTINF:-1 group-title="浙江频道",余杭新闻
 http://hjro.cn:9999/rtp/233.50.201.159:5140
@@ -499,14 +499,14 @@ http://hjro.cn:9999/rtp/233.50.201.179:5140
 http://hjro.cn:9999/rtp/233.50.201.180:5140
 #EXTINF:-1 group-title="浙江频道",宁波少儿
 http://hjro.cn:9999/rtp/233.50.201.181:5140
-#EXTINF:-1 group-title="浙江频道",衢州新闻
+#EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://hjro.cn:9999/rtp/233.50.201.155:5140
-#EXTINF:-1 group-title="浙江频道",衢州新闻
+#EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://hjro.cn:9999/rtp/233.50.202.11:5140
 #EXTINF:-1 group-title="浙江频道",衢州公共
 http://hjro.cn:9999/rtp/233.50.202.12:5140
-#EXTINF:-1 group-title="浙江频道",湖州公共
-http://hjro.cn:9999/rtp/233.50.201.158:5140
+#EXTINF:-1 group-title="浙江频道",湖州新闻综合
+http://hjro.cn:9999/rtp/33.50.201.158:5140
 #EXTINF:-1 group-title="浙江频道",台州公共
 http://hjro.cn:9999/rtp/233.50.201.157:5140
 #EXTINF:-1 group-title="浙江频道",临平新闻
@@ -759,15 +759,15 @@ http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.138:5140
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.25:5140
 #EXTINF:-1 group-title="浙江频道",温州新闻综合
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.87:5140
-#EXTINF:-1 group-title="浙江频道",金华新闻
+#EXTINF:-1 group-title="浙江频道",金华新闻综合
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.161:5140
-#EXTINF:-1 group-title="浙江频道",丽水新闻
+#EXTINF:-1 group-title="浙江频道",丽水新闻综合
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.162:5140
-#EXTINF:-1 group-title="浙江频道",嘉兴新闻
+#EXTINF:-1 group-title="浙江频道",嘉兴新闻综合
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.163:5140
-#EXTINF:-1 group-title="浙江频道",桐乡新闻
+#EXTINF:-1 group-title="浙江频道",桐乡新闻综合
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.169:5140
-#EXTINF:-1 group-title="浙江频道",绍兴新闻
+#EXTINF:-1 group-title="浙江频道",绍兴新闻综合
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.156:5140
 #EXTINF:-1 group-title="浙江频道",余杭新闻
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.159:5140
@@ -793,14 +793,14 @@ http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.179:5140
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.180:5140
 #EXTINF:-1 group-title="浙江频道",宁波少儿
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.181:5140
-#EXTINF:-1 group-title="浙江频道",衢州新闻
+#EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.155:5140
-#EXTINF:-1 group-title="浙江频道",衢州新闻
+#EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.11:5140
 #EXTINF:-1 group-title="浙江频道",衢州公共
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.12:5140
-#EXTINF:-1 group-title="浙江频道",湖州公共
-http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.158:5140
+#EXTINF:-1 group-title="浙江频道",湖州新闻综合
+http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/33.50.201.158:5140
 #EXTINF:-1 group-title="浙江频道",台州公共
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.157:5140
 #EXTINF:-1 group-title="浙江频道",临平新闻
@@ -1053,15 +1053,15 @@ http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.138:5140
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.25:5140
 #EXTINF:-1 group-title="浙江频道",温州新闻综合
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.87:5140
-#EXTINF:-1 group-title="浙江频道",金华新闻
+#EXTINF:-1 group-title="浙江频道",金华新闻综合
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.161:5140
-#EXTINF:-1 group-title="浙江频道",丽水新闻
+#EXTINF:-1 group-title="浙江频道",丽水新闻综合
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.162:5140
-#EXTINF:-1 group-title="浙江频道",嘉兴新闻
+#EXTINF:-1 group-title="浙江频道",嘉兴新闻综合
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.163:5140
-#EXTINF:-1 group-title="浙江频道",桐乡新闻
+#EXTINF:-1 group-title="浙江频道",桐乡新闻综合
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.169:5140
-#EXTINF:-1 group-title="浙江频道",绍兴新闻
+#EXTINF:-1 group-title="浙江频道",绍兴新闻综合
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.156:5140
 #EXTINF:-1 group-title="浙江频道",余杭新闻
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.159:5140
@@ -1087,14 +1087,14 @@ http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.179:5140
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.180:5140
 #EXTINF:-1 group-title="浙江频道",宁波少儿
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.181:5140
-#EXTINF:-1 group-title="浙江频道",衢州新闻
+#EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.155:5140
-#EXTINF:-1 group-title="浙江频道",衢州新闻
+#EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.11:5140
 #EXTINF:-1 group-title="浙江频道",衢州公共
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.12:5140
-#EXTINF:-1 group-title="浙江频道",湖州公共
-http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.158:5140
+#EXTINF:-1 group-title="浙江频道",湖州新闻综合
+http://www.eversouthhangzhou.org.cn:8188/rtp/33.50.201.158:5140
 #EXTINF:-1 group-title="浙江频道",台州公共
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.157:5140
 #EXTINF:-1 group-title="浙江频道",临平新闻
@@ -1347,15 +1347,15 @@ http://dknas.song.zj.cn:4043/rtp/233.50.201.138:5140
 http://dknas.song.zj.cn:4043/rtp/233.50.202.25:5140
 #EXTINF:-1 group-title="浙江频道",温州新闻综合
 http://dknas.song.zj.cn:4043/rtp/233.50.201.87:5140
-#EXTINF:-1 group-title="浙江频道",金华新闻
+#EXTINF:-1 group-title="浙江频道",金华新闻综合
 http://dknas.song.zj.cn:4043/rtp/233.50.201.161:5140
-#EXTINF:-1 group-title="浙江频道",丽水新闻
+#EXTINF:-1 group-title="浙江频道",丽水新闻综合
 http://dknas.song.zj.cn:4043/rtp/233.50.201.162:5140
-#EXTINF:-1 group-title="浙江频道",嘉兴新闻
+#EXTINF:-1 group-title="浙江频道",嘉兴新闻综合
 http://dknas.song.zj.cn:4043/rtp/233.50.201.163:5140
-#EXTINF:-1 group-title="浙江频道",桐乡新闻
+#EXTINF:-1 group-title="浙江频道",桐乡新闻综合
 http://dknas.song.zj.cn:4043/rtp/233.50.201.169:5140
-#EXTINF:-1 group-title="浙江频道",绍兴新闻
+#EXTINF:-1 group-title="浙江频道",绍兴新闻综合
 http://dknas.song.zj.cn:4043/rtp/233.50.201.156:5140
 #EXTINF:-1 group-title="浙江频道",余杭新闻
 http://dknas.song.zj.cn:4043/rtp/233.50.201.159:5140
@@ -1381,14 +1381,14 @@ http://dknas.song.zj.cn:4043/rtp/233.50.201.179:5140
 http://dknas.song.zj.cn:4043/rtp/233.50.201.180:5140
 #EXTINF:-1 group-title="浙江频道",宁波少儿
 http://dknas.song.zj.cn:4043/rtp/233.50.201.181:5140
-#EXTINF:-1 group-title="浙江频道",衢州新闻
+#EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://dknas.song.zj.cn:4043/rtp/233.50.201.155:5140
-#EXTINF:-1 group-title="浙江频道",衢州新闻
+#EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://dknas.song.zj.cn:4043/rtp/233.50.202.11:5140
 #EXTINF:-1 group-title="浙江频道",衢州公共
 http://dknas.song.zj.cn:4043/rtp/233.50.202.12:5140
-#EXTINF:-1 group-title="浙江频道",湖州公共
-http://dknas.song.zj.cn:4043/rtp/233.50.201.158:5140
+#EXTINF:-1 group-title="浙江频道",湖州新闻综合
+http://dknas.song.zj.cn:4043/rtp/33.50.201.158:5140
 #EXTINF:-1 group-title="浙江频道",台州公共
 http://dknas.song.zj.cn:4043/rtp/233.50.201.157:5140
 #EXTINF:-1 group-title="浙江频道",临平新闻
@@ -1641,15 +1641,15 @@ http://gilbert0571.eu.org:8888/rtp/233.50.201.138:5140
 http://gilbert0571.eu.org:8888/rtp/233.50.202.25:5140
 #EXTINF:-1 group-title="浙江频道",温州新闻综合
 http://gilbert0571.eu.org:8888/rtp/233.50.201.87:5140
-#EXTINF:-1 group-title="浙江频道",金华新闻
+#EXTINF:-1 group-title="浙江频道",金华新闻综合
 http://gilbert0571.eu.org:8888/rtp/233.50.201.161:5140
-#EXTINF:-1 group-title="浙江频道",丽水新闻
+#EXTINF:-1 group-title="浙江频道",丽水新闻综合
 http://gilbert0571.eu.org:8888/rtp/233.50.201.162:5140
-#EXTINF:-1 group-title="浙江频道",嘉兴新闻
+#EXTINF:-1 group-title="浙江频道",嘉兴新闻综合
 http://gilbert0571.eu.org:8888/rtp/233.50.201.163:5140
-#EXTINF:-1 group-title="浙江频道",桐乡新闻
+#EXTINF:-1 group-title="浙江频道",桐乡新闻综合
 http://gilbert0571.eu.org:8888/rtp/233.50.201.169:5140
-#EXTINF:-1 group-title="浙江频道",绍兴新闻
+#EXTINF:-1 group-title="浙江频道",绍兴新闻综合
 http://gilbert0571.eu.org:8888/rtp/233.50.201.156:5140
 #EXTINF:-1 group-title="浙江频道",余杭新闻
 http://gilbert0571.eu.org:8888/rtp/233.50.201.159:5140
@@ -1675,14 +1675,14 @@ http://gilbert0571.eu.org:8888/rtp/233.50.201.179:5140
 http://gilbert0571.eu.org:8888/rtp/233.50.201.180:5140
 #EXTINF:-1 group-title="浙江频道",宁波少儿
 http://gilbert0571.eu.org:8888/rtp/233.50.201.181:5140
-#EXTINF:-1 group-title="浙江频道",衢州新闻
+#EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://gilbert0571.eu.org:8888/rtp/233.50.201.155:5140
-#EXTINF:-1 group-title="浙江频道",衢州新闻
+#EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://gilbert0571.eu.org:8888/rtp/233.50.202.11:5140
 #EXTINF:-1 group-title="浙江频道",衢州公共
 http://gilbert0571.eu.org:8888/rtp/233.50.202.12:5140
-#EXTINF:-1 group-title="浙江频道",湖州公共
-http://gilbert0571.eu.org:8888/rtp/233.50.201.158:5140
+#EXTINF:-1 group-title="浙江频道",湖州新闻综合
+http://gilbert0571.eu.org:8888/rtp/33.50.201.158:5140
 #EXTINF:-1 group-title="浙江频道",台州公共
 http://gilbert0571.eu.org:8888/rtp/233.50.201.157:5140
 #EXTINF:-1 group-title="浙江频道",临平新闻
@@ -1935,15 +1935,15 @@ http://zjhuct.synology.me:8888/rtp/233.50.201.138:5140
 http://zjhuct.synology.me:8888/rtp/233.50.202.25:5140
 #EXTINF:-1 group-title="浙江频道",温州新闻综合
 http://zjhuct.synology.me:8888/rtp/233.50.201.87:5140
-#EXTINF:-1 group-title="浙江频道",金华新闻
+#EXTINF:-1 group-title="浙江频道",金华新闻综合
 http://zjhuct.synology.me:8888/rtp/233.50.201.161:5140
-#EXTINF:-1 group-title="浙江频道",丽水新闻
+#EXTINF:-1 group-title="浙江频道",丽水新闻综合
 http://zjhuct.synology.me:8888/rtp/233.50.201.162:5140
-#EXTINF:-1 group-title="浙江频道",嘉兴新闻
+#EXTINF:-1 group-title="浙江频道",嘉兴新闻综合
 http://zjhuct.synology.me:8888/rtp/233.50.201.163:5140
-#EXTINF:-1 group-title="浙江频道",桐乡新闻
+#EXTINF:-1 group-title="浙江频道",桐乡新闻综合
 http://zjhuct.synology.me:8888/rtp/233.50.201.169:5140
-#EXTINF:-1 group-title="浙江频道",绍兴新闻
+#EXTINF:-1 group-title="浙江频道",绍兴新闻综合
 http://zjhuct.synology.me:8888/rtp/233.50.201.156:5140
 #EXTINF:-1 group-title="浙江频道",余杭新闻
 http://zjhuct.synology.me:8888/rtp/233.50.201.159:5140
@@ -1969,14 +1969,14 @@ http://zjhuct.synology.me:8888/rtp/233.50.201.179:5140
 http://zjhuct.synology.me:8888/rtp/233.50.201.180:5140
 #EXTINF:-1 group-title="浙江频道",宁波少儿
 http://zjhuct.synology.me:8888/rtp/233.50.201.181:5140
-#EXTINF:-1 group-title="浙江频道",衢州新闻
+#EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://zjhuct.synology.me:8888/rtp/233.50.201.155:5140
-#EXTINF:-1 group-title="浙江频道",衢州新闻
+#EXTINF:-1 group-title="浙江频道",衢州新闻综合
 http://zjhuct.synology.me:8888/rtp/233.50.202.11:5140
 #EXTINF:-1 group-title="浙江频道",衢州公共
 http://zjhuct.synology.me:8888/rtp/233.50.202.12:5140
-#EXTINF:-1 group-title="浙江频道",湖州公共
-http://zjhuct.synology.me:8888/rtp/233.50.201.158:5140
+#EXTINF:-1 group-title="浙江频道",湖州新闻综合
+http://zjhuct.synology.me:8888/rtp/33.50.201.158:5140
 #EXTINF:-1 group-title="浙江频道",台州公共
 http://zjhuct.synology.me:8888/rtp/233.50.201.157:5140
 #EXTINF:-1 group-title="浙江频道",临平新闻
