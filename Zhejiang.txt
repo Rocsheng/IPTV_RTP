@@ -117,7 +117,6 @@ BesTV-3,http://dknas.song.zj.cn:4043/rtp/233.50.200.185:5140
 临平新闻,http://dknas.song.zj.cn:4043/rtp/233.50.202.32:5140
 纪实科教,http://dknas.song.zj.cn:4043/rtp/233.50.202.34:5140
 
-
 教育频道,#genre#
 CETV1,http://dknas.song.zj.cn:4043/rtp/233.50.200.169:5140
 CETV4,http://dknas.song.zj.cn:4043/rtp/233.50.200.162:5140
@@ -280,7 +279,6 @@ BesTV-3,http://gilbert0571.eu.org:8888/rtp/233.50.200.185:5140
 台州公共,http://gilbert0571.eu.org:8888/rtp/233.50.201.157:5140
 临平新闻,http://gilbert0571.eu.org:8888/rtp/233.50.202.32:5140
 纪实科教,http://gilbert0571.eu.org:8888/rtp/233.50.202.34:5140
-
 
 教育频道,#genre#
 CETV1,http://gilbert0571.eu.org:8888/rtp/233.50.200.169:5140
@@ -445,7 +443,6 @@ BesTV-3,http://zjhuct.synology.me:8888/rtp/233.50.200.185:5140
 临平新闻,http://zjhuct.synology.me:8888/rtp/233.50.202.32:5140
 纪实科教,http://zjhuct.synology.me:8888/rtp/233.50.202.34:5140
 
-
 教育频道,#genre#
 CETV1,http://zjhuct.synology.me:8888/rtp/233.50.200.169:5140
 CETV4,http://zjhuct.synology.me:8888/rtp/233.50.200.162:5140
@@ -608,7 +605,6 @@ BesTV-3,http://www.nlmxy.top:4000/rtp/233.50.200.185:5140
 台州公共,http://www.nlmxy.top:4000/rtp/233.50.201.157:5140
 临平新闻,http://www.nlmxy.top:4000/rtp/233.50.202.32:5140
 纪实科教,http://www.nlmxy.top:4000/rtp/233.50.202.34:5140
-
 
 教育频道,#genre#
 CETV1,http://www.nlmxy.top:4000/rtp/233.50.200.169:5140
@@ -773,7 +769,6 @@ BesTV-3,http://hjro.cn:9999/rtp/233.50.200.185:5140
 临平新闻,http://hjro.cn:9999/rtp/233.50.202.32:5140
 纪实科教,http://hjro.cn:9999/rtp/233.50.202.34:5140
 
-
 教育频道,#genre#
 CETV1,http://hjro.cn:9999/rtp/233.50.200.169:5140
 CETV4,http://hjro.cn:9999/rtp/233.50.200.162:5140
@@ -937,7 +932,6 @@ BesTV-3,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.185:5140
 临平新闻,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.32:5140
 纪实科教,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.34:5140
 
-
 教育频道,#genre#
 CETV1,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.169:5140
 CETV4,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.162:5140
@@ -1100,7 +1094,6 @@ BesTV-3,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.185:5140
 台州公共,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.157:5140
 临平新闻,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.32:5140
 纪实科教,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.34:5140
-
 
 教育频道,#genre#
 CETV1,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.169:5140
