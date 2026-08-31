@@ -37,13 +37,13 @@ http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
 http://www.nlmxy.top:4000/rtp/233.50.200.113:5140
 #EXTINF:-1 group-title="央视频道",CGTN
 http://www.nlmxy.top:4000/rtp/233.50.201.126:5140
-#EXTINF:-1 group-title="央视频道",CGTN西班牙语
+#EXTINF:-1 group-title="央视频道",CGTN西语
 http://www.nlmxy.top:4000/rtp/233.50.201.36:5140
 #EXTINF:-1 group-title="央视频道",CGTN法语
 http://www.nlmxy.top:4000/rtp/233.50.201.37:5140
-#EXTINF:-1 group-title="央视频道",CGTN阿拉伯语
+#EXTINF:-1 group-title="央视频道",CGTN阿语
 http://www.nlmxy.top:4000/rtp/233.50.201.38:5140
-#EXTINF:-1 group-title="央视频道",CGTN俄罗斯语
+#EXTINF:-1 group-title="央视频道",CGTN俄语
 http://www.nlmxy.top:4000/rtp/233.50.201.39:5140
 #EXTINF:-1 group-title="4K频道",CCTV16奥林匹克
 http://www.nlmxy.top:4000/rtp/233.50.201.63:5140
@@ -331,13 +331,13 @@ http://hjro.cn:9999/rtp/233.50.201.192:5140
 http://hjro.cn:9999/rtp/233.50.200.113:5140
 #EXTINF:-1 group-title="央视频道",CGTN
 http://hjro.cn:9999/rtp/233.50.201.126:5140
-#EXTINF:-1 group-title="央视频道",CGTN西班牙语
+#EXTINF:-1 group-title="央视频道",CGTN西语
 http://hjro.cn:9999/rtp/233.50.201.36:5140
 #EXTINF:-1 group-title="央视频道",CGTN法语
 http://hjro.cn:9999/rtp/233.50.201.37:5140
-#EXTINF:-1 group-title="央视频道",CGTN阿拉伯语
+#EXTINF:-1 group-title="央视频道",CGTN阿语
 http://hjro.cn:9999/rtp/233.50.201.38:5140
-#EXTINF:-1 group-title="央视频道",CGTN俄罗斯语
+#EXTINF:-1 group-title="央视频道",CGTN俄语
 http://hjro.cn:9999/rtp/233.50.201.39:5140
 #EXTINF:-1 group-title="4K频道",CCTV16奥林匹克
 http://hjro.cn:9999/rtp/233.50.201.63:5140
@@ -625,13 +625,13 @@ http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.192:5140
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.113:5140
 #EXTINF:-1 group-title="央视频道",CGTN
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.126:5140
-#EXTINF:-1 group-title="央视频道",CGTN西班牙语
+#EXTINF:-1 group-title="央视频道",CGTN西语
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.36:5140
 #EXTINF:-1 group-title="央视频道",CGTN法语
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.37:5140
-#EXTINF:-1 group-title="央视频道",CGTN阿拉伯语
+#EXTINF:-1 group-title="央视频道",CGTN阿语
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.38:5140
-#EXTINF:-1 group-title="央视频道",CGTN俄罗斯语
+#EXTINF:-1 group-title="央视频道",CGTN俄语
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.39:5140
 #EXTINF:-1 group-title="4K频道",CCTV16奥林匹克
 http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.63:5140
@@ -919,13 +919,13 @@ http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.192:5140
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.113:5140
 #EXTINF:-1 group-title="央视频道",CGTN
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.126:5140
-#EXTINF:-1 group-title="央视频道",CGTN西班牙语
+#EXTINF:-1 group-title="央视频道",CGTN西语
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.36:5140
 #EXTINF:-1 group-title="央视频道",CGTN法语
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.37:5140
-#EXTINF:-1 group-title="央视频道",CGTN阿拉伯语
+#EXTINF:-1 group-title="央视频道",CGTN阿语
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.38:5140
-#EXTINF:-1 group-title="央视频道",CGTN俄罗斯语
+#EXTINF:-1 group-title="央视频道",CGTN俄语
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.39:5140
 #EXTINF:-1 group-title="4K频道",CCTV16奥林匹克
 http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.63:5140
@@ -1213,13 +1213,13 @@ http://dknas.song.zj.cn:4043/rtp/233.50.201.192:5140
 http://dknas.song.zj.cn:4043/rtp/233.50.200.113:5140
 #EXTINF:-1 group-title="央视频道",CGTN
 http://dknas.song.zj.cn:4043/rtp/233.50.201.126:5140
-#EXTINF:-1 group-title="央视频道",CGTN西班牙语
+#EXTINF:-1 group-title="央视频道",CGTN西语
 http://dknas.song.zj.cn:4043/rtp/233.50.201.36:5140
 #EXTINF:-1 group-title="央视频道",CGTN法语
 http://dknas.song.zj.cn:4043/rtp/233.50.201.37:5140
-#EXTINF:-1 group-title="央视频道",CGTN阿拉伯语
+#EXTINF:-1 group-title="央视频道",CGTN阿语
 http://dknas.song.zj.cn:4043/rtp/233.50.201.38:5140
-#EXTINF:-1 group-title="央视频道",CGTN俄罗斯语
+#EXTINF:-1 group-title="央视频道",CGTN俄语
 http://dknas.song.zj.cn:4043/rtp/233.50.201.39:5140
 #EXTINF:-1 group-title="4K频道",CCTV16奥林匹克
 http://dknas.song.zj.cn:4043/rtp/233.50.201.63:5140
@@ -1507,13 +1507,13 @@ http://gilbert0571.eu.org:8888/rtp/233.50.201.192:5140
 http://gilbert0571.eu.org:8888/rtp/233.50.200.113:5140
 #EXTINF:-1 group-title="央视频道",CGTN
 http://gilbert0571.eu.org:8888/rtp/233.50.201.126:5140
-#EXTINF:-1 group-title="央视频道",CGTN西班牙语
+#EXTINF:-1 group-title="央视频道",CGTN西语
 http://gilbert0571.eu.org:8888/rtp/233.50.201.36:5140
 #EXTINF:-1 group-title="央视频道",CGTN法语
 http://gilbert0571.eu.org:8888/rtp/233.50.201.37:5140
-#EXTINF:-1 group-title="央视频道",CGTN阿拉伯语
+#EXTINF:-1 group-title="央视频道",CGTN阿语
 http://gilbert0571.eu.org:8888/rtp/233.50.201.38:5140
-#EXTINF:-1 group-title="央视频道",CGTN俄罗斯语
+#EXTINF:-1 group-title="央视频道",CGTN俄语
 http://gilbert0571.eu.org:8888/rtp/233.50.201.39:5140
 #EXTINF:-1 group-title="4K频道",CCTV16奥林匹克
 http://gilbert0571.eu.org:8888/rtp/233.50.201.63:5140
@@ -1801,13 +1801,13 @@ http://zjhuct.synology.me:8888/rtp/233.50.201.192:5140
 http://zjhuct.synology.me:8888/rtp/233.50.200.113:5140
 #EXTINF:-1 group-title="央视频道",CGTN
 http://zjhuct.synology.me:8888/rtp/233.50.201.126:5140
-#EXTINF:-1 group-title="央视频道",CGTN西班牙语
+#EXTINF:-1 group-title="央视频道",CGTN西语
 http://zjhuct.synology.me:8888/rtp/233.50.201.36:5140
 #EXTINF:-1 group-title="央视频道",CGTN法语
 http://zjhuct.synology.me:8888/rtp/233.50.201.37:5140
-#EXTINF:-1 group-title="央视频道",CGTN阿拉伯语
+#EXTINF:-1 group-title="央视频道",CGTN阿语
 http://zjhuct.synology.me:8888/rtp/233.50.201.38:5140
-#EXTINF:-1 group-title="央视频道",CGTN俄罗斯语
+#EXTINF:-1 group-title="央视频道",CGTN俄语
 http://zjhuct.synology.me:8888/rtp/233.50.201.39:5140
 #EXTINF:-1 group-title="4K频道",CCTV16奥林匹克
 http://zjhuct.synology.me:8888/rtp/233.50.201.63:5140
