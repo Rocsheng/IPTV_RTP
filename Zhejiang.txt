@@ -200,7 +200,7 @@ BesTV-3,http://hjro.cn:9999/rtp/233.50.200.185:5140
 江苏卫视,http://hjro.cn:9999/rtp/233.50.202.107:5140
 山东卫视,http://hjro.cn:9999/rtp/233.50.202.108:5140
 四川卫视,http://hjro.cn:9999/rtp/233.50.202.109:5140
-欢笑剧场,http://hjro.cn:9999/rtp/233.50.200.52:5140
+多彩文体,http://hjro.cn:9999/rtp/233.50.200.52:5140
 
 卫视频道,#genre#
 浙江卫视,http://hjro.cn:9999/rtp/233.50.201.100:5140
@@ -363,7 +363,7 @@ BesTV-3,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.185:5140
 江苏卫视,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.107:5140
 山东卫视,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.108:5140
 四川卫视,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.202.109:5140
-欢笑剧场,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.52:5140
+多彩文体,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.52:5140
 
 卫视频道,#genre#
 浙江卫视,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.100:5140
@@ -526,7 +526,7 @@ BesTV-3,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.185:5140
 江苏卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.107:5140
 山东卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.108:5140
 四川卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.109:5140
-欢笑剧场,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.52:5140
+多彩文体,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.52:5140
 
 卫视频道,#genre#
 浙江卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.100:5140
@@ -689,7 +689,7 @@ BesTV-3,http://dknas.song.zj.cn:4043/rtp/233.50.200.185:5140
 江苏卫视,http://dknas.song.zj.cn:4043/rtp/233.50.202.107:5140
 山东卫视,http://dknas.song.zj.cn:4043/rtp/233.50.202.108:5140
 四川卫视,http://dknas.song.zj.cn:4043/rtp/233.50.202.109:5140
-欢笑剧场,http://dknas.song.zj.cn:4043/rtp/233.50.200.52:5140
+多彩文体,http://dknas.song.zj.cn:4043/rtp/233.50.200.52:5140
 
 卫视频道,#genre#
 浙江卫视,http://dknas.song.zj.cn:4043/rtp/233.50.201.100:5140
@@ -852,7 +852,7 @@ BesTV-3,http://gilbert0571.eu.org:8888/rtp/233.50.200.185:5140
 江苏卫视,http://gilbert0571.eu.org:8888/rtp/233.50.202.107:5140
 山东卫视,http://gilbert0571.eu.org:8888/rtp/233.50.202.108:5140
 四川卫视,http://gilbert0571.eu.org:8888/rtp/233.50.202.109:5140
-欢笑剧场,http://gilbert0571.eu.org:8888/rtp/233.50.200.52:5140
+多彩文体,http://gilbert0571.eu.org:8888/rtp/233.50.200.52:5140
 
 卫视频道,#genre#
 浙江卫视,http://gilbert0571.eu.org:8888/rtp/233.50.201.100:5140
@@ -1015,7 +1015,7 @@ BesTV-3,http://zjhuct.synology.me:8888/rtp/233.50.200.185:5140
 江苏卫视,http://zjhuct.synology.me:8888/rtp/233.50.202.107:5140
 山东卫视,http://zjhuct.synology.me:8888/rtp/233.50.202.108:5140
 四川卫视,http://zjhuct.synology.me:8888/rtp/233.50.202.109:5140
-欢笑剧场,http://zjhuct.synology.me:8888/rtp/233.50.200.52:5140
+多彩文体,http://zjhuct.synology.me:8888/rtp/233.50.200.52:5140
 
 卫视频道,#genre#
 浙江卫视,http://zjhuct.synology.me:8888/rtp/233.50.201.100:5140
