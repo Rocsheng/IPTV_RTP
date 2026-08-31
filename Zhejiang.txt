@@ -18,10 +18,10 @@ CCTV15音乐,http://www.nlmxy.top:4000/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
 CCTV17农业农村,http://www.nlmxy.top:4000/rtp/233.50.200.113:5140
 CGTN,http://www.nlmxy.top:4000/rtp/233.50.201.126:5140
-CGTN西班牙语,http://www.nlmxy.top:4000/rtp/233.50.201.36:5140
+CGTN西语,http://www.nlmxy.top:4000/rtp/233.50.201.36:5140
 CGTN法语,http://www.nlmxy.top:4000/rtp/233.50.201.37:5140
-CGTN阿拉伯语,http://www.nlmxy.top:4000/rtp/233.50.201.38:5140
-CGTN俄罗斯语,http://www.nlmxy.top:4000/rtp/233.50.201.39:5140
+CGTN阿语,http://www.nlmxy.top:4000/rtp/233.50.201.38:5140
+CGTN俄语,http://www.nlmxy.top:4000/rtp/233.50.201.39:5140
 
 4K频道,#genre#
 CCTV16奥林匹克,http://www.nlmxy.top:4000/rtp/233.50.201.63:5140
@@ -37,7 +37,7 @@ BesTV-3,http://www.nlmxy.top:4000/rtp/233.50.200.185:5140
 江苏卫视,http://www.nlmxy.top:4000/rtp/233.50.202.107:5140
 山东卫视,http://www.nlmxy.top:4000/rtp/233.50.202.108:5140
 四川卫视,http://www.nlmxy.top:4000/rtp/233.50.202.109:5140
-欢笑剧场,http://www.nlmxy.top:4000/rtp/233.50.200.52:5140
+多彩文体,http://www.nlmxy.top:4000/rtp/233.50.200.52:5140
 
 卫视频道,#genre#
 浙江卫视,http://www.nlmxy.top:4000/rtp/233.50.201.100:5140
@@ -181,10 +181,10 @@ CCTV15音乐,http://hjro.cn:9999/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://hjro.cn:9999/rtp/233.50.201.192:5140
 CCTV17农业农村,http://hjro.cn:9999/rtp/233.50.200.113:5140
 CGTN,http://hjro.cn:9999/rtp/233.50.201.126:5140
-CGTN西班牙语,http://hjro.cn:9999/rtp/233.50.201.36:5140
+CGTN西语,http://hjro.cn:9999/rtp/233.50.201.36:5140
 CGTN法语,http://hjro.cn:9999/rtp/233.50.201.37:5140
-CGTN阿拉伯语,http://hjro.cn:9999/rtp/233.50.201.38:5140
-CGTN俄罗斯语,http://hjro.cn:9999/rtp/233.50.201.39:5140
+CGTN阿语,http://hjro.cn:9999/rtp/233.50.201.38:5140
+CGTN俄语,http://hjro.cn:9999/rtp/233.50.201.39:5140
 
 4K频道,#genre#
 CCTV16奥林匹克,http://hjro.cn:9999/rtp/233.50.201.63:5140
@@ -344,10 +344,10 @@ CCTV15音乐,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.133:51
 CCTV16奥林匹克,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.192:5140
 CCTV17农业农村,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.113:5140
 CGTN,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.126:5140
-CGTN西班牙语,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.36:5140
+CGTN西语,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.36:5140
 CGTN法语,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.37:5140
-CGTN阿拉伯语,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.38:5140
-CGTN俄罗斯语,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.39:5140
+CGTN阿语,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.38:5140
+CGTN俄语,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.39:5140
 
 4K频道,#genre#
 CCTV16奥林匹克,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.63:5140
@@ -507,10 +507,10 @@ CCTV15音乐,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.192:5140
 CCTV17农业农村,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.113:5140
 CGTN,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.126:5140
-CGTN西班牙语,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.36:5140
+CGTN西语,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.36:5140
 CGTN法语,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.37:5140
-CGTN阿拉伯语,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.38:5140
-CGTN俄罗斯语,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.39:5140
+CGTN阿语,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.38:5140
+CGTN俄语,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.39:5140
 
 4K频道,#genre#
 CCTV16奥林匹克,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.63:5140
@@ -670,10 +670,10 @@ CCTV15音乐,http://dknas.song.zj.cn:4043/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://dknas.song.zj.cn:4043/rtp/233.50.201.192:5140
 CCTV17农业农村,http://dknas.song.zj.cn:4043/rtp/233.50.200.113:5140
 CGTN,http://dknas.song.zj.cn:4043/rtp/233.50.201.126:5140
-CGTN西班牙语,http://dknas.song.zj.cn:4043/rtp/233.50.201.36:5140
+CGTN西语,http://dknas.song.zj.cn:4043/rtp/233.50.201.36:5140
 CGTN法语,http://dknas.song.zj.cn:4043/rtp/233.50.201.37:5140
-CGTN阿拉伯语,http://dknas.song.zj.cn:4043/rtp/233.50.201.38:5140
-CGTN俄罗斯语,http://dknas.song.zj.cn:4043/rtp/233.50.201.39:5140
+CGTN阿语,http://dknas.song.zj.cn:4043/rtp/233.50.201.38:5140
+CGTN俄语,http://dknas.song.zj.cn:4043/rtp/233.50.201.39:5140
 
 4K频道,#genre#
 CCTV16奥林匹克,http://dknas.song.zj.cn:4043/rtp/233.50.201.63:5140
@@ -833,10 +833,10 @@ CCTV15音乐,http://gilbert0571.eu.org:8888/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://gilbert0571.eu.org:8888/rtp/233.50.201.192:5140
 CCTV17农业农村,http://gilbert0571.eu.org:8888/rtp/233.50.200.113:5140
 CGTN,http://gilbert0571.eu.org:8888/rtp/233.50.201.126:5140
-CGTN西班牙语,http://gilbert0571.eu.org:8888/rtp/233.50.201.36:5140
+CGTN西语,http://gilbert0571.eu.org:8888/rtp/233.50.201.36:5140
 CGTN法语,http://gilbert0571.eu.org:8888/rtp/233.50.201.37:5140
-CGTN阿拉伯语,http://gilbert0571.eu.org:8888/rtp/233.50.201.38:5140
-CGTN俄罗斯语,http://gilbert0571.eu.org:8888/rtp/233.50.201.39:5140
+CGTN阿语,http://gilbert0571.eu.org:8888/rtp/233.50.201.38:5140
+CGTN俄语,http://gilbert0571.eu.org:8888/rtp/233.50.201.39:5140
 
 4K频道,#genre#
 CCTV16奥林匹克,http://gilbert0571.eu.org:8888/rtp/233.50.201.63:5140
@@ -996,10 +996,10 @@ CCTV15音乐,http://zjhuct.synology.me:8888/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://zjhuct.synology.me:8888/rtp/233.50.201.192:5140
 CCTV17农业农村,http://zjhuct.synology.me:8888/rtp/233.50.200.113:5140
 CGTN,http://zjhuct.synology.me:8888/rtp/233.50.201.126:5140
-CGTN西班牙语,http://zjhuct.synology.me:8888/rtp/233.50.201.36:5140
+CGTN西语,http://zjhuct.synology.me:8888/rtp/233.50.201.36:5140
 CGTN法语,http://zjhuct.synology.me:8888/rtp/233.50.201.37:5140
-CGTN阿拉伯语,http://zjhuct.synology.me:8888/rtp/233.50.201.38:5140
-CGTN俄罗斯语,http://zjhuct.synology.me:8888/rtp/233.50.201.39:5140
+CGTN阿语,http://zjhuct.synology.me:8888/rtp/233.50.201.38:5140
+CGTN俄语,http://zjhuct.synology.me:8888/rtp/233.50.201.39:5140
 
 4K频道,#genre#
 CCTV16奥林匹克,http://zjhuct.synology.me:8888/rtp/233.50.201.63:5140
