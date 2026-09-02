@@ -24,7 +24,7 @@ CGTN阿语,http://www.nlmxy.top:4000/rtp/233.50.201.38:5140
 CGTN俄语,http://www.nlmxy.top:4000/rtp/233.50.201.39:5140
 
 4K频道,#genre#
-CCTV16奥林匹克,http://www.nlmxy.top:4000/rtp/233.50.201.63:5140
+CCTV16奥林匹克4K,http://www.nlmxy.top:4000/rtp/233.50.201.63:5140
 BesTV-1,http://www.nlmxy.top:4000/rtp/233.50.200.182:5140
 BesTV-2,http://www.nlmxy.top:4000/rtp/233.50.200.183:5140
 BesTV-3,http://www.nlmxy.top:4000/rtp/233.50.200.185:5140
@@ -187,7 +187,7 @@ CGTN阿语,http://hjro.cn:9999/rtp/233.50.201.38:5140
 CGTN俄语,http://hjro.cn:9999/rtp/233.50.201.39:5140
 
 4K频道,#genre#
-CCTV16奥林匹克,http://hjro.cn:9999/rtp/233.50.201.63:5140
+CCTV16奥林匹克4K,http://hjro.cn:9999/rtp/233.50.201.63:5140
 BesTV-1,http://hjro.cn:9999/rtp/233.50.200.182:5140
 BesTV-2,http://hjro.cn:9999/rtp/233.50.200.183:5140
 BesTV-3,http://hjro.cn:9999/rtp/233.50.200.185:5140
@@ -350,7 +350,7 @@ CGTN阿语,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.38:5140
 CGTN俄语,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.39:5140
 
 4K频道,#genre#
-CCTV16奥林匹克,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.63:5140
+CCTV16奥林匹克4K,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.201.63:5140
 BesTV-1,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.182:5140
 BesTV-2,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.183:5140
 BesTV-3,http://jellyfin.eversouthhangzhou.com.cn:8188/rtp/233.50.200.185:5140
@@ -513,7 +513,7 @@ CGTN阿语,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.38:5140
 CGTN俄语,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.39:5140
 
 4K频道,#genre#
-CCTV16奥林匹克,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.63:5140
+CCTV16奥林匹克4K,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.63:5140
 BesTV-1,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.182:5140
 BesTV-2,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.183:5140
 BesTV-3,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.185:5140
@@ -676,7 +676,7 @@ CGTN阿语,http://dknas.song.zj.cn:4043/rtp/233.50.201.38:5140
 CGTN俄语,http://dknas.song.zj.cn:4043/rtp/233.50.201.39:5140
 
 4K频道,#genre#
-CCTV16奥林匹克,http://dknas.song.zj.cn:4043/rtp/233.50.201.63:5140
+CCTV16奥林匹克4K,http://dknas.song.zj.cn:4043/rtp/233.50.201.63:5140
 BesTV-1,http://dknas.song.zj.cn:4043/rtp/233.50.200.182:5140
 BesTV-2,http://dknas.song.zj.cn:4043/rtp/233.50.200.183:5140
 BesTV-3,http://dknas.song.zj.cn:4043/rtp/233.50.200.185:5140
@@ -839,7 +839,7 @@ CGTN阿语,http://gilbert0571.eu.org:8888/rtp/233.50.201.38:5140
 CGTN俄语,http://gilbert0571.eu.org:8888/rtp/233.50.201.39:5140
 
 4K频道,#genre#
-CCTV16奥林匹克,http://gilbert0571.eu.org:8888/rtp/233.50.201.63:5140
+CCTV16奥林匹克4K,http://gilbert0571.eu.org:8888/rtp/233.50.201.63:5140
 BesTV-1,http://gilbert0571.eu.org:8888/rtp/233.50.200.182:5140
 BesTV-2,http://gilbert0571.eu.org:8888/rtp/233.50.200.183:5140
 BesTV-3,http://gilbert0571.eu.org:8888/rtp/233.50.200.185:5140
@@ -1002,7 +1002,7 @@ CGTN阿语,http://zjhuct.synology.me:8888/rtp/233.50.201.38:5140
 CGTN俄语,http://zjhuct.synology.me:8888/rtp/233.50.201.39:5140
 
 4K频道,#genre#
-CCTV16奥林匹克,http://zjhuct.synology.me:8888/rtp/233.50.201.63:5140
+CCTV16奥林匹克4K,http://zjhuct.synology.me:8888/rtp/233.50.201.63:5140
 BesTV-1,http://zjhuct.synology.me:8888/rtp/233.50.200.182:5140
 BesTV-2,http://zjhuct.synology.me:8888/rtp/233.50.200.183:5140
 BesTV-3,http://zjhuct.synology.me:8888/rtp/233.50.200.185:5140
