@@ -1493,15 +1493,15 @@ CETV4,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.200.174:5140
 家有购物,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.201.90:5140
 
 4K频道,#genre#
-东方卫视,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.105:5140
-北京卫视,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.100:5140
-四川卫视,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.109:5140
-山东卫视,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.108:5140
-广东卫视,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.101:5140
-江苏卫视,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.107:5140
-浙江卫视,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.104:5140
-深圳卫视,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.102:5140
-湖南卫视,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.106:5140
+东方卫视4K,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.105:5140
+北京卫视4K,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.100:5140
+四川卫视4K,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.109:5140
+山东卫视4K,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.108:5140
+广东卫视4K,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.101:5140
+江苏卫视4K,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.107:5140
+浙江卫视4K,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.104:5140
+深圳卫视4K,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.102:5140
+湖南卫视4K,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.106:5140
 
 特色频道,#genre#
 BesTV,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.201.201:5140
@@ -1664,15 +1664,15 @@ CETV4,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.174:5140
 家有购物,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.90:5140
 
 4K频道,#genre#
-东方卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.105:5140
-北京卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.100:5140
-四川卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.109:5140
-山东卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.108:5140
-广东卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.101:5140
-江苏卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.107:5140
-浙江卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.104:5140
-深圳卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.102:5140
-湖南卫视,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.106:5140
+东方卫视4K,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.105:5140
+北京卫视4K,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.100:5140
+四川卫视4K,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.109:5140
+山东卫视4K,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.108:5140
+广东卫视4K,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.101:5140
+江苏卫视4K,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.107:5140
+浙江卫视4K,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.104:5140
+深圳卫视4K,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.102:5140
+湖南卫视4K,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.106:5140
 
 特色频道,#genre#
 BesTV,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.201:5140
@@ -1835,15 +1835,15 @@ CETV4,http://www.tangtuanpp.fun:4000/rtp/233.50.200.174:5140
 家有购物,http://www.tangtuanpp.fun:4000/rtp/233.50.201.90:5140
 
 4K频道,#genre#
-东方卫视,http://www.tangtuanpp.fun:4000/rtp/233.50.202.105:5140
-北京卫视,http://www.tangtuanpp.fun:4000/rtp/233.50.202.100:5140
-四川卫视,http://www.tangtuanpp.fun:4000/rtp/233.50.202.109:5140
-山东卫视,http://www.tangtuanpp.fun:4000/rtp/233.50.202.108:5140
-广东卫视,http://www.tangtuanpp.fun:4000/rtp/233.50.202.101:5140
-江苏卫视,http://www.tangtuanpp.fun:4000/rtp/233.50.202.107:5140
-浙江卫视,http://www.tangtuanpp.fun:4000/rtp/233.50.202.104:5140
-深圳卫视,http://www.tangtuanpp.fun:4000/rtp/233.50.202.102:5140
-湖南卫视,http://www.tangtuanpp.fun:4000/rtp/233.50.202.106:5140
+东方卫视4K,http://www.tangtuanpp.fun:4000/rtp/233.50.202.105:5140
+北京卫视4K,http://www.tangtuanpp.fun:4000/rtp/233.50.202.100:5140
+四川卫视4K,http://www.tangtuanpp.fun:4000/rtp/233.50.202.109:5140
+山东卫视4K,http://www.tangtuanpp.fun:4000/rtp/233.50.202.108:5140
+广东卫视4K,http://www.tangtuanpp.fun:4000/rtp/233.50.202.101:5140
+江苏卫视4K,http://www.tangtuanpp.fun:4000/rtp/233.50.202.107:5140
+浙江卫视4K,http://www.tangtuanpp.fun:4000/rtp/233.50.202.104:5140
+深圳卫视4K,http://www.tangtuanpp.fun:4000/rtp/233.50.202.102:5140
+湖南卫视4K,http://www.tangtuanpp.fun:4000/rtp/233.50.202.106:5140
 
 特色频道,#genre#
 BesTV,http://www.tangtuanpp.fun:4000/rtp/233.50.201.201:5140
