@@ -16,7 +16,6 @@ CCTV13新闻,http://yun.cnlvan.cn:18888/rtp/233.50.201.246:5140
 CCTV14少儿,http://yun.cnlvan.cn:18888/rtp/233.50.201.124:5140
 CCTV15音乐,http://yun.cnlvan.cn:18888/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://yun.cnlvan.cn:18888/rtp/233.50.201.192:5140
-CCTV16奥林匹克4K,http://yun.cnlvan.cn:18888/rtp/233.50.201.63:5140
 CCTV17农业农村,http://yun.cnlvan.cn:18888/rtp/233.50.200.113:5140
 CGTN,http://yun.cnlvan.cn:18888/rtp/233.50.201.126:5140
 CGTN俄语,http://yun.cnlvan.cn:18888/rtp/233.50.201.39:5140
@@ -125,6 +124,7 @@ CETV4,http://yun.cnlvan.cn:18888/rtp/233.50.200.174:5140
 家有购物,http://yun.cnlvan.cn:18888/rtp/233.50.201.90:5140
 
 4K频道,#genre#
+CCTV16 4K,http://yun.cnlvan.cn:18888/rtp/233.50.201.63:5140
 北京卫视4K,http://yun.cnlvan.cn:18888/rtp/233.50.202.100:5140
 广东卫视4K,http://yun.cnlvan.cn:18888/rtp/233.50.202.101:5140
 深圳卫视4K,http://yun.cnlvan.cn:18888/rtp/233.50.202.102:5140
@@ -187,7 +187,6 @@ CCTV13新闻,http://tt.lqddb.com:44022/rtp/233.50.201.246:5140
 CCTV14少儿,http://tt.lqddb.com:44022/rtp/233.50.201.124:5140
 CCTV15音乐,http://tt.lqddb.com:44022/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://tt.lqddb.com:44022/rtp/233.50.201.192:5140
-CCTV16奥林匹克4K,http://tt.lqddb.com:44022/rtp/233.50.201.63:5140
 CCTV17农业农村,http://tt.lqddb.com:44022/rtp/233.50.200.113:5140
 CGTN,http://tt.lqddb.com:44022/rtp/233.50.201.126:5140
 CGTN俄语,http://tt.lqddb.com:44022/rtp/233.50.201.39:5140
@@ -296,6 +295,7 @@ CETV4,http://tt.lqddb.com:44022/rtp/233.50.200.174:5140
 家有购物,http://tt.lqddb.com:44022/rtp/233.50.201.90:5140
 
 4K频道,#genre#
+CCTV16 4K,http://tt.lqddb.com:44022/rtp/233.50.201.63:5140
 北京卫视4K,http://tt.lqddb.com:44022/rtp/233.50.202.100:5140
 广东卫视4K,http://tt.lqddb.com:44022/rtp/233.50.202.101:5140
 深圳卫视4K,http://tt.lqddb.com:44022/rtp/233.50.202.102:5140
@@ -358,7 +358,6 @@ CCTV13新闻,http://chunjian.3322.org:4000/rtp/233.50.201.246:5140
 CCTV14少儿,http://chunjian.3322.org:4000/rtp/233.50.201.124:5140
 CCTV15音乐,http://chunjian.3322.org:4000/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://chunjian.3322.org:4000/rtp/233.50.201.192:5140
-CCTV16奥林匹克4K,http://chunjian.3322.org:4000/rtp/233.50.201.63:5140
 CCTV17农业农村,http://chunjian.3322.org:4000/rtp/233.50.200.113:5140
 CGTN,http://chunjian.3322.org:4000/rtp/233.50.201.126:5140
 CGTN俄语,http://chunjian.3322.org:4000/rtp/233.50.201.39:5140
@@ -467,6 +466,7 @@ CETV4,http://chunjian.3322.org:4000/rtp/233.50.200.174:5140
 家有购物,http://chunjian.3322.org:4000/rtp/233.50.201.90:5140
 
 4K频道,#genre#
+CCTV16 4K,http://chunjian.3322.org:4000/rtp/233.50.201.63:5140
 北京卫视4K,http://chunjian.3322.org:4000/rtp/233.50.202.100:5140
 广东卫视4K,http://chunjian.3322.org:4000/rtp/233.50.202.101:5140
 深圳卫视4K,http://chunjian.3322.org:4000/rtp/233.50.202.102:5140
@@ -529,7 +529,6 @@ CCTV13新闻,http://www.nlmxy.top:4000/rtp/233.50.201.246:5140
 CCTV14少儿,http://www.nlmxy.top:4000/rtp/233.50.201.124:5140
 CCTV15音乐,http://www.nlmxy.top:4000/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://www.nlmxy.top:4000/rtp/233.50.201.192:5140
-CCTV16奥林匹克4K,http://www.nlmxy.top:4000/rtp/233.50.201.63:5140
 CCTV17农业农村,http://www.nlmxy.top:4000/rtp/233.50.200.113:5140
 CGTN,http://www.nlmxy.top:4000/rtp/233.50.201.126:5140
 CGTN俄语,http://www.nlmxy.top:4000/rtp/233.50.201.39:5140
@@ -638,6 +637,7 @@ CETV4,http://www.nlmxy.top:4000/rtp/233.50.200.174:5140
 家有购物,http://www.nlmxy.top:4000/rtp/233.50.201.90:5140
 
 4K频道,#genre#
+CCTV16 4K,http://www.nlmxy.top:4000/rtp/233.50.201.63:5140
 北京卫视4K,http://www.nlmxy.top:4000/rtp/233.50.202.100:5140
 广东卫视4K,http://www.nlmxy.top:4000/rtp/233.50.202.101:5140
 深圳卫视4K,http://www.nlmxy.top:4000/rtp/233.50.202.102:5140
@@ -700,7 +700,6 @@ CCTV13新闻,http://hzmaidu.com:8090/rtp/233.50.201.246:5140
 CCTV14少儿,http://hzmaidu.com:8090/rtp/233.50.201.124:5140
 CCTV15音乐,http://hzmaidu.com:8090/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://hzmaidu.com:8090/rtp/233.50.201.192:5140
-CCTV16奥林匹克4K,http://hzmaidu.com:8090/rtp/233.50.201.63:5140
 CCTV17农业农村,http://hzmaidu.com:8090/rtp/233.50.200.113:5140
 CGTN,http://hzmaidu.com:8090/rtp/233.50.201.126:5140
 CGTN俄语,http://hzmaidu.com:8090/rtp/233.50.201.39:5140
@@ -809,6 +808,7 @@ CETV4,http://hzmaidu.com:8090/rtp/233.50.200.174:5140
 家有购物,http://hzmaidu.com:8090/rtp/233.50.201.90:5140
 
 4K频道,#genre#
+CCTV16 4K,http://hzmaidu.com:8090/rtp/233.50.201.63:5140
 北京卫视4K,http://hzmaidu.com:8090/rtp/233.50.202.100:5140
 广东卫视4K,http://hzmaidu.com:8090/rtp/233.50.202.101:5140
 深圳卫视4K,http://hzmaidu.com:8090/rtp/233.50.202.102:5140
@@ -871,7 +871,6 @@ CCTV13新闻,http://slq888.cn:9999/rtp/233.50.201.246:5140
 CCTV14少儿,http://slq888.cn:9999/rtp/233.50.201.124:5140
 CCTV15音乐,http://slq888.cn:9999/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://slq888.cn:9999/rtp/233.50.201.192:5140
-CCTV16奥林匹克4K,http://slq888.cn:9999/rtp/233.50.201.63:5140
 CCTV17农业农村,http://slq888.cn:9999/rtp/233.50.200.113:5140
 CGTN,http://slq888.cn:9999/rtp/233.50.201.126:5140
 CGTN俄语,http://slq888.cn:9999/rtp/233.50.201.39:5140
@@ -980,6 +979,7 @@ CETV4,http://slq888.cn:9999/rtp/233.50.200.174:5140
 家有购物,http://slq888.cn:9999/rtp/233.50.201.90:5140
 
 4K频道,#genre#
+CCTV16 4K,http://slq888.cn:9999/rtp/233.50.201.63:5140
 北京卫视4K,http://slq888.cn:9999/rtp/233.50.202.100:5140
 广东卫视4K,http://slq888.cn:9999/rtp/233.50.202.101:5140
 深圳卫视4K,http://slq888.cn:9999/rtp/233.50.202.102:5140
@@ -1042,7 +1042,6 @@ CCTV13新闻,http://dnfking.softether.net:8022/rtp/233.50.201.246:5140
 CCTV14少儿,http://dnfking.softether.net:8022/rtp/233.50.201.124:5140
 CCTV15音乐,http://dnfking.softether.net:8022/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://dnfking.softether.net:8022/rtp/233.50.201.192:5140
-CCTV16奥林匹克4K,http://dnfking.softether.net:8022/rtp/233.50.201.63:5140
 CCTV17农业农村,http://dnfking.softether.net:8022/rtp/233.50.200.113:5140
 CGTN,http://dnfking.softether.net:8022/rtp/233.50.201.126:5140
 CGTN俄语,http://dnfking.softether.net:8022/rtp/233.50.201.39:5140
@@ -1151,6 +1150,7 @@ CETV4,http://dnfking.softether.net:8022/rtp/233.50.200.174:5140
 家有购物,http://dnfking.softether.net:8022/rtp/233.50.201.90:5140
 
 4K频道,#genre#
+CCTV16 4K,http://dnfking.softether.net:8022/rtp/233.50.201.63:5140
 北京卫视4K,http://dnfking.softether.net:8022/rtp/233.50.202.100:5140
 广东卫视4K,http://dnfking.softether.net:8022/rtp/233.50.202.101:5140
 深圳卫视4K,http://dnfking.softether.net:8022/rtp/233.50.202.102:5140
@@ -1213,7 +1213,6 @@ CCTV13新闻,http://zjhuct.synology.me:8888/rtp/233.50.201.246:5140
 CCTV14少儿,http://zjhuct.synology.me:8888/rtp/233.50.201.124:5140
 CCTV15音乐,http://zjhuct.synology.me:8888/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://zjhuct.synology.me:8888/rtp/233.50.201.192:5140
-CCTV16奥林匹克4K,http://zjhuct.synology.me:8888/rtp/233.50.201.63:5140
 CCTV17农业农村,http://zjhuct.synology.me:8888/rtp/233.50.200.113:5140
 CGTN,http://zjhuct.synology.me:8888/rtp/233.50.201.126:5140
 CGTN俄语,http://zjhuct.synology.me:8888/rtp/233.50.201.39:5140
@@ -1322,6 +1321,7 @@ CETV4,http://zjhuct.synology.me:8888/rtp/233.50.200.174:5140
 家有购物,http://zjhuct.synology.me:8888/rtp/233.50.201.90:5140
 
 4K频道,#genre#
+CCTV16 4K,http://zjhuct.synology.me:8888/rtp/233.50.201.63:5140
 北京卫视4K,http://zjhuct.synology.me:8888/rtp/233.50.202.100:5140
 广东卫视4K,http://zjhuct.synology.me:8888/rtp/233.50.202.101:5140
 深圳卫视4K,http://zjhuct.synology.me:8888/rtp/233.50.202.102:5140
@@ -1384,7 +1384,6 @@ CCTV13新闻,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.201.246:5
 CCTV14少儿,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.201.124:5140
 CCTV15音乐,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.201.192:5140
-CCTV16奥林匹克4K,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.201.63:5140
 CCTV17农业农村,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.200.113:5140
 CGTN,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.201.126:5140
 CGTN俄语,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.201.39:5140
@@ -1493,6 +1492,7 @@ CETV4,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.200.174:5140
 家有购物,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.201.90:5140
 
 4K频道,#genre#
+CCTV16 4K,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.201.63:5140
 东方卫视4K,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.105:5140
 北京卫视4K,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.100:5140
 四川卫视4K,http://portainer.eversouthhangzhou.com.cn:8188/rtp/233.50.202.109:5140
@@ -1555,7 +1555,6 @@ CCTV13新闻,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.246:5140
 CCTV14少儿,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.124:5140
 CCTV15音乐,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.192:5140
-CCTV16奥林匹克4K,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.63:5140
 CCTV17农业农村,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.113:5140
 CGTN,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.126:5140
 CGTN俄语,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.39:5140
@@ -1664,6 +1663,7 @@ CETV4,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.200.174:5140
 家有购物,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.90:5140
 
 4K频道,#genre#
+CCTV16 4K,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.201.63:5140
 东方卫视4K,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.105:5140
 北京卫视4K,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.100:5140
 四川卫视4K,http://www.eversouthhangzhou.org.cn:8188/rtp/233.50.202.109:5140
@@ -1726,7 +1726,6 @@ CCTV13新闻,http://www.tangtuanpp.fun:4000/rtp/233.50.201.246:5140
 CCTV14少儿,http://www.tangtuanpp.fun:4000/rtp/233.50.201.124:5140
 CCTV15音乐,http://www.tangtuanpp.fun:4000/rtp/233.50.200.133:5140
 CCTV16奥林匹克,http://www.tangtuanpp.fun:4000/rtp/233.50.201.192:5140
-CCTV16奥林匹克4K,http://www.tangtuanpp.fun:4000/rtp/233.50.201.63:5140
 CCTV17农业农村,http://www.tangtuanpp.fun:4000/rtp/233.50.200.113:5140
 CGTN,http://www.tangtuanpp.fun:4000/rtp/233.50.201.126:5140
 CGTN俄语,http://www.tangtuanpp.fun:4000/rtp/233.50.201.39:5140
@@ -1835,6 +1834,7 @@ CETV4,http://www.tangtuanpp.fun:4000/rtp/233.50.200.174:5140
 家有购物,http://www.tangtuanpp.fun:4000/rtp/233.50.201.90:5140
 
 4K频道,#genre#
+CCTV16 4K,http://www.tangtuanpp.fun:4000/rtp/233.50.201.63:5140
 东方卫视4K,http://www.tangtuanpp.fun:4000/rtp/233.50.202.105:5140
 北京卫视4K,http://www.tangtuanpp.fun:4000/rtp/233.50.202.100:5140
 四川卫视4K,http://www.tangtuanpp.fun:4000/rtp/233.50.202.109:5140
